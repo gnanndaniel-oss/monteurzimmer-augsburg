@@ -1,10 +1,11 @@
 import { setRequestLocale } from 'next-intl/server';
 import CategoryPage from '@/components/CategoryPage';
+import { generateAlternates, generateOgMeta } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const m = (await import(`../../../../messages/${locale}.json`)).default;
-  return { title: m.meta.titleHouse, description: m.housePage.desc };
+  const title = m.meta.titleHouse; const desc = m.housePage.desc; return { title, description: desc, alternates: generateAlternates('monteurhaus-augsburg', locale), openGraph: generateOgMeta(title, desc, 'monteurhaus-augsburg', locale) };
 }
 
 export default async function MonteurhausPage({ params }: { params: Promise<{ locale: string }> }) {

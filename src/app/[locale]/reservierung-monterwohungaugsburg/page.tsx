@@ -2,11 +2,12 @@ import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import ContactForm from '@/components/ContactForm';
 import { CONTACT } from '@/lib/constants';
+import { generateAlternates, generateOgMeta } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const m = (await import(`../../../../messages/${locale}.json`)).default;
-  return { title: m.meta.titleReservation, description: m.form.subtitle };
+  const title = m.meta.titleReservation; const desc = m.form.subtitle; return { title, description: desc, alternates: generateAlternates('reservierung-monterwohungaugsburg', locale), openGraph: generateOgMeta(title, desc, 'reservierung-monterwohungaugsburg', locale) };
 }
 
 export default async function ReservationPage({ params }: { params: Promise<{ locale: string }> }) {

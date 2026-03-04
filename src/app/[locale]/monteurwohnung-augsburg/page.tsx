@@ -1,10 +1,11 @@
 import { setRequestLocale } from 'next-intl/server';
 import CategoryPage from '@/components/CategoryPage';
+import { generateAlternates, generateOgMeta } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const m = (await import(`../../../../messages/${locale}.json`)).default;
-  return { title: m.meta.titleApartment, description: m.apartmentPage.desc };
+  const title = m.meta.titleApartment; const desc = m.apartmentPage.desc; return { title, description: desc, alternates: generateAlternates('monteurwohnung-augsburg', locale), openGraph: generateOgMeta(title, desc, 'monteurwohnung-augsburg', locale) };
 }
 
 export default async function MonteurwohnungPage({ params }: { params: Promise<{ locale: string }> }) {

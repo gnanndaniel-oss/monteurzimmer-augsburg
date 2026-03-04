@@ -2,11 +2,12 @@ import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { CONTACT } from '@/lib/constants';
+import { generateAlternates, generateOgMeta } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const m = (await import(`../../../../messages/${locale}.json`)).default;
-  return { title: m.meta.titleFair, description: m.fair.desc };
+  const title = m.meta.titleFair; const desc = m.fair.desc; return { title, description: desc, alternates: generateAlternates('messe-monteurzimmer-augsburg', locale), openGraph: generateOgMeta(title, desc, 'messe-monteurzimmer-augsburg', locale) };
 }
 
 export default async function FairPage({ params }: { params: Promise<{ locale: string }> }) {

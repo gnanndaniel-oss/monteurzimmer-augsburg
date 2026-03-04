@@ -23,37 +23,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const t = messages.meta;
 
   return {
-    title: t.title,
-    description: t.description,
     metadataBase: new URL(SITE_URL),
+    title: {
+      default: t.title,
+      template: '%s | Monteurzimmer Augsburg',
+    },
+    description: t.description,
     icons: {
       icon: '/favicon.ico',
-    },
-    alternates: {
-      canonical: SITE_URL,
-      languages: {
-        de: SITE_URL,
-        en: `${SITE_URL}/en/`,
-        pl: `${SITE_URL}/pl/`,
-        cs: `${SITE_URL}/cs/`,
-        ro: `${SITE_URL}/ro/`,
-      },
-    },
-    openGraph: {
-      title: t.title,
-      description: t.description,
-      url: SITE_URL,
-      siteName: 'Monteurzimmer Augsburg',
-      locale: locale === 'de' ? 'de_DE' : locale,
-      type: 'website',
-      images: [
-        {
-          url: `${SITE_URL}/attachments/Image/Monteurwohnung_Augsburg__1-13.jpg`,
-          width: 1200,
-          height: 630,
-          alt: 'Monteurzimmer Augsburg',
-        },
-      ],
     },
     other: {
       'geo.region': 'DE-BY',

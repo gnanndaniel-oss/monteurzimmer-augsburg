@@ -1,11 +1,23 @@
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
-import { ROOMS, CONTACT } from '@/lib/constants';
+import { ROOMS, CONTACT, SITE_URL } from '@/lib/constants';
+import { generateAlternates, generateOgMeta } from '@/lib/seo';
 
 type Props = {
   params: Promise<{ locale: string }>;
 };
+
+export async function generateMetadata({ params }: Props) {
+  const { locale } = await params;
+  const m = (await import(`../../../messages/${locale}.json`)).default;
+  return {
+    title: m.meta.title,
+    description: m.meta.description,
+    alternates: generateAlternates('', locale),
+    openGraph: generateOgMeta(m.meta.title, m.meta.description, '', locale),
+  };
+}
 
 export default async function HomePage({ params }: Props) {
   const { locale } = await params;
@@ -196,7 +208,7 @@ function HomeContent() {
         </div>
       </section>
 
-      {/* FAQ */}
+      {/* FAQ + FAQPage Schema */}
       <section className="py-16 bg-white" id="faq">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold text-slate-900 mb-10 text-center">{t('faq.title')}</h2>
@@ -216,6 +228,23 @@ function HomeContent() {
             ))}
           </div>
         </div>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'FAQPage',
+              mainEntity: [1, 2, 3, 4, 5].map((i) => ({
+                '@type': 'Question',
+                name: t(`faq.q${i}`),
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: t(`faq.a${i}`),
+                },
+              })),
+            }),
+          }}
+        />
       </section>
 
       {/* CTA */}

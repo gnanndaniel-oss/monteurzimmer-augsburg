@@ -2,11 +2,12 @@ import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { ROOMS } from '@/lib/constants';
+import { generateAlternates, generateOgMeta } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const messages = (await import(`../../../../messages/${locale}.json`)).default;
-  return { title: messages.meta.titleRooms, description: messages.meta.description };
+  const title = messages.meta.titleRooms; const desc = messages.rooms.subtitle; return { title, description: desc, alternates: generateAlternates('monteurzimmer-augsburg', locale), openGraph: generateOgMeta(title, desc, 'monteurzimmer-augsburg', locale) };
 }
 
 export default async function RoomsPage({ params }: { params: Promise<{ locale: string }> }) {

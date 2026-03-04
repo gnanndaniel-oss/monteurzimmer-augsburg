@@ -1,10 +1,11 @@
 import { setRequestLocale } from 'next-intl/server';
 import RoomDetailPage from '@/components/RoomDetailPage';
+import { generateAlternates, generateOgMeta } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const m = (await import(`../../../../../messages/${locale}.json`)).default;
-  return { title: `${m.rooms.st5300.name} – ${m.rooms.st5300.code}`, description: m.rooms.st5300.desc };
+  const title = `${m.rooms.st5300.name} – ${m.rooms.st5300.code}`; const desc = m.rooms.st5300.desc; return { title, description: desc, alternates: generateAlternates('monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300', locale), openGraph: generateOgMeta(title, desc, 'monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300', locale) };
 }
 
 export default async function ST5300({ params }: { params: Promise<{ locale: string }> }) {

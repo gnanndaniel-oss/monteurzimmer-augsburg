@@ -1,11 +1,12 @@
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import { CONTACT } from '@/lib/constants';
+import { generateAlternates } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const m = (await import(`../../../../messages/${locale}.json`)).default;
-  return { title: m.meta.titlePrivacy };
+  return { title: m.meta.titlePrivacy, alternates: generateAlternates('datenschutz', locale) };
 }
 
 export default async function PrivacyPage({ params }: { params: Promise<{ locale: string }> }) {

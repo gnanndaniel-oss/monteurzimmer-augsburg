@@ -1,11 +1,12 @@
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import { CONTACT } from '@/lib/constants';
+import { generateAlternates } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const m = (await import(`../../../../messages/${locale}.json`)).default;
-  return { title: m.meta.titleImprint };
+  return { title: m.meta.titleImprint, alternates: generateAlternates('impressum-montuerzimmer-augsburg', locale) };
 }
 
 export default async function ImprintPage({ params }: { params: Promise<{ locale: string }> }) {
