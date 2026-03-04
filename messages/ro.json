@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "title": "Camere pentru muncitori Augsburg de la 12€/noapte | Cazare pentru montori",
+    "description": "Camere și apartamente ieftine pentru muncitori în centrul Augsburgului. De la 12€/pers./noapte. Complet mobilate, WiFi, parcare. Rezervați direct la proprietar.",
+    "titleRooms": "Camere pentru muncitori Augsburg – Prezentare camere",
+    "titleApartment": "Apartamente pentru muncitori Augsburg – Apartamente mobilate",
+    "titleMonteurapartment": "Apartamente pentru muncitori Augsburg",
+    "titleHouse": "Case pentru muncitori Augsburg – Cazare pentru echipe",
+    "titleReservation": "Rezervare – Camere pentru muncitori Augsburg",
+    "titleFair": "Cazare pentru târg Augsburg – Camere pentru expozanți",
+    "titleImprint": "Impressum – Camere pentru muncitori Augsburg",
+    "titlePrivacy": "Politica de confidențialitate – Camere pentru muncitori Augsburg"
+  },
+  "nav": {
+    "home": "Acasă",
+    "rooms": "Camere",
+    "apartment": "Apartamente",
+    "monteurapartment": "Garsoniere",
+    "house": "Case",
+    "reservation": "Rezervare",
+    "fair": "Târg",
+    "imprint": "Impressum",
+    "privacy": "Confidențialitate",
+    "callUs": "Sunați-ne",
+    "bookNow": "Rezervați"
+  },
+  "hero": {
+    "title": "Camere și apartamente pentru muncitori în Augsburg",
+    "subtitle": "Ne asigurăm că vă simțiți ca acasă, chiar și departe de casă.",
+    "cta": "Solicitați o cameră",
+    "fromPrice": "de la 12€ / persoană / noapte"
+  },
+  "features": {
+    "wifi": "WiFi rapid",
+    "wifiDesc": "Internet gratuit de mare viteză în toate camerele și spațiile comune.",
+    "tv": "Televizor LCD",
+    "tvDesc": "TV cu ecran plat în fiecare cameră și în spațiile comune.",
+    "kitchen": "Bucătărie complet echipată",
+    "kitchenDesc": "Bucătărie cu aragaz, cuptor, microunde, veselă și frigider.",
+    "cleaning": "Curățenie săptămânală",
+    "cleaningDesc": "Curățenie regulată și lenjerie proaspătă incluse.",
+    "washing": "Mașină de spălat",
+    "washingDesc": "Mașină de spălat și uscător disponibile la cerere.",
+    "parking": "Parcare",
+    "parkingDesc": "Locuri de parcare gratuite direct la clădire."
+  },
+  "pricing": {
+    "title": "Prețurile noastre",
+    "subtitle": "Prețuri transparente – rezervați direct la proprietar, fără comisioane.",
+    "shared": "Apartament (de la 10 pers.)",
+    "sharedPrice": "de la 12€",
+    "multi": "Cameră cu paturi multiple",
+    "multiPrice": "de la 15€",
+    "double": "Cameră dublă",
+    "doublePrice": "de la 18€",
+    "single": "Cameră single",
+    "singlePrice": "de la 25€",
+    "perPerson": "per persoană / noapte",
+    "seasonNote": "Prețurile variază în funcție de sezon și gradul de ocupare.",
+    "apartmentTitle": "Apartamente și case",
+    "apt4": "Apartament 4 persoane",
+    "apt4Price": "de la 60€/zi",
+    "apt6": "Apartament 6 persoane",
+    "apt6Price": "de la 90€/zi",
+    "apt10": "Apartament 10 persoane",
+    "apt10Price": "de la 150€/zi",
+    "apt20": "Casă 20 persoane",
+    "apt20Price": "de la 200€/zi",
+    "aptSingle": "Apartament 1 persoană",
+    "aptSinglePrice": "de la 30€/zi",
+    "apt2": "Apartament 2 persoane",
+    "apt2Price": "de la 50€/zi",
+    "apt4Small": "Apartament 4 persoane",
+    "apt4SmallPrice": "de la 80€/zi",
+    "house7": "Casă 7 persoane",
+    "house7Price": "de la 120€/zi",
+    "house13": "Casă 13 persoane",
+    "house13Price": "de la 175€/zi",
+    "house16": "Casă 16 persoane",
+    "house16Price": "de la 200€/zi"
+  },
+  "rooms": {
+    "title": "Camerele noastre pentru muncitori",
+    "subtitle": "Patru unități complet mobilate în locație centrală în Augsburg.",
+    "st5100": {
+      "name": "Cameră muncitori Augsburg I",
+      "code": "ST5-100",
+      "desc": "Camere single, duble și triple. Disponibil ca apartament pentru max. 6 persoane.",
+      "capacity": "Până la 6 persoane"
+    },
+    "st5200": {
+      "name": "Cameră muncitori Augsburg II",
+      "code": "ST5-200",
+      "desc": "Camere single, duble și triple. Disponibil ca apartament pentru max. 7 persoane.",
+      "capacity": "Până la 7 persoane"
+    },
+    "st5300": {
+      "name": "Cameră muncitori Augsburg III",
+      "code": "ST5-300",
+      "desc": "Camere single, duble și triple. Disponibil ca locuință partajată pentru max. 7 persoane.",
+      "capacity": "Până la 7 persoane"
+    },
+    "st5400": {
+      "name": "Cameră muncitori Augsburg IV",
+      "code": "ST5-400",
+      "desc": "Camere single, duble și triple. Disponibil ca apartament pentru max. 12 persoane.",
+      "capacity": "Până la 12 persoane"
+    },
+    "details": "Vezi detalii",
+    "amenities": "Dotări",
+    "gallery": "Galerie foto",
+    "location": "Locație",
+    "address": "Stiermannstraße 5, 86154 Augsburg"
+  },
+  "location": {
+    "title": "Locație centrală în Augsburg",
+    "desc": "Cazarea noastră se află pe Barfüßerstraße 7 în inima Augsburgului. Aproape de transport public, magazine și restaurante. Ideal pentru meșteșugari, montori și echipe de proiect.",
+    "nearFair": "Doar 15 minute până la Messe Augsburg",
+    "nearCenter": "Direct în centrul Augsburgului",
+    "nearTransport": "Transport public la ușă",
+    "nearHighway": "Acces rapid la A8 și B17"
+  },
+  "faq": {
+    "title": "Întrebări frecvente",
+    "q1": "Care sunt orele de check-in și check-out?",
+    "a1": "Check-in de la ora 14:00, check-out până la ora 10:00. Ore flexibile la cerere.",
+    "q2": "Există o ședere minimă?",
+    "a2": "Nu, închiriem de la o singură noapte. Pentru șederi mai lungi oferim tarife speciale.",
+    "q3": "Este disponibilă parcarea?",
+    "a3": "Da, locuri de parcare gratuite sunt disponibile direct la clădire.",
+    "q4": "Pot rezerva pentru echipa mea?",
+    "a4": "Desigur! Oferim cazare pentru persoane individuale și echipe de până la 20 persoane.",
+    "q5": "Sunt furnizate lenjeria și prosoapele?",
+    "a5": "Da, lenjeria și prosoapele sunt incluse și schimbate săptămânal."
+  },
+  "contact": {
+    "title": "Contact",
+    "phone": "+49 (0) 821 419028-28",
+    "fax": "+49 (0) 821 419028-13",
+    "address": "Barfüßerstraße 7, 86150 Augsburg",
+    "company": "Gnann Verwaltung GmbH"
+  },
+  "form": {
+    "title": "Solicitare de rezervare",
+    "subtitle": "Completați formularul și vă vom contacta cât mai curând posibil.",
+    "company": "Firmă",
+    "companyPlaceholder": "Numele firmei (opțional)",
+    "name": "Nume și prenume",
+    "namePlaceholder": "Ion Popescu",
+    "phone": "Număr de telefon",
+    "phonePlaceholder": "+40 ...",
+    "email": "Adresă de e-mail",
+    "emailPlaceholder": "dvs@email.ro",
+    "roomType": "Tip de cazare",
+    "roomTypeOptions": {
+      "zimmer": "Cameră pentru muncitori",
+      "wohnung": "Apartament pentru muncitori",
+      "apartment": "Garsonieră",
+      "haus": "Casă pentru muncitori"
+    },
+    "roomCount": "Număr de camere",
+    "persons": "Număr de persoane",
+    "arrival": "Data sosirii",
+    "duration": "Durata șederii (zile)",
+    "message": "Mesaj / Observații",
+    "messagePlaceholder": "Dorințe speciale sau întrebări ...",
+    "submit": "Trimite cererea",
+    "sending": "Se trimite ...",
+    "success": "Mulțumim! Cererea dvs. a fost trimisă cu succes. Vă vom contacta în curând.",
+    "error": "A apărut o problemă. Încercați din nou sau sunați-ne.",
+    "required": "Câmp obligatoriu"
+  },
+  "fair": {
+    "title": "Cazare pentru târg Augsburg",
+    "desc": "Cazare ieftină pentru expozanți, muncitori și vizitatori ai Messe Augsburg. Camerele noastre sunt la doar 15 minute de târg.",
+    "advantages": "Avantajele dvs.",
+    "adv1": "Doar 15 minute până la Messe Augsburg",
+    "adv2": "Mai ieftin decât hotelurile în timpul târgului",
+    "adv3": "Complet mobilat cu bucătărie — economisiți la mese",
+    "adv4": "Perioade flexibile de rezervare",
+    "adv5": "Parcare gratuită"
+  },
+  "apartmentPage": {
+    "title": "Apartamente pentru muncitori în Augsburg",
+    "desc": "Apartamente complet mobilate pentru 4 până la 20 persoane. Ideale pentru echipe și șederi mai lungi de proiect."
+  },
+  "monteurapartmentPage": {
+    "title": "Garsoniere pentru muncitori în Augsburg",
+    "desc": "Garsoniere mobilate pentru 1 până la 4 persoane. Ideale pentru persoane individuale sau echipe mici."
+  },
+  "housePage": {
+    "title": "Case pentru muncitori în Augsburg",
+    "desc": "Case întregi pentru echipe de 7 până la 16 persoane. Cu grădină, grătar și parcare."
+  },
+  "footer": {
+    "rights": "Toate drepturile rezervate.",
+    "imprint": "Impressum",
+    "privacy": "Confidențialitate"
+  },
+  "cookie": {
+    "text": "Folosim cookie-uri pentru a vă oferi cea mai bună experiență pe site-ul nostru.",
+    "accept": "Acceptă",
+    "decline": "Refuză",
+    "moreInfo": "Mai multe informații"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "responsible": "Responsabil conform § 5 TMG",
+    "contact": "Contact",
+    "register": "Registrul comerțului",
+    "registerCourt": "Tribunalul Augsburg",
+    "vatId": "CUI",
+    "vatNote": "Număr de identificare TVA conform § 27a din legea TVA",
+    "dispute": "Soluționarea litigiilor",
+    "disputeText": "Comisia Europeană oferă o platformă pentru soluționarea litigiilor online (OS): https://ec.europa.eu/consumers/odr/."
+  },
+  "privacy": {
+    "title": "Politica de confidențialitate",
+    "intro": "Luăm foarte în serios protecția datelor dvs. personale. Tratăm datele dvs. confidențial și în conformitate cu reglementările privind protecția datelor."
+  }
+}

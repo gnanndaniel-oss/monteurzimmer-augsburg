@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "title": "Monteurzimmer Augsburg ab 12€/Nacht | Monteurwohnung & Apartment",
+    "description": "Günstige Monteurzimmer & Monteurwohnungen in Augsburg-Zentrum. Ab 12€/Person/Nacht. Voll möbliert, WLAN, Parkplatz. Direkt beim Vermieter buchen.",
+    "titleRooms": "Monteurzimmer Augsburg – Zimmerübersicht",
+    "titleApartment": "Monteurwohnung Augsburg – Möblierte Wohnungen für Monteure",
+    "titleMonteurapartment": "Monteurapartment Augsburg – Apartments für Handwerker",
+    "titleHouse": "Monteurhaus Augsburg – Unterkünfte für Teams & Gruppen",
+    "titleReservation": "Reservierung – Monteurzimmer Augsburg buchen",
+    "titleFair": "Messe-Monteurzimmer Augsburg – Unterkunft zur Messe",
+    "titleImprint": "Impressum – Monteurzimmer Augsburg",
+    "titlePrivacy": "Datenschutzerklärung – Monteurzimmer Augsburg"
+  },
+  "nav": {
+    "home": "Startseite",
+    "rooms": "Monteurzimmer",
+    "apartment": "Monteurwohnung",
+    "monteurapartment": "Monteurapartment",
+    "house": "Monteurhaus",
+    "reservation": "Reservierung",
+    "fair": "Messe",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "callUs": "Jetzt anrufen",
+    "bookNow": "Jetzt buchen"
+  },
+  "hero": {
+    "title": "Monteurzimmer & Monteurwohnungen in Augsburg",
+    "subtitle": "Wir sorgen dafür, dass Sie sich auch in der Ferne ganz wie zu Hause fühlen.",
+    "cta": "Zimmer anfragen",
+    "fromPrice": "ab 12€ / Person / Nacht"
+  },
+  "features": {
+    "wifi": "Highspeed WLAN",
+    "wifiDesc": "Kostenloses Highspeed-Internet in allen Zimmern und Gemeinschaftsräumen.",
+    "tv": "LCD-Fernseher",
+    "tvDesc": "Flachbild-TV in jedem Zimmer und in den Gemeinschaftsräumen.",
+    "kitchen": "Voll ausgestattete Küche",
+    "kitchenDesc": "Küche mit Herd, Ofen, Mikrowelle, Geschirr und Kühlschrank.",
+    "cleaning": "Wöchentliche Reinigung",
+    "cleaningDesc": "Regelmäßige Reinigung und frische Bettwäsche inklusive.",
+    "washing": "Waschmaschine",
+    "washingDesc": "Waschmaschine und Trockner auf Anfrage verfügbar.",
+    "parking": "Parkplätze",
+    "parkingDesc": "Kostenlose Parkplätze direkt am Haus."
+  },
+  "pricing": {
+    "title": "Unsere Preise",
+    "subtitle": "Transparente Preise – direkt beim Vermieter buchen, ohne Vermittlungsgebühren.",
+    "shared": "Wohnung (ab 10 Pers.)",
+    "sharedPrice": "ab 12€",
+    "multi": "Mehrbettzimmer",
+    "multiPrice": "ab 15€",
+    "double": "Doppelzimmer",
+    "doublePrice": "ab 18€",
+    "single": "Einzelzimmer",
+    "singlePrice": "ab 25€",
+    "perPerson": "pro Person / Nacht",
+    "seasonNote": "Preise variieren je nach Saison und Auslastung.",
+    "apartmentTitle": "Wohnungen & Häuser",
+    "apt4": "4-Personen-Wohnung",
+    "apt4Price": "ab 60€/Tag",
+    "apt6": "6-Personen-Wohnung",
+    "apt6Price": "ab 90€/Tag",
+    "apt10": "10-Personen-Wohnung",
+    "apt10Price": "ab 150€/Tag",
+    "apt20": "20-Personen-Haus",
+    "apt20Price": "ab 200€/Tag",
+    "aptSingle": "1-Personen-Apartment",
+    "aptSinglePrice": "ab 30€/Tag",
+    "apt2": "2-Personen-Apartment",
+    "apt2Price": "ab 50€/Tag",
+    "apt4Small": "4-Personen-Apartment",
+    "apt4SmallPrice": "ab 80€/Tag",
+    "house7": "7-Personen-Haus",
+    "house7Price": "ab 120€/Tag",
+    "house13": "13-Personen-Haus",
+    "house13Price": "ab 175€/Tag",
+    "house16": "16-Personen-Haus",
+    "house16Price": "ab 200€/Tag"
+  },
+  "rooms": {
+    "title": "Unsere Monteurzimmer",
+    "subtitle": "Vier voll möblierte Einheiten in zentraler Lage in Augsburg.",
+    "st5100": {
+      "name": "Monteurzimmer Augsburg I",
+      "code": "ST5-100",
+      "desc": "Einzel-, Doppel- und Dreibettzimmer. Als Wohnung für bis zu 6 Personen mietbar.",
+      "capacity": "Bis zu 6 Personen"
+    },
+    "st5200": {
+      "name": "Monteurzimmer Augsburg II",
+      "code": "ST5-200",
+      "desc": "Einzel-, Doppel- und Dreibettzimmer. Als Wohnung für bis zu 7 Personen mietbar.",
+      "capacity": "Bis zu 7 Personen"
+    },
+    "st5300": {
+      "name": "Monteurzimmer Augsburg III",
+      "code": "ST5-300",
+      "desc": "Einzel-, Doppel- und Dreibettzimmer. Als WG für bis zu 7 Personen mietbar.",
+      "capacity": "Bis zu 7 Personen"
+    },
+    "st5400": {
+      "name": "Monteurzimmer Augsburg IV",
+      "code": "ST5-400",
+      "desc": "Einzel-, Doppel- und Dreibettzimmer. Als Wohnung für bis zu 12 Personen mietbar.",
+      "capacity": "Bis zu 12 Personen"
+    },
+    "details": "Details ansehen",
+    "amenities": "Ausstattung",
+    "gallery": "Bildergalerie",
+    "location": "Lage",
+    "address": "Stiermannstraße 5, 86154 Augsburg"
+  },
+  "location": {
+    "title": "Zentrale Lage in Augsburg",
+    "desc": "Unsere Unterkünfte befinden sich in der Barfüßerstraße 7 im Herzen von Augsburg. In unmittelbarer Nähe zu öffentlichen Verkehrsmitteln, Einkaufsmöglichkeiten und Restaurants. Ideal für Handwerker, Monteure und Projektteams.",
+    "nearFair": "Nur 15 Minuten zur Messe Augsburg",
+    "nearCenter": "Direkt in der Augsburger Innenstadt",
+    "nearTransport": "Öffentliche Verkehrsmittel vor der Tür",
+    "nearHighway": "Schnelle Anbindung an A8 und B17"
+  },
+  "faq": {
+    "title": "Häufige Fragen",
+    "q1": "Ab wann kann ich ein- und auschecken?",
+    "a1": "Check-in ist ab 14:00 Uhr möglich, Check-out bis 10:00 Uhr. Flexible Zeiten nach Absprache.",
+    "q2": "Gibt es eine Mindestaufenthaltsdauer?",
+    "a2": "Nein, wir vermieten bereits ab einer Nacht. Bei längeren Aufenthalten bieten wir Sonderkonditionen.",
+    "q3": "Sind Parkplätze vorhanden?",
+    "a3": "Ja, kostenlose Parkplätze stehen direkt am Haus zur Verfügung.",
+    "q4": "Kann ich auch für mein Team buchen?",
+    "a4": "Selbstverständlich! Wir bieten Unterkünfte für einzelne Personen bis hin zu ganzen Teams mit bis zu 20 Personen.",
+    "q5": "Wird Bettwäsche und Handtücher gestellt?",
+    "a5": "Ja, Bettwäsche und Handtücher sind inklusive und werden wöchentlich gewechselt."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "phone": "+49 (0) 821 419028-28",
+    "fax": "+49 (0) 821 419028-13",
+    "address": "Barfüßerstraße 7, 86150 Augsburg",
+    "company": "Gnann Verwaltung GmbH"
+  },
+  "form": {
+    "title": "Reservierung anfragen",
+    "subtitle": "Füllen Sie das Formular aus und wir melden uns schnellstmöglich bei Ihnen.",
+    "company": "Firma",
+    "companyPlaceholder": "Firmenname (optional)",
+    "name": "Name / Vorname",
+    "namePlaceholder": "Max Mustermann",
+    "phone": "Telefonnummer",
+    "phonePlaceholder": "+49 ...",
+    "email": "E-Mail-Adresse",
+    "emailPlaceholder": "ihre@email.de",
+    "roomType": "Art der Übernachtung",
+    "roomTypeOptions": {
+      "zimmer": "Monteurzimmer",
+      "wohnung": "Monteurwohnung",
+      "apartment": "Monteurapartment",
+      "haus": "Monteurhaus"
+    },
+    "roomCount": "Anzahl Zimmer",
+    "persons": "Anzahl Personen",
+    "arrival": "Anreisedatum",
+    "duration": "Aufenthaltsdauer (Tage)",
+    "message": "Nachricht / Anmerkung",
+    "messagePlaceholder": "Besondere Wünsche oder Fragen ...",
+    "submit": "Anfrage absenden",
+    "sending": "Wird gesendet ...",
+    "success": "Vielen Dank! Ihre Anfrage wurde erfolgreich gesendet. Wir melden uns in Kürze.",
+    "error": "Es gab ein Problem. Bitte versuchen Sie es erneut oder rufen Sie uns an.",
+    "required": "Pflichtfeld"
+  },
+  "fair": {
+    "title": "Messe-Monteurzimmer Augsburg",
+    "desc": "Günstige Unterkünfte für Aussteller, Monteure und Besucher der Messe Augsburg. Unsere Zimmer befinden sich nur 15 Minuten von der Messe entfernt und sind ideal für mehrtägige Messeaufenthalte.",
+    "advantages": "Ihre Vorteile",
+    "adv1": "Nur 15 Minuten zur Messe Augsburg",
+    "adv2": "Günstigere Preise als Hotels während der Messezeit",
+    "adv3": "Voll möbliert mit Küche — sparen Sie bei der Verpflegung",
+    "adv4": "Flexible Buchungszeiträume — auch einzelne Messetage möglich",
+    "adv5": "Kostenlose Parkplätze"
+  },
+  "apartmentPage": {
+    "title": "Monteurwohnungen in Augsburg",
+    "desc": "Komplett möblierte Wohnungen für 4 bis 20 Personen. Ideal für Teams und längere Projektaufenthalte. Jede Wohnung verfügt über eine voll ausgestattete Küche, WLAN und wöchentliche Reinigung."
+  },
+  "monteurapartmentPage": {
+    "title": "Monteurapartments in Augsburg",
+    "desc": "Möblierte Apartments für 1 bis 4 Personen. Perfekt für Einzelpersonen oder kleine Teams, die eine eigenständige Unterkunft bevorzugen."
+  },
+  "housePage": {
+    "title": "Monteurhäuser in Augsburg",
+    "desc": "Ganze Häuser für Teams von 7 bis 16 Personen. Mit Garten, Grillplatz und ausreichend Parkplätzen. Ideal für größere Projektteams."
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "cookie": {
+    "text": "Wir verwenden Cookies, um Ihnen die bestmögliche Erfahrung auf unserer Website zu bieten.",
+    "accept": "Akzeptieren",
+    "decline": "Ablehnen",
+    "moreInfo": "Mehr erfahren"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "responsible": "Verantwortlich gemäß § 5 TMG",
+    "contact": "Kontakt",
+    "register": "Handelsregister",
+    "registerCourt": "Amtsgericht Augsburg",
+    "vatId": "Umsatzsteuer-ID",
+    "vatNote": "Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz",
+    "dispute": "Streitschlichtung",
+    "disputeText": "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/. Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "intro": "Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung."
+  }
+}

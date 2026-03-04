@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "title": "Montážní pokoje Augsburg od 12€/noc | Ubytování pro montéry",
+    "description": "Levné pokoje a byty pro montéry v centru Augsburgu. Od 12€/os./noc. Plně vybavené, WiFi, parkování. Rezervujte přímo u pronajímatele.",
+    "titleRooms": "Montážní pokoje Augsburg – Přehled pokojů",
+    "titleApartment": "Byty pro montéry Augsburg – Zařízené byty",
+    "titleMonteurapartment": "Apartmány pro montéry Augsburg",
+    "titleHouse": "Domy pro montéry Augsburg – Ubytování pro týmy",
+    "titleReservation": "Rezervace – Montážní pokoje Augsburg",
+    "titleFair": "Ubytování na veletrh Augsburg – Pokoje pro vystavovatele",
+    "titleImprint": "Impressum – Montážní pokoje Augsburg",
+    "titlePrivacy": "Zásady ochrany osobních údajů – Montážní pokoje Augsburg"
+  },
+  "nav": {
+    "home": "Hlavní strana",
+    "rooms": "Pokoje",
+    "apartment": "Byty",
+    "monteurapartment": "Apartmány",
+    "house": "Domy",
+    "reservation": "Rezervace",
+    "fair": "Veletrh",
+    "imprint": "Impressum",
+    "privacy": "Ochrana údajů",
+    "callUs": "Zavolejte",
+    "bookNow": "Rezervovat"
+  },
+  "hero": {
+    "title": "Pokoje a byty pro montéry v Augsburgu",
+    "subtitle": "Postaráme se, abyste se cítili jako doma, i když jste daleko.",
+    "cta": "Poptat pokoj",
+    "fromPrice": "od 12€ / osoba / noc"
+  },
+  "features": {
+    "wifi": "Rychlé WiFi",
+    "wifiDesc": "Bezplatný vysokorychlostní internet ve všech pokojích a společných prostorách.",
+    "tv": "LCD televizor",
+    "tvDesc": "Plochý televizor v každém pokoji a společných prostorách.",
+    "kitchen": "Plně vybavená kuchyň",
+    "kitchenDesc": "Kuchyň se sporákem, troubou, mikrovlnkou, nádobím a lednicí.",
+    "cleaning": "Týdenní úklid",
+    "cleaningDesc": "Pravidelný úklid a čisté povlečení v ceně.",
+    "washing": "Pračka",
+    "washingDesc": "Pračka a sušička k dispozici na požádání.",
+    "parking": "Parkování",
+    "parkingDesc": "Bezplatná parkovací místa přímo u domu."
+  },
+  "pricing": {
+    "title": "Naše ceny",
+    "subtitle": "Transparentní ceny – rezervujte přímo u pronajímatele, bez provizí.",
+    "shared": "Byt (od 10 os.)",
+    "sharedPrice": "od 12€",
+    "multi": "Vícelůžkový pokoj",
+    "multiPrice": "od 15€",
+    "double": "Dvoulůžkový pokoj",
+    "doublePrice": "od 18€",
+    "single": "Jednolůžkový pokoj",
+    "singlePrice": "od 25€",
+    "perPerson": "za osobu / noc",
+    "seasonNote": "Ceny se liší podle sezóny a obsazenosti.",
+    "apartmentTitle": "Byty a domy",
+    "apt4": "Byt pro 4 osoby",
+    "apt4Price": "od 60€/den",
+    "apt6": "Byt pro 6 osob",
+    "apt6Price": "od 90€/den",
+    "apt10": "Byt pro 10 osob",
+    "apt10Price": "od 150€/den",
+    "apt20": "Dům pro 20 osob",
+    "apt20Price": "od 200€/den",
+    "aptSingle": "Apartmán pro 1 osobu",
+    "aptSinglePrice": "od 30€/den",
+    "apt2": "Apartmán pro 2 osoby",
+    "apt2Price": "od 50€/den",
+    "apt4Small": "Apartmán pro 4 osoby",
+    "apt4SmallPrice": "od 80€/den",
+    "house7": "Dům pro 7 osob",
+    "house7Price": "od 120€/den",
+    "house13": "Dům pro 13 osob",
+    "house13Price": "od 175€/den",
+    "house16": "Dům pro 16 osob",
+    "house16Price": "od 200€/den"
+  },
+  "rooms": {
+    "title": "Naše montážní pokoje",
+    "subtitle": "Čtyři plně vybavené jednotky v centrální poloze v Augsburgu.",
+    "st5100": {
+      "name": "Montážní pokoj Augsburg I",
+      "code": "ST5-100",
+      "desc": "Jednolůžkové, dvoulůžkové a třílůžkové pokoje. K dispozici jako byt pro max. 6 osob.",
+      "capacity": "Až 6 osob"
+    },
+    "st5200": {
+      "name": "Montážní pokoj Augsburg II",
+      "code": "ST5-200",
+      "desc": "Jednolůžkové, dvoulůžkové a třílůžkové pokoje. K dispozici jako byt pro max. 7 osob.",
+      "capacity": "Až 7 osob"
+    },
+    "st5300": {
+      "name": "Montážní pokoj Augsburg III",
+      "code": "ST5-300",
+      "desc": "Jednolůžkové, dvoulůžkové a třílůžkové pokoje. K dispozici jako sdílené bydlení pro max. 7 osob.",
+      "capacity": "Až 7 osob"
+    },
+    "st5400": {
+      "name": "Montážní pokoj Augsburg IV",
+      "code": "ST5-400",
+      "desc": "Jednolůžkové, dvoulůžkové a třílůžkové pokoje. K dispozici jako byt pro max. 12 osob.",
+      "capacity": "Až 12 osob"
+    },
+    "details": "Zobrazit detaily",
+    "amenities": "Vybavení",
+    "gallery": "Fotogalerie",
+    "location": "Poloha",
+    "address": "Stiermannstraße 5, 86154 Augsburg"
+  },
+  "location": {
+    "title": "Centrální poloha v Augsburgu",
+    "desc": "Naše ubytování se nachází na adrese Barfüßerstraße 7 v srdci Augsburgu. V blízkosti MHD, obchodů a restaurací. Ideální pro řemeslníky, montéry a projektové týmy.",
+    "nearFair": "Pouze 15 minut na Messe Augsburg",
+    "nearCenter": "Přímo v centru Augsburgu",
+    "nearTransport": "MHD přímo u dveří",
+    "nearHighway": "Rychlý přístup na A8 a B17"
+  },
+  "faq": {
+    "title": "Často kladené dotazy",
+    "q1": "Jaké jsou časy příjezdu a odjezdu?",
+    "a1": "Check-in od 14:00, check-out do 10:00. Flexibilní časy po dohodě.",
+    "q2": "Je minimální délka pobytu?",
+    "a2": "Ne, pronajímáme již od jedné noci. Při delších pobytech nabízíme speciální sazby.",
+    "q3": "Je k dispozici parkování?",
+    "a3": "Ano, bezplatná parkovací místa jsou k dispozici přímo u domu.",
+    "q4": "Mohu rezervovat pro svůj tým?",
+    "a4": "Samozřejmě! Nabízíme ubytování pro jednotlivce i celé týmy až 20 osob.",
+    "q5": "Je poskytnuto povlečení a ručníky?",
+    "a5": "Ano, povlečení a ručníky jsou v ceně a měněny každý týden."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "phone": "+49 (0) 821 419028-28",
+    "fax": "+49 (0) 821 419028-13",
+    "address": "Barfüßerstraße 7, 86150 Augsburg",
+    "company": "Gnann Verwaltung GmbH"
+  },
+  "form": {
+    "title": "Žádost o rezervaci",
+    "subtitle": "Vyplňte formulář a my se vám co nejdříve ozveme.",
+    "company": "Firma",
+    "companyPlaceholder": "Název firmy (volitelné)",
+    "name": "Jméno a příjmení",
+    "namePlaceholder": "Jan Novák",
+    "phone": "Telefonní číslo",
+    "phonePlaceholder": "+420 ...",
+    "email": "E-mailová adresa",
+    "emailPlaceholder": "vas@email.cz",
+    "roomType": "Typ ubytování",
+    "roomTypeOptions": {
+      "zimmer": "Montážní pokoj",
+      "wohnung": "Byt pro montéry",
+      "apartment": "Apartmán",
+      "haus": "Dům pro montéry"
+    },
+    "roomCount": "Počet pokojů",
+    "persons": "Počet osob",
+    "arrival": "Datum příjezdu",
+    "duration": "Délka pobytu (dny)",
+    "message": "Zpráva / Poznámky",
+    "messagePlaceholder": "Speciální přání nebo dotazy ...",
+    "submit": "Odeslat poptávku",
+    "sending": "Odesílání ...",
+    "success": "Děkujeme! Vaše poptávka byla úspěšně odeslána. Brzy se ozveme.",
+    "error": "Vyskytl se problém. Zkuste to znovu nebo nám zavolejte.",
+    "required": "Povinné pole"
+  },
+  "fair": {
+    "title": "Ubytování na veletrh Augsburg",
+    "desc": "Levné ubytování pro vystavovatele, montéry a návštěvníky veletrhu Messe Augsburg. Naše pokoje jsou jen 15 minut od veletrhu.",
+    "advantages": "Vaše výhody",
+    "adv1": "Pouze 15 minut na Messe Augsburg",
+    "adv2": "Levnější než hotely během veletrhu",
+    "adv3": "Plně vybavené s kuchyní — ušetřete za stravování",
+    "adv4": "Flexibilní termíny rezervace",
+    "adv5": "Bezplatné parkování"
+  },
+  "apartmentPage": {
+    "title": "Byty pro montéry v Augsburgu",
+    "desc": "Plně vybavené byty pro 4 až 20 osob. Ideální pro týmy a delší projektové pobyty."
+  },
+  "monteurapartmentPage": {
+    "title": "Apartmány pro montéry v Augsburgu",
+    "desc": "Zařízené apartmány pro 1 až 4 osoby. Ideální pro jednotlivce nebo malé týmy."
+  },
+  "housePage": {
+    "title": "Domy pro montéry v Augsburgu",
+    "desc": "Celé domy pro týmy od 7 do 16 osob. Se zahradou, grilem a parkováním."
+  },
+  "footer": {
+    "rights": "Všechna práva vyhrazena.",
+    "imprint": "Impressum",
+    "privacy": "Ochrana údajů"
+  },
+  "cookie": {
+    "text": "Používáme cookies, abychom vám poskytli co nejlepší zážitek na našem webu.",
+    "accept": "Přijmout",
+    "decline": "Odmítnout",
+    "moreInfo": "Více informací"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "responsible": "Odpovědný podle § 5 TMG",
+    "contact": "Kontakt",
+    "register": "Obchodní rejstřík",
+    "registerCourt": "Okresní soud Augsburg",
+    "vatId": "DIČ",
+    "vatNote": "Identifikační číslo DPH podle § 27a zákona o dani z obratu",
+    "dispute": "Řešení sporů",
+    "disputeText": "Evropská komise poskytuje platformu pro řešení sporů online (OS): https://ec.europa.eu/consumers/odr/."
+  },
+  "privacy": {
+    "title": "Zásady ochrany osobních údajů",
+    "intro": "Ochranu vašich osobních údajů bereme velmi vážně. S vašimi údaji zacházíme důvěrně a v souladu s předpisy o ochraně údajů."
+  }
+}

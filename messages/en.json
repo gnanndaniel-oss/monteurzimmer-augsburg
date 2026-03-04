@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "title": "Workers' Rooms Augsburg from 12€/Night | Accommodation for Workers",
+    "description": "Affordable workers' rooms & apartments in central Augsburg. From 12€/person/night. Fully furnished, WiFi, parking. Book directly with the landlord.",
+    "titleRooms": "Workers' Rooms Augsburg – Room Overview",
+    "titleApartment": "Workers' Apartments Augsburg – Furnished Apartments",
+    "titleMonteurapartment": "Workers' Apartments Augsburg – Apartments for Tradespeople",
+    "titleHouse": "Workers' Houses Augsburg – Accommodation for Teams & Groups",
+    "titleReservation": "Reservation – Book Workers' Rooms Augsburg",
+    "titleFair": "Trade Fair Accommodation Augsburg – Rooms for Exhibitors",
+    "titleImprint": "Legal Notice – Workers' Rooms Augsburg",
+    "titlePrivacy": "Privacy Policy – Workers' Rooms Augsburg"
+  },
+  "nav": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "apartment": "Apartments",
+    "monteurapartment": "Studios",
+    "house": "Houses",
+    "reservation": "Reservation",
+    "fair": "Trade Fair",
+    "imprint": "Legal Notice",
+    "privacy": "Privacy Policy",
+    "callUs": "Call us",
+    "bookNow": "Book now"
+  },
+  "hero": {
+    "title": "Workers' Rooms & Apartments in Augsburg",
+    "subtitle": "We make sure you feel at home, even when you're far away.",
+    "cta": "Request a room",
+    "fromPrice": "from 12€ / person / night"
+  },
+  "features": {
+    "wifi": "High-Speed WiFi",
+    "wifiDesc": "Free high-speed internet in all rooms and common areas.",
+    "tv": "LCD Television",
+    "tvDesc": "Flat screen TV in every room and common areas.",
+    "kitchen": "Fully Equipped Kitchen",
+    "kitchenDesc": "Kitchen with stove, oven, microwave, dishes and refrigerator.",
+    "cleaning": "Weekly Cleaning",
+    "cleaningDesc": "Regular cleaning and fresh bed linen included.",
+    "washing": "Washing Machine",
+    "washingDesc": "Washing machine and dryer available on request.",
+    "parking": "Parking",
+    "parkingDesc": "Free parking spaces right at the building."
+  },
+  "pricing": {
+    "title": "Our Prices",
+    "subtitle": "Transparent prices – book directly with the landlord, no agency fees.",
+    "shared": "Apartment (from 10 pers.)",
+    "sharedPrice": "from 12€",
+    "multi": "Multi-bed room",
+    "multiPrice": "from 15€",
+    "double": "Double room",
+    "doublePrice": "from 18€",
+    "single": "Single room",
+    "singlePrice": "from 25€",
+    "perPerson": "per person / night",
+    "seasonNote": "Prices vary depending on season and occupancy.",
+    "apartmentTitle": "Apartments & Houses",
+    "apt4": "4-person apartment",
+    "apt4Price": "from 60€/day",
+    "apt6": "6-person apartment",
+    "apt6Price": "from 90€/day",
+    "apt10": "10-person apartment",
+    "apt10Price": "from 150€/day",
+    "apt20": "20-person house",
+    "apt20Price": "from 200€/day",
+    "aptSingle": "1-person apartment",
+    "aptSinglePrice": "from 30€/day",
+    "apt2": "2-person apartment",
+    "apt2Price": "from 50€/day",
+    "apt4Small": "4-person apartment",
+    "apt4SmallPrice": "from 80€/day",
+    "house7": "7-person house",
+    "house7Price": "from 120€/day",
+    "house13": "13-person house",
+    "house13Price": "from 175€/day",
+    "house16": "16-person house",
+    "house16Price": "from 200€/day"
+  },
+  "rooms": {
+    "title": "Our Workers' Rooms",
+    "subtitle": "Four fully furnished units in a central location in Augsburg.",
+    "st5100": {
+      "name": "Workers' Room Augsburg I",
+      "code": "ST5-100",
+      "desc": "Single, double and triple rooms. Available as apartment for up to 6 persons.",
+      "capacity": "Up to 6 persons"
+    },
+    "st5200": {
+      "name": "Workers' Room Augsburg II",
+      "code": "ST5-200",
+      "desc": "Single, double and triple rooms. Available as apartment for up to 7 persons.",
+      "capacity": "Up to 7 persons"
+    },
+    "st5300": {
+      "name": "Workers' Room Augsburg III",
+      "code": "ST5-300",
+      "desc": "Single, double and triple rooms. Available as shared housing for up to 7 persons.",
+      "capacity": "Up to 7 persons"
+    },
+    "st5400": {
+      "name": "Workers' Room Augsburg IV",
+      "code": "ST5-400",
+      "desc": "Single, double and triple rooms. Available as apartment for up to 12 persons.",
+      "capacity": "Up to 12 persons"
+    },
+    "details": "View details",
+    "amenities": "Amenities",
+    "gallery": "Photo Gallery",
+    "location": "Location",
+    "address": "Stiermannstraße 5, 86154 Augsburg"
+  },
+  "location": {
+    "title": "Central Location in Augsburg",
+    "desc": "Our accommodations are located at Barfüßerstraße 7 in the heart of Augsburg. Close to public transport, shops and restaurants. Ideal for tradespeople, workers and project teams.",
+    "nearFair": "Only 15 minutes to Messe Augsburg",
+    "nearCenter": "Directly in the Augsburg city center",
+    "nearTransport": "Public transport right at the doorstep",
+    "nearHighway": "Quick access to A8 and B17 highways"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "What are the check-in and check-out times?",
+    "a1": "Check-in is from 2:00 PM, check-out by 10:00 AM. Flexible times available by arrangement.",
+    "q2": "Is there a minimum stay?",
+    "a2": "No, we rent from just one night. We offer special rates for longer stays.",
+    "q3": "Is parking available?",
+    "a3": "Yes, free parking spaces are available right at the building.",
+    "q4": "Can I book for my whole team?",
+    "a4": "Of course! We offer accommodation for individuals up to entire teams of up to 20 people.",
+    "q5": "Are bed linen and towels provided?",
+    "a5": "Yes, bed linen and towels are included and changed weekly."
+  },
+  "contact": {
+    "title": "Contact",
+    "phone": "+49 (0) 821 419028-28",
+    "fax": "+49 (0) 821 419028-13",
+    "address": "Barfüßerstraße 7, 86150 Augsburg",
+    "company": "Gnann Verwaltung GmbH"
+  },
+  "form": {
+    "title": "Request a Reservation",
+    "subtitle": "Fill out the form and we'll get back to you as soon as possible.",
+    "company": "Company",
+    "companyPlaceholder": "Company name (optional)",
+    "name": "Name",
+    "namePlaceholder": "John Smith",
+    "phone": "Phone Number",
+    "phonePlaceholder": "+49 ...",
+    "email": "Email Address",
+    "emailPlaceholder": "your@email.com",
+    "roomType": "Type of Accommodation",
+    "roomTypeOptions": {
+      "zimmer": "Workers' room",
+      "wohnung": "Workers' apartment",
+      "apartment": "Studio apartment",
+      "haus": "Workers' house"
+    },
+    "roomCount": "Number of Rooms",
+    "persons": "Number of Persons",
+    "arrival": "Arrival Date",
+    "duration": "Length of Stay (days)",
+    "message": "Message / Notes",
+    "messagePlaceholder": "Special requests or questions ...",
+    "submit": "Send Request",
+    "sending": "Sending ...",
+    "success": "Thank you! Your request has been sent successfully. We'll get back to you shortly.",
+    "error": "There was a problem. Please try again or call us.",
+    "required": "Required"
+  },
+  "fair": {
+    "title": "Trade Fair Accommodation Augsburg",
+    "desc": "Affordable accommodation for exhibitors, workers and visitors of Messe Augsburg. Our rooms are only 15 minutes from the trade fair and ideal for multi-day fair stays.",
+    "advantages": "Your Benefits",
+    "adv1": "Only 15 minutes to Messe Augsburg",
+    "adv2": "Cheaper than hotels during trade fair season",
+    "adv3": "Fully furnished with kitchen — save on meals",
+    "adv4": "Flexible booking periods — even individual fair days possible",
+    "adv5": "Free parking"
+  },
+  "apartmentPage": {
+    "title": "Workers' Apartments in Augsburg",
+    "desc": "Fully furnished apartments for 4 to 20 persons. Ideal for teams and longer project stays. Each apartment features a fully equipped kitchen, WiFi and weekly cleaning."
+  },
+  "monteurapartmentPage": {
+    "title": "Studio Apartments in Augsburg",
+    "desc": "Furnished apartments for 1 to 4 persons. Perfect for individuals or small teams who prefer independent accommodation."
+  },
+  "housePage": {
+    "title": "Workers' Houses in Augsburg",
+    "desc": "Entire houses for teams of 7 to 16 persons. With garden, BBQ area and ample parking. Ideal for larger project teams."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "imprint": "Legal Notice",
+    "privacy": "Privacy Policy"
+  },
+  "cookie": {
+    "text": "We use cookies to provide you with the best possible experience on our website.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "moreInfo": "Learn more"
+  },
+  "imprint": {
+    "title": "Legal Notice",
+    "responsible": "Responsible according to § 5 TMG",
+    "contact": "Contact",
+    "register": "Commercial Register",
+    "registerCourt": "District Court Augsburg",
+    "vatId": "VAT ID",
+    "vatNote": "VAT identification number according to § 27a of the German VAT Act",
+    "dispute": "Dispute Resolution",
+    "disputeText": "The European Commission provides a platform for online dispute resolution (OS): https://ec.europa.eu/consumers/odr/. We are not willing or obliged to participate in dispute resolution proceedings before a consumer arbitration board."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "We take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with statutory data protection regulations and this privacy policy."
+  }
+}

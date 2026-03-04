@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "title": "Pokoje dla monterów Augsburg od 12€/noc | Kwatery pracownicze",
+    "description": "Tanie pokoje i mieszkania dla monterów w centrum Augsburga. Od 12€/os./noc. W pełni umeblowane, WiFi, parking. Rezerwuj bezpośrednio u właściciela.",
+    "titleRooms": "Pokoje dla monterów Augsburg – Przegląd pokoi",
+    "titleApartment": "Mieszkania dla monterów Augsburg – Umeblowane mieszkania",
+    "titleMonteurapartment": "Apartamenty dla monterów Augsburg",
+    "titleHouse": "Domy dla monterów Augsburg – Zakwaterowanie dla zespołów",
+    "titleReservation": "Rezerwacja – Pokoje dla monterów Augsburg",
+    "titleFair": "Zakwaterowanie targowe Augsburg – Pokoje na targi",
+    "titleImprint": "Impressum – Pokoje dla monterów Augsburg",
+    "titlePrivacy": "Polityka prywatności – Pokoje dla monterów Augsburg"
+  },
+  "nav": {
+    "home": "Strona główna",
+    "rooms": "Pokoje",
+    "apartment": "Mieszkania",
+    "monteurapartment": "Apartamenty",
+    "house": "Domy",
+    "reservation": "Rezerwacja",
+    "fair": "Targi",
+    "imprint": "Impressum",
+    "privacy": "Prywatność",
+    "callUs": "Zadzwoń",
+    "bookNow": "Rezerwuj"
+  },
+  "hero": {
+    "title": "Pokoje i mieszkania dla monterów w Augsburgu",
+    "subtitle": "Dbamy o to, abyś czuł się jak w domu, nawet będąc daleko.",
+    "cta": "Zapytaj o pokój",
+    "fromPrice": "od 12€ / osoba / noc"
+  },
+  "features": {
+    "wifi": "Szybkie WiFi",
+    "wifiDesc": "Darmowy szybki internet we wszystkich pokojach i częściach wspólnych.",
+    "tv": "Telewizor LCD",
+    "tvDesc": "Telewizor z płaskim ekranem w każdym pokoju i częściach wspólnych.",
+    "kitchen": "W pełni wyposażona kuchnia",
+    "kitchenDesc": "Kuchnia z kuchenką, piekarnikiem, mikrofalówką, naczyniami i lodówką.",
+    "cleaning": "Cotygodniowe sprzątanie",
+    "cleaningDesc": "Regularne sprzątanie i świeża pościel w cenie.",
+    "washing": "Pralka",
+    "washingDesc": "Pralka i suszarka dostępne na życzenie.",
+    "parking": "Parking",
+    "parkingDesc": "Bezpłatne miejsca parkingowe bezpośrednio przy budynku."
+  },
+  "pricing": {
+    "title": "Nasze ceny",
+    "subtitle": "Przejrzyste ceny – rezerwuj bezpośrednio u właściciela, bez prowizji.",
+    "shared": "Mieszkanie (od 10 os.)",
+    "sharedPrice": "od 12€",
+    "multi": "Pokój wieloosobowy",
+    "multiPrice": "od 15€",
+    "double": "Pokój dwuosobowy",
+    "doublePrice": "od 18€",
+    "single": "Pokój jednoosobowy",
+    "singlePrice": "od 25€",
+    "perPerson": "za osobę / noc",
+    "seasonNote": "Ceny zależą od sezonu i obłożenia.",
+    "apartmentTitle": "Mieszkania i domy",
+    "apt4": "Mieszkanie 4-osobowe",
+    "apt4Price": "od 60€/dzień",
+    "apt6": "Mieszkanie 6-osobowe",
+    "apt6Price": "od 90€/dzień",
+    "apt10": "Mieszkanie 10-osobowe",
+    "apt10Price": "od 150€/dzień",
+    "apt20": "Dom 20-osobowy",
+    "apt20Price": "od 200€/dzień",
+    "aptSingle": "Apartament 1-osobowy",
+    "aptSinglePrice": "od 30€/dzień",
+    "apt2": "Apartament 2-osobowy",
+    "apt2Price": "od 50€/dzień",
+    "apt4Small": "Apartament 4-osobowy",
+    "apt4SmallPrice": "od 80€/dzień",
+    "house7": "Dom 7-osobowy",
+    "house7Price": "od 120€/dzień",
+    "house13": "Dom 13-osobowy",
+    "house13Price": "od 175€/dzień",
+    "house16": "Dom 16-osobowy",
+    "house16Price": "od 200€/dzień"
+  },
+  "rooms": {
+    "title": "Nasze pokoje dla monterów",
+    "subtitle": "Cztery w pełni umeblowane jednostki w centralnej lokalizacji w Augsburgu.",
+    "st5100": {
+      "name": "Pokój dla monterów Augsburg I",
+      "code": "ST5-100",
+      "desc": "Pokoje jedno-, dwu- i trzyosobowe. Dostępne jako mieszkanie dla max. 6 osób.",
+      "capacity": "Do 6 osób"
+    },
+    "st5200": {
+      "name": "Pokój dla monterów Augsburg II",
+      "code": "ST5-200",
+      "desc": "Pokoje jedno-, dwu- i trzyosobowe. Dostępne jako mieszkanie dla max. 7 osób.",
+      "capacity": "Do 7 osób"
+    },
+    "st5300": {
+      "name": "Pokój dla monterów Augsburg III",
+      "code": "ST5-300",
+      "desc": "Pokoje jedno-, dwu- i trzyosobowe. Dostępne jako mieszkanie współdzielone dla max. 7 osób.",
+      "capacity": "Do 7 osób"
+    },
+    "st5400": {
+      "name": "Pokój dla monterów Augsburg IV",
+      "code": "ST5-400",
+      "desc": "Pokoje jedno-, dwu- i trzyosobowe. Dostępne jako mieszkanie dla max. 12 osób.",
+      "capacity": "Do 12 osób"
+    },
+    "details": "Zobacz szczegóły",
+    "amenities": "Wyposażenie",
+    "gallery": "Galeria zdjęć",
+    "location": "Lokalizacja",
+    "address": "Stiermannstraße 5, 86154 Augsburg"
+  },
+  "location": {
+    "title": "Centralna lokalizacja w Augsburgu",
+    "desc": "Nasze zakwaterowanie znajduje się pod adresem Barfüßerstraße 7 w sercu Augsburga. W pobliżu komunikacji miejskiej, sklepów i restauracji. Idealne dla rzemieślników, monterów i zespołów projektowych.",
+    "nearFair": "Tylko 15 minut do Messe Augsburg",
+    "nearCenter": "Bezpośrednio w centrum Augsburga",
+    "nearTransport": "Komunikacja miejska pod drzwiami",
+    "nearHighway": "Szybki dojazd do A8 i B17"
+  },
+  "faq": {
+    "title": "Najczęściej zadawane pytania",
+    "q1": "Jakie są godziny zameldowania i wymeldowania?",
+    "a1": "Zameldowanie od 14:00, wymeldowanie do 10:00. Elastyczne godziny do ustalenia.",
+    "q2": "Czy jest minimalny czas pobytu?",
+    "a2": "Nie, wynajmujemy już od jednej nocy. Przy dłuższych pobytach oferujemy specjalne stawki.",
+    "q3": "Czy jest parking?",
+    "a3": "Tak, bezpłatne miejsca parkingowe są dostępne bezpośrednio przy budynku.",
+    "q4": "Czy mogę zarezerwować dla mojego zespołu?",
+    "a4": "Oczywiście! Oferujemy zakwaterowanie dla osób indywidualnych i zespołów do 20 osób.",
+    "q5": "Czy pościel i ręczniki są zapewnione?",
+    "a5": "Tak, pościel i ręczniki są w cenie i zmieniane co tydzień."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "phone": "+49 (0) 821 419028-28",
+    "fax": "+49 (0) 821 419028-13",
+    "address": "Barfüßerstraße 7, 86150 Augsburg",
+    "company": "Gnann Verwaltung GmbH"
+  },
+  "form": {
+    "title": "Zapytanie o rezerwację",
+    "subtitle": "Wypełnij formularz, a my odezwiemy się jak najszybciej.",
+    "company": "Firma",
+    "companyPlaceholder": "Nazwa firmy (opcjonalnie)",
+    "name": "Imię i nazwisko",
+    "namePlaceholder": "Jan Kowalski",
+    "phone": "Numer telefonu",
+    "phonePlaceholder": "+48 ...",
+    "email": "Adres e-mail",
+    "emailPlaceholder": "twoj@email.pl",
+    "roomType": "Rodzaj zakwaterowania",
+    "roomTypeOptions": {
+      "zimmer": "Pokój dla monterów",
+      "wohnung": "Mieszkanie dla monterów",
+      "apartment": "Apartament",
+      "haus": "Dom dla monterów"
+    },
+    "roomCount": "Liczba pokoi",
+    "persons": "Liczba osób",
+    "arrival": "Data przyjazdu",
+    "duration": "Czas pobytu (dni)",
+    "message": "Wiadomość / Uwagi",
+    "messagePlaceholder": "Specjalne życzenia lub pytania ...",
+    "submit": "Wyślij zapytanie",
+    "sending": "Wysyłanie ...",
+    "success": "Dziękujemy! Twoje zapytanie zostało wysłane. Skontaktujemy się wkrótce.",
+    "error": "Wystąpił problem. Spróbuj ponownie lub zadzwoń do nas.",
+    "required": "Pole wymagane"
+  },
+  "fair": {
+    "title": "Zakwaterowanie targowe Augsburg",
+    "desc": "Tanie zakwaterowanie dla wystawców, monterów i odwiedzających targi Messe Augsburg. Nasze pokoje znajdują się zaledwie 15 minut od targów.",
+    "advantages": "Twoje korzyści",
+    "adv1": "Tylko 15 minut do Messe Augsburg",
+    "adv2": "Taniej niż hotele w czasie targów",
+    "adv3": "W pełni umeblowane z kuchnią — oszczędź na posiłkach",
+    "adv4": "Elastyczne terminy rezerwacji",
+    "adv5": "Bezpłatny parking"
+  },
+  "apartmentPage": {
+    "title": "Mieszkania dla monterów w Augsburgu",
+    "desc": "W pełni umeblowane mieszkania dla 4 do 20 osób. Idealne dla zespołów i dłuższych pobytów projektowych."
+  },
+  "monteurapartmentPage": {
+    "title": "Apartamenty dla monterów w Augsburgu",
+    "desc": "Umeblowane apartamenty dla 1 do 4 osób. Idealne dla osób indywidualnych lub małych zespołów."
+  },
+  "housePage": {
+    "title": "Domy dla monterów w Augsburgu",
+    "desc": "Całe domy dla zespołów od 7 do 16 osób. Z ogrodem, grillem i parkingiem."
+  },
+  "footer": {
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "imprint": "Impressum",
+    "privacy": "Prywatność"
+  },
+  "cookie": {
+    "text": "Używamy plików cookie, aby zapewnić najlepsze doświadczenia na naszej stronie.",
+    "accept": "Akceptuj",
+    "decline": "Odrzuć",
+    "moreInfo": "Więcej informacji"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "responsible": "Odpowiedzialny zgodnie z § 5 TMG",
+    "contact": "Kontakt",
+    "register": "Rejestr handlowy",
+    "registerCourt": "Sąd rejonowy Augsburg",
+    "vatId": "NIP",
+    "vatNote": "Numer identyfikacji podatkowej zgodnie z § 27a ustawy o podatku obrotowym",
+    "dispute": "Rozstrzyganie sporów",
+    "disputeText": "Komisja Europejska udostępnia platformę do rozwiązywania sporów online (OS): https://ec.europa.eu/consumers/odr/."
+  },
+  "privacy": {
+    "title": "Polityka prywatności",
+    "intro": "Ochrona Twoich danych osobowych jest dla nas bardzo ważna. Traktujemy Twoje dane poufnie i zgodnie z przepisami o ochronie danych."
+  }
+}

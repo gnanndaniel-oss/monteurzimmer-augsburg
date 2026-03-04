@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /php/
+
+Sitemap: https://www.monteurzimmer.augsburg-apartments.de/sitemap.xml
