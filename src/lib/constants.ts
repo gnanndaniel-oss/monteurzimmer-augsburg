@@ -6,7 +6,7 @@ export const CONTACT = {
   fax: '+49 (0) 821 419028-13',
   address: 'Barfüßerstraße 7, 86150 Augsburg',
   company: 'Gnann Verwaltung GmbH',
-  ceo: 'Norbert Gnann',
+  ceo: 'Daniel Gnann',
 } as const;
 
 export const ROOMS = [

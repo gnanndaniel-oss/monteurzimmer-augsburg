@@ -70,8 +70,8 @@ export default function Footer() {
               <a href="https://www.relocation-augsburg.de" target="_blank" rel="noopener noreferrer" className="block hover:text-brand-400 transition-colors">
                 relocation-augsburg.de
               </a>
-              <a href="https://www.verdasol.de" target="_blank" rel="noopener noreferrer" className="block hover:text-brand-400 transition-colors">
-                verdasol.de
+              <a href="https://www.hotel-goldener-falke.de" target="_blank" rel="noopener noreferrer" className="block hover:text-brand-400 transition-colors">
+                hotel-goldener-falke.de
               </a>
             </div>
           </div>
