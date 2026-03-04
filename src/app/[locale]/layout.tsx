@@ -133,7 +133,7 @@ export default async function LocaleLayout({ children, params }: Props) {
       'https://www.apartment-augsburg.de',
       'https://www.wohnbaron.de',
       'https://www.relocation-augsburg.de',
-      'https://www.hotel-goldener-falke.de',
+      'https://www.goldener-falke.de',
     ],
   };
 

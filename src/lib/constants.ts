@@ -2,7 +2,7 @@ export const SITE_URL = 'https://www.monteurzimmer.augsburg-apartments.de';
 
 export const CONTACT = {
   phone: '+49 (0) 821 419028-28',
-  phoneTel: 'tel:+498214190288',
+  phoneTel: 'tel:+4982141902828',
   fax: '+49 (0) 821 419028-13',
   address: 'Barfüßerstraße 7, 86150 Augsburg',
   company: 'Gnann Verwaltung GmbH',
