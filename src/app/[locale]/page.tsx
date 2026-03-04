@@ -45,7 +45,7 @@ function HomeContent() {
       {/* Hero */}
       <section className="relative bg-gradient-to-br from-slate-900 via-slate-800 to-brand-900 text-white overflow-hidden">
         <div className="absolute inset-0 opacity-10">
-          <div className="absolute inset-0" style={{ backgroundImage: 'url(/images/Monteurwohnung_Augsburg__1-13.jpg)', backgroundSize: 'cover', backgroundPosition: 'center' }} />
+          <div className="absolute inset-0" style={{ backgroundImage: 'url(/attachments/Image/Monteurwohnung_Augsburg__1-13.jpg)', backgroundSize: 'cover', backgroundPosition: 'center' }} />
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
           <div className="max-w-3xl">
@@ -131,7 +131,7 @@ function HomeContent() {
               >
                 <div className="aspect-[4/3] bg-slate-200 relative overflow-hidden">
                   <img
-                    src={`/images/${room.images[0]}`}
+                    src={room.images[0]}
                     alt={t(`rooms.${room.tKey}.name`)}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     loading="lazy"

@@ -34,7 +34,7 @@ export default function CategoryPage({ titleKey, descKey, pricing, images }: Pro
                 <div className="grid grid-cols-2 gap-4 mb-10">
                   {images.map((img, i) => (
                     <div key={i} className="aspect-[4/3] bg-slate-200 rounded-xl overflow-hidden">
-                      <img src={`/images/${img}`} alt={`${t(titleKey)} ${i + 1}`} className="w-full h-full object-cover" loading="lazy" />
+                      <img src={img} alt={`${t(titleKey)} ${i + 1}`} className="w-full h-full object-cover" loading="lazy" />
                     </div>
                   ))}
                 </div>

@@ -45,7 +45,7 @@ function RoomsContent() {
               >
                 <div className="aspect-[16/9] bg-slate-200 relative overflow-hidden">
                   <img
-                    src={`/images/${room.images[0]}`}
+                    src={room.images[0]}
                     alt={t(`rooms.${room.tKey}.name`)}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                     loading="lazy"

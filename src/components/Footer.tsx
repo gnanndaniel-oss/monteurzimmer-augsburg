@@ -10,7 +10,7 @@ export default function Footer() {
   return (
     <footer className="bg-slate-900 text-slate-300">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company */}
           <div>
             <h3 className="text-white font-bold text-lg mb-4">
@@ -35,9 +35,9 @@ export default function Footer() {
             </div>
           </div>
 
-          {/* Links */}
+          {/* Navigation */}
           <div>
-            <h3 className="text-white font-semibold mb-4">Links</h3>
+            <h3 className="text-white font-semibold mb-4">Navigation</h3>
             <div className="space-y-2 text-sm">
               <Link href="/monteurzimmer-augsburg/" className="block hover:text-brand-400 transition-colors">
                 {t('nav.rooms')}
@@ -54,6 +54,25 @@ export default function Footer() {
               <Link href="/datenschutz/" className="block hover:text-brand-400 transition-colors">
                 {t('footer.privacy')}
               </Link>
+            </div>
+          </div>
+
+          {/* Unternehmensverbund */}
+          <div>
+            <h3 className="text-white font-semibold mb-4">{t('footer.network')}</h3>
+            <div className="space-y-2 text-sm">
+              <a href="https://www.apartment-augsburg.de" target="_blank" rel="noopener noreferrer" className="block hover:text-brand-400 transition-colors">
+                apartment-augsburg.de
+              </a>
+              <a href="https://www.wohnbaron.de" target="_blank" rel="noopener noreferrer" className="block hover:text-brand-400 transition-colors">
+                wohnbaron.de
+              </a>
+              <a href="https://www.relocation-augsburg.de" target="_blank" rel="noopener noreferrer" className="block hover:text-brand-400 transition-colors">
+                relocation-augsburg.de
+              </a>
+              <a href="https://www.verdasol.de" target="_blank" rel="noopener noreferrer" className="block hover:text-brand-400 transition-colors">
+                verdasol.de
+              </a>
             </div>
           </div>
         </div>
