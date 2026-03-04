@@ -2,7 +2,7 @@ import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import ContactForm from '@/components/ContactForm';
 import { CONTACT } from '@/lib/constants';
-import { generateAlternates, generateOgMeta } from '@/lib/seo';
+import {  generateAlternates, generateOgMeta , generateBreadcrumbSchema } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -12,8 +12,18 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 export default async function ReservationPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
+  const m = (await import(`../../../../messages/${locale}.json`)).default;
+  const breadcrumb = generateBreadcrumbSchema([
+    { name: m.nav.home, path: '' },
+    { name: m.nav.reservation },
+  ], locale);
   setRequestLocale(locale);
-  return <ReservationContent />;
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
+      <ReservationContent />
+    </>
+  );
 }
 
 function ReservationContent() {

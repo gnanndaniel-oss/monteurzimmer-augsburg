@@ -146,6 +146,8 @@ export default async function LocaleLayout({ children, params }: Props) {
     <html lang={locale}>
       <head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="llms-txt" href="/llms.txt" />
+        <meta name="ai-content-declaration" content="This website contains human-created content about furnished worker accommodation in Augsburg, Germany." />
         <meta name="geo.region" content="DE-BY" />
         <meta name="geo.placename" content="Augsburg" />
         <meta name="geo.position" content="48.3656;10.8986" />

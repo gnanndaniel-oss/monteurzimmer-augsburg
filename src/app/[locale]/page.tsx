@@ -2,7 +2,7 @@ import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { ROOMS, CONTACT, SITE_URL } from '@/lib/constants';
-import { generateAlternates, generateOgMeta } from '@/lib/seo';
+import { generateAlternates, generateOgMeta, generateBreadcrumbSchema } from '@/lib/seo';
 
 type Props = {
   params: Promise<{ locale: string }>;

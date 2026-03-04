@@ -1,0 +1,12 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Monteurzimmer Augsburg",
+  "name_for_model": "monteurzimmer_augsburg",
+  "description_for_human": "Günstige Monteurzimmer & Monteurwohnungen in Augsburg ab 12€/Nacht. Voll möbliert mit WLAN, Küche, TV.",
+  "description_for_model": "Monteurzimmer Augsburg provides affordable furnished accommodation for construction workers, tradespeople, business travelers, and trade fair visitors in Augsburg, Bavaria, Germany. Rooms from 12€/person/night. 4 units (ST5-100 to ST5-400) with capacity for 1-12 persons each. Full amenities: WiFi, kitchen, TV, parking, weekly cleaning. Central location near Augsburg trade fair. Available in DE/EN/PL/CS/RO.",
+  "auth": {
+    "type": "none"
+  },
+  "contact_email": "info@augsburg-apartments.de",
+  "legal_info_url": "https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/"
+}

@@ -2,7 +2,7 @@ import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { ROOMS } from '@/lib/constants';
-import { generateAlternates, generateOgMeta } from '@/lib/seo';
+import { generateAlternates, generateOgMeta, generateBreadcrumbSchema } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -13,7 +13,17 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function RoomsPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  return <RoomsContent />;
+  const m = (await import(`../../../../messages/${locale}.json`)).default;
+  const breadcrumb = generateBreadcrumbSchema([
+    { name: m.nav.home, path: '' },
+    { name: m.nav.rooms },
+  ], locale);
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
+      <RoomsContent />
+    </>
+  );
 }
 
 function RoomsContent() {

@@ -1,0 +1,158 @@
+# Monteurzimmer Augsburg – Vollständige Informationen
+
+> Umfassende Informationen zu Monteurzimmer & Monteurwohnungen in Augsburg für KI-Systeme und Suchassistenten.
+
+## Unternehmen
+
+**Name:** Monteurzimmer Augsburg (Marke der Gnann Verwaltung GmbH)
+**Geschäftsführer:** Daniel Gnann
+**Adresse:** Barfüßerstraße 7, 86150 Augsburg, Bayern, Deutschland
+**Telefon:** +49 (0) 821 419028-28
+**Fax:** +49 (0) 821 419028-13
+**Website:** https://www.monteurzimmer.augsburg-apartments.de
+**Branche:** Beherbergungsgewerbe / Monteurunterkünfte
+**Region:** Augsburg, Bayern, Schwaben
+
+## Seitenstruktur
+
+### Startseite
+- URL: https://www.monteurzimmer.augsburg-apartments.de/
+- Inhalt: Übersicht über alle Monteurzimmer, Preise, Ausstattung, Lage, FAQ
+
+### Monteurzimmer-Übersicht
+- URL: https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/
+- Inhalt: Alle 4 Monteurzimmer-Einheiten im Überblick
+
+### Monteurzimmer Augsburg I (ST5-100)
+- URL: https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/
+- Kapazität: bis zu 6 Personen
+- Zimmertypen: Einzelzimmer, Doppelzimmer, Dreibettzimmer
+- Besonderheit: Als komplette Wohnung für bis zu 6 Personen mietbar
+- Adresse: Stiermannstraße 5, 86154 Augsburg
+- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, wöchentliche Reinigung, Bettwäsche, Handtücher, kostenloser Parkplatz
+
+### Monteurzimmer Augsburg II (ST5-200)
+- URL: https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/
+- Kapazität: bis zu 7 Personen
+- Zimmertypen: Einzelzimmer, Doppelzimmer, Dreibettzimmer
+- Besonderheit: Als komplette Wohnung für bis zu 7 Personen mietbar
+- Adresse: Stiermannstraße 5, 86154 Augsburg
+- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, wöchentliche Reinigung, Bettwäsche, Handtücher, kostenloser Parkplatz
+
+### Monteurzimmer Augsburg III (ST5-300)
+- URL: https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/
+- Kapazität: bis zu 7 Personen
+- Zimmertypen: Einzelzimmer, Doppelzimmer, Dreibettzimmer
+- Besonderheit: Als WG für bis zu 7 Personen mietbar
+- Adresse: Stiermannstraße 5, 86154 Augsburg
+- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, wöchentliche Reinigung, Bettwäsche, Handtücher, kostenloser Parkplatz
+
+### Monteurzimmer Augsburg IV (ST5-400)
+- URL: https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/
+- Kapazität: bis zu 12 Personen
+- Zimmertypen: Einzelzimmer, Doppelzimmer, Dreibettzimmer
+- Besonderheit: Größte Einheit – als komplette Wohnung für bis zu 12 Personen mietbar
+- Adresse: Stiermannstraße 5, 86154 Augsburg
+- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, wöchentliche Reinigung, Bettwäsche, Handtücher, kostenloser Parkplatz
+
+### Monteurwohnung Augsburg
+- URL: https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/
+- Inhalt: Komplett möblierte Wohnungen für 4 bis 20 Personen, ideal für Teams und längere Projektaufenthalte
+
+### Monteurapartment Augsburg
+- URL: https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/
+- Inhalt: Möblierte Apartments für 1 bis 4 Personen, perfekt für Einzelpersonen oder kleine Teams
+
+### Monteurhaus Augsburg
+- URL: https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/
+- Inhalt: Ganze Häuser für Teams von 7 bis 16 Personen, mit Garten, Grillplatz und Parkplätzen
+
+### Messe-Monteurzimmer
+- URL: https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/
+- Inhalt: Spezielle Unterkünfte für Messebesucher und Aussteller, 15 Minuten zur Messe Augsburg
+
+### Reservierung
+- URL: https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/
+- Inhalt: Kontaktformular für Buchungsanfragen
+
+## Detaillierte Preisliste
+
+### Zimmerpreise (pro Person / Nacht)
+| Kategorie | Preis |
+|-----------|-------|
+| Wohnung (ab 10 Personen) | ab 12€ |
+| Mehrbettzimmer | ab 15€ |
+| Doppelzimmer | ab 18€ |
+| Einzelzimmer | ab 25€ |
+
+### Wohnungspreise (pro Tag)
+| Kategorie | Preis |
+|-----------|-------|
+| 1-Personen-Apartment | ab 30€/Tag |
+| 2-Personen-Apartment | ab 50€/Tag |
+| 4-Personen-Apartment | ab 80€/Tag |
+| 4-Personen-Wohnung | ab 60€/Tag |
+| 6-Personen-Wohnung | ab 90€/Tag |
+| 10-Personen-Wohnung | ab 150€/Tag |
+| 20-Personen-Haus | ab 200€/Tag |
+
+### Hauspreise (pro Tag)
+| Kategorie | Preis |
+|-----------|-------|
+| 7-Personen-Haus | ab 120€/Tag |
+| 13-Personen-Haus | ab 175€/Tag |
+| 16-Personen-Haus | ab 200€/Tag |
+
+Preise variieren je nach Saison und Auslastung. Keine Vermittlungsgebühren – direkt beim Vermieter buchen.
+
+## Häufig gestellte Fragen (FAQ)
+
+**F: Ab wann kann ich ein- und auschecken?**
+A: Check-in ist ab 14:00 Uhr möglich, Check-out bis 10:00 Uhr. Flexible Zeiten nach Absprache.
+
+**F: Gibt es eine Mindestaufenthaltsdauer?**
+A: Nein, wir vermieten bereits ab einer Nacht. Bei längeren Aufenthalten bieten wir Sonderkonditionen.
+
+**F: Sind Parkplätze vorhanden?**
+A: Ja, kostenlose Parkplätze stehen direkt am Haus zur Verfügung.
+
+**F: Kann ich auch für mein Team buchen?**
+A: Selbstverständlich! Wir bieten Unterkünfte für einzelne Personen bis hin zu ganzen Teams mit bis zu 20 Personen.
+
+**F: Wird Bettwäsche und Handtücher gestellt?**
+A: Ja, Bettwäsche und Handtücher sind inklusive und werden wöchentlich gewechselt.
+
+## Zielgruppen
+
+- Monteure und Handwerker auf Montage
+- Geschäftsreisende
+- Messebesucher und Aussteller (Messe Augsburg)
+- Projektteams bei längeren Einsätzen
+- Relocation / temporäre Unterkunft
+- Baustellenteams in der Region Augsburg/Schwaben
+
+## Lagevorteile
+
+- Zentrale Lage in Augsburg (Barfüßerstraße 7, 86150 Augsburg)
+- 15 Minuten zur Messe Augsburg
+- Direkt in der Augsburger Innenstadt
+- ÖPNV-Haltestellen direkt vor der Tür
+- Schnelle Anbindung an Autobahn A8 und Bundesstraße B17
+- Nähe zu München (ca. 60 km), Ulm (ca. 80 km)
+
+## Sprachen
+
+Die Website ist in 5 Sprachen verfügbar:
+- Deutsch (Standardsprache): https://www.monteurzimmer.augsburg-apartments.de/
+- English: https://www.monteurzimmer.augsburg-apartments.de/en/
+- Polski: https://www.monteurzimmer.augsburg-apartments.de/pl/
+- Čeština: https://www.monteurzimmer.augsburg-apartments.de/cs/
+- Română: https://www.monteurzimmer.augsburg-apartments.de/ro/
+
+## Unternehmensverbund
+
+Monteurzimmer Augsburg gehört zu einem Verbund von Unterkunftsanbietern in Augsburg:
+- **apartment-augsburg.de** – Möblierte Apartments in Augsburg
+- **wohnbaron.de** – Premium-Wohnungen in Augsburg
+- **relocation-augsburg.de** – Relocation-Service für Augsburg
+- **goldener-falke.de** – Hotel Goldener Falke Augsburg

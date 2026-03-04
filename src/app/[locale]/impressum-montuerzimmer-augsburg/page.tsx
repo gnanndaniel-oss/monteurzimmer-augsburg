@@ -1,7 +1,7 @@
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import { CONTACT } from '@/lib/constants';
-import { generateAlternates } from '@/lib/seo';
+import {  generateAlternates , generateBreadcrumbSchema } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -11,8 +11,18 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 
 export default async function ImprintPage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
+  const m = (await import(`../../../../messages/${locale}.json`)).default;
+  const breadcrumb = generateBreadcrumbSchema([
+    { name: m.nav.home, path: '' },
+    { name: m.nav.imprint },
+  ], locale);
   setRequestLocale(locale);
-  return <ImprintContent />;
+  return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
+      <ImprintContent />
+    </>
+  );
 }
 
 function ImprintContent() {
