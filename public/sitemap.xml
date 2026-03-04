@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- Homepage -->
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/" />
@@ -10,11 +9,59 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/" />
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/" />
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/" />
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Monteurzimmer Übersicht -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/" />
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/" />
@@ -22,11 +69,59 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/" />
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/" />
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/" />
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- ST5-100 -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
@@ -34,11 +129,59 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- ST5-200 -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-i-st5-100/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
@@ -46,11 +189,59 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- ST5-300 -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
@@ -58,11 +249,59 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- ST5-400 -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
@@ -70,11 +309,59 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Monteurwohnung -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/" />
@@ -82,11 +369,59 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurwohnung-augsburg/" />
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurwohnung-augsburg/" />
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/" />
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Monteurapartment -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/monteurwohnung-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/monteurwohnung-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/monteurwohnung-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/monteurwohnung-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurwohnung-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/" />
@@ -94,11 +429,59 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurapartment-augsburg/" />
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurapartment-augsburg/" />
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/" />
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Monteurhaus -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/monteurapartment-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/monteurapartment-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/monteurapartment-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/monteurapartment-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurapartment-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurapartment-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/" />
@@ -106,11 +489,59 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurhaus-augsburg/" />
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurhaus-augsburg/" />
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/" />
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Reservierung -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/monteurhaus-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/monteurhaus-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/monteurhaus-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/monteurhaus-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/monteurhaus-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/monteurhaus-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/" />
@@ -118,11 +549,59 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/reservierung-monterwohungaugsburg/" />
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/reservierung-monterwohungaugsburg/" />
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/" />
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- Messe -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/reservierung-monterwohungaugsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/reservierung-monterwohungaugsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/reservierung-monterwohungaugsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/reservierung-monterwohungaugsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/reservierung-monterwohungaugsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/</loc>
     <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/" />
@@ -130,20 +609,175 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/messe-monteurzimmer-augsburg/" />
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/messe-monteurzimmer-augsburg/" />
     <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/" />
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
-  <!-- Impressum -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/messe-monteurzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/messe-monteurzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/messe-monteurzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/messe-monteurzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/messe-monteurzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/messe-monteurzimmer-augsburg/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/" />
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
 
-  <!-- Datenschutz -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/impressum-montuerzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/impressum-montuerzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/impressum-montuerzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/impressum-montuerzimmer-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/impressum-montuerzimmer-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/impressum-montuerzimmer-augsburg/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
   <url>
     <loc>https://www.monteurzimmer.augsburg-apartments.de/datenschutz/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/datenschutz/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/en/datenschutz/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/datenschutz/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/pl/datenschutz/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/datenschutz/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/cs/datenschutz/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/datenschutz/" />
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/ro/datenschutz/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.monteurzimmer.augsburg-apartments.de/en/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.monteurzimmer.augsburg-apartments.de/pl/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.monteurzimmer.augsburg-apartments.de/cs/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://www.monteurzimmer.augsburg-apartments.de/ro/datenschutz/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/datenschutz/" />
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
