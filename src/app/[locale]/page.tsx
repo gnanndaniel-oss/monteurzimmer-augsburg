@@ -57,7 +57,7 @@ function HomeContent() {
       {/* Hero */}
       <section className="relative bg-gradient-to-br from-slate-900 via-slate-800 to-brand-900 text-white overflow-hidden">
         <div className="absolute inset-0 opacity-10">
-          <div className="absolute inset-0" style={{ backgroundImage: 'url(/attachments/Image/Monteurwohnung_Augsburg__1-13.jpg)', backgroundSize: 'cover', backgroundPosition: 'center' }} />
+          <div className="absolute inset-0" style={{ backgroundImage: 'url(/attachments/Image/monteurwohnung-augsburg-ansicht.jpg)', backgroundSize: 'cover', backgroundPosition: 'center' }} />
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 sm:py-28">
           <div className="max-w-3xl">

@@ -61,8 +61,8 @@ export default async function LocaleLayout({ children, params }: Props) {
     telephone: CONTACT.phone,
     faxNumber: CONTACT.fax,
     email: 'info@augsburg-apartments.de',
-    image: `${SITE_URL}/attachments/Image/Monteurwohnung_Augsburg__1-13.jpg`,
-    logo: `${SITE_URL}/attachments/Image/Augsburg_Apartments_Logo.jpg`,
+    image: `${SITE_URL}/attachments/Image/monteurwohnung-augsburg-ansicht.jpg`,
+    logo: `${SITE_URL}/attachments/Image/augsburg-apartments-logo.jpg`,
     address: {
       '@type': 'PostalAddress',
       streetAddress: 'Barfüßerstraße 7',
@@ -118,7 +118,7 @@ export default async function LocaleLayout({ children, params }: Props) {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
     name: 'Monteurzimmer Augsburg',
-    image: `${SITE_URL}/attachments/Image/Monteurwohnung_Augsburg__1-13.jpg`,
+    image: `${SITE_URL}/attachments/Image/monteurwohnung-augsburg-ansicht.jpg`,
     telephone: CONTACT.phone,
     address: {
       '@type': 'PostalAddress',

@@ -38,14 +38,7 @@ export default async function ST5400({ params }: { params: Promise<{ locale: str
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(roomSchema) }} />
-      <RoomDetailPage roomKey="st5400" images={[
-        '/data/imagegallery/8fe64f03-9b24-03cf-8e4e-9073c9c884db/28b7263b-635e-b239-0892-4d84fe418771.jpg',
-        '/data/imagegallery/8fe64f03-9b24-03cf-8e4e-9073c9c884db/4f2045f4-e9be-bff7-944a-7a138a94563d.jpg',
-        '/data/imagegallery/8fe64f03-9b24-03cf-8e4e-9073c9c884db/7545b6c3-4c72-9726-d118-4c26306b027e.jpg',
-        '/data/imagegallery/8fe64f03-9b24-03cf-8e4e-9073c9c884db/75fced4e-4759-4f9c-556b-aeba47ecf0a3.jpg',
-        '/data/imagegallery/8fe64f03-9b24-03cf-8e4e-9073c9c884db/777612af-6a41-9a89-c3da-9a44d217c66c.jpg',
-        '/data/imagegallery/8fe64f03-9b24-03cf-8e4e-9073c9c884db/82542219-334a-47f3-6ef5-a80ed96f91c6.jpg',
-      ]} />
+      <RoomDetailPage roomKey="st5400" images={[...room.images]} />
     </>
   );
 }

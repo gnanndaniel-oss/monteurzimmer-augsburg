@@ -22,7 +22,10 @@ export default async function MonteurwohnungPage({ params }: { params: Promise<{
     <CategoryPage
       titleKey="apartmentPage.title"
       descKey="apartmentPage.desc"
-      images={['/attachments/Image/Monteurwohnung_Augsburg__1-13.jpg']}
+      images={[
+        '/attachments/Image/monteurwohnung-augsburg-ansicht.jpg',
+        '/attachments/Image/monteurwohnung-augsburg-zimmer.jpg',
+      ]}
       pricing={[
         { labelKey: 'pricing.apt4', priceKey: 'pricing.apt4Price' },
         { labelKey: 'pricing.apt6', priceKey: 'pricing.apt6Price' },

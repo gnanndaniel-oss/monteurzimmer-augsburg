@@ -52,7 +52,7 @@ export function generateOgMeta(
     type: 'website' as const,
     images: [
       {
-        url: image || `${SITE_URL}/attachments/Image/Monteurwohnung_Augsburg__1-13.jpg`,
+        url: image || `${SITE_URL}/attachments/Image/monteurwohnung-augsburg-ansicht.jpg`,
         width: 1200,
         height: 630,
         alt: title,
