@@ -9,7 +9,8 @@
     "titleReservation": "Reservation – Book Workers' Rooms Augsburg",
     "titleFair": "Trade Fair Accommodation Augsburg – Rooms for Exhibitors",
     "titleImprint": "Legal Notice – Workers' Rooms Augsburg",
-    "titlePrivacy": "Privacy Policy – Workers' Rooms Augsburg"
+    "titlePrivacy": "Privacy Policy – Workers' Rooms Augsburg",
+    "titleContact": "Contact – Monteurzimmer Augsburg"
   },
   "nav": {
     "home": "Home",
@@ -22,7 +23,8 @@
     "imprint": "Legal Notice",
     "privacy": "Privacy Policy",
     "callUs": "Call us",
-    "bookNow": "Book now"
+    "bookNow": "Book now",
+    "contact": "Contact"
   },
   "hero": {
     "title": "Workers' Rooms & Apartments in Augsburg",

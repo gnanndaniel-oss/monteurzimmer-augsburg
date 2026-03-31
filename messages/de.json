@@ -9,7 +9,8 @@
     "titleReservation": "Reservierung – Monteurzimmer Augsburg buchen",
     "titleFair": "Messe-Monteurzimmer Augsburg – Unterkunft zur Messe",
     "titleImprint": "Impressum – Monteurzimmer Augsburg",
-    "titlePrivacy": "Datenschutzerklärung – Monteurzimmer Augsburg"
+    "titlePrivacy": "Datenschutzerklärung – Monteurzimmer Augsburg",
+    "titleContact": "Kontakt – Monteurzimmer Augsburg"
   },
   "nav": {
     "home": "Startseite",
@@ -22,7 +23,8 @@
     "imprint": "Impressum",
     "privacy": "Datenschutz",
     "callUs": "Jetzt anrufen",
-    "bookNow": "Jetzt buchen"
+    "bookNow": "Jetzt buchen",
+    "contact": "Kontakt"
   },
   "hero": {
     "title": "Monteurzimmer & Monteurwohnungen in Augsburg",

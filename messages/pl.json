@@ -9,7 +9,8 @@
     "titleReservation": "Rezerwacja – Pokoje dla monterów Augsburg",
     "titleFair": "Zakwaterowanie targowe Augsburg – Pokoje na targi",
     "titleImprint": "Impressum – Pokoje dla monterów Augsburg",
-    "titlePrivacy": "Polityka prywatności – Pokoje dla monterów Augsburg"
+    "titlePrivacy": "Polityka prywatności – Pokoje dla monterów Augsburg",
+    "titleContact": "Kontakt – Monteurzimmer Augsburg"
   },
   "nav": {
     "home": "Strona główna",
@@ -22,7 +23,8 @@
     "imprint": "Impressum",
     "privacy": "Prywatność",
     "callUs": "Zadzwoń",
-    "bookNow": "Rezerwuj"
+    "bookNow": "Rezerwuj",
+    "contact": "Kontakt"
   },
   "hero": {
     "title": "Pokoje i mieszkania dla monterów w Augsburgu",

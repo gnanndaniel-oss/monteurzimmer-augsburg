@@ -18,6 +18,7 @@ export default function Header() {
     { href: '/monteurhaus-augsburg/', label: t('house') },
     { href: '/messe-monteurzimmer-augsburg/', label: t('fair') },
     { href: '/reservierung-monterwohungaugsburg/', label: t('reservation') },
+    { href: '/kontakt/', label: t('contact') },
   ];
 
   return (

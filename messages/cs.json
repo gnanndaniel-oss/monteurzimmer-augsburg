@@ -9,7 +9,8 @@
     "titleReservation": "Rezervace – Montážní pokoje Augsburg",
     "titleFair": "Ubytování na veletrh Augsburg – Pokoje pro vystavovatele",
     "titleImprint": "Impressum – Montážní pokoje Augsburg",
-    "titlePrivacy": "Zásady ochrany osobních údajů – Montážní pokoje Augsburg"
+    "titlePrivacy": "Zásady ochrany osobních údajů – Montážní pokoje Augsburg",
+    "titleContact": "Kontakt – Monteurzimmer Augsburg"
   },
   "nav": {
     "home": "Hlavní strana",
@@ -22,7 +23,8 @@
     "imprint": "Impressum",
     "privacy": "Ochrana údajů",
     "callUs": "Zavolejte",
-    "bookNow": "Rezervovat"
+    "bookNow": "Rezervovat",
+    "contact": "Kontakt"
   },
   "hero": {
     "title": "Pokoje a byty pro montéry v Augsburgu",

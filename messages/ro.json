@@ -9,7 +9,8 @@
     "titleReservation": "Rezervare – Camere pentru muncitori Augsburg",
     "titleFair": "Cazare pentru târg Augsburg – Camere pentru expozanți",
     "titleImprint": "Impressum – Camere pentru muncitori Augsburg",
-    "titlePrivacy": "Politica de confidențialitate – Camere pentru muncitori Augsburg"
+    "titlePrivacy": "Politica de confidențialitate – Camere pentru muncitori Augsburg",
+    "titleContact": "Contact – Monteurzimmer Augsburg"
   },
   "nav": {
     "home": "Acasă",
@@ -22,7 +23,8 @@
     "imprint": "Impressum",
     "privacy": "Confidențialitate",
     "callUs": "Sunați-ne",
-    "bookNow": "Rezervați"
+    "bookNow": "Rezervați",
+    "contact": "Contact"
   },
   "hero": {
     "title": "Camere și apartamente pentru muncitori în Augsburg",
