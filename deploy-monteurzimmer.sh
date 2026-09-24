@@ -104,7 +104,9 @@ fi
 rm -rf "${HTTPDOCS:?}"/*
 rsync -a "$BUILD_DIR/out/" "$HTTPDOCS/"
 
-if [ -f /tmp/monteurzimmer-htaccess-bak ]; then
+# Die .htaccess aus dem Repo (public/.htaccess → out/.htaccess) hat Vorrang;
+# nur wenn der Build keine mitbringt, wird die alte Server-Version wiederhergestellt.
+if [ ! -f "$BUILD_DIR/out/.htaccess" ] && [ -f /tmp/monteurzimmer-htaccess-bak ]; then
     cp /tmp/monteurzimmer-htaccess-bak "$HTTPDOCS/.htaccess"
 fi
 

@@ -4,6 +4,12 @@ RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
+# /de/-Präfix-URLs (Duplikate) per 301 auf die kanonische URL ohne Präfix.
+# THE_REQUEST prüft nur die Original-Anfrage, daher keine Schleife mit dem
+# internen Rewrite weiter unten.
+RewriteCond %{THE_REQUEST} \s/de/(\S*)\s
+RewriteRule ^de/(.*)$ /$1 [R=301,L]
+
 # German URLs without /de/ prefix — rewrite internally to /de/
 # Only for paths that are NOT already a locale prefix and NOT static files
 RewriteCond %{REQUEST_URI} !^/(de|en|pl|cs|ro)/
@@ -16,6 +22,7 @@ RewriteCond %{REQUEST_URI} !^/robots\.txt
 RewriteCond %{REQUEST_URI} !^/llms\.txt
 RewriteCond %{REQUEST_URI} !^/llms-full\.txt
 RewriteCond %{REQUEST_URI} !^/\.well-known/
+RewriteCond %{REQUEST_URI} !^/404\.html
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ /de/$1 [L]
@@ -69,5 +76,5 @@ RewriteRule ^$ /de/index.html [L]
 # Prevent directory listing
 Options -Indexes
 
-# Custom error pages
-ErrorDocument 404 /de/index.html
+# Custom error pages – echte 404-Seite statt Startseite (sonst Soft-404)
+ErrorDocument 404 /404.html
