@@ -1,9 +1,10 @@
 import { pageMetadata } from '@/lib/meta';
 import { setRequestLocale } from 'next-intl/server';
 import CategoryPage from '@/components/CategoryPage';
-import { getGermanPageContent } from '@/lib/markdown';
+import { getPageContent } from '@/lib/markdown';
 import { ContentIntro, ContentBody, PhotoGallery } from '@/components/SeoContent';
 import { GALLERY_MONTEURAPARTMENT } from '@/content/images';
+import { UI, asLoc, localizePhoto } from '@/lib/ui-i18n';
 import {  generateAlternates, generateOgMeta , generateBreadcrumbSchema } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -19,7 +20,7 @@ export default async function MonteurapartmentPage({ params }: { params: Promise
     { name: m.nav.monteurapartment },
   ], locale);
   setRequestLocale(locale);
-  const content = getGermanPageContent(locale, 'monteurapartment');
+  const content = getPageContent(locale, 'monteurapartment');
   return (
     <>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
@@ -39,7 +40,7 @@ export default async function MonteurapartmentPage({ params }: { params: Promise
         { labelKey: 'pricing.apt4Small', priceKey: 'pricing.apt4SmallPrice' },
       ]}
     >
-      {content && <PhotoGallery photos={GALLERY_MONTEURAPARTMENT} title="Fotos: Einblick in unsere Apartments" />}
+      {content && <PhotoGallery photos={GALLERY_MONTEURAPARTMENT.map((p) => localizePhoto(p, locale))} title={UI[asLoc(locale)].galleryStudio} />}
       {content && <ContentBody nodes={content.body} faq={content.faq} faqTitle={content.faqTitle} />}
     </CategoryPage>
     </>

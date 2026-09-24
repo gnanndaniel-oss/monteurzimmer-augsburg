@@ -1,7 +1,7 @@
 import { roomMetadata } from '@/lib/meta';
 import { setRequestLocale } from 'next-intl/server';
 import RoomDetailPage from '@/components/RoomDetailPage';
-import { getGermanPageContent } from '@/lib/markdown';
+import { getPageContent } from '@/lib/markdown';
 import { ContentBody } from '@/components/SeoContent';
 import { generateAlternates, generateOgMeta, generateBreadcrumbSchema, generateRoomSchema } from '@/lib/seo';
 import { ROOMS } from '@/lib/constants';
@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function ST5400({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const content = getGermanPageContent(locale, 'zimmer-st5-400');
+  const content = getPageContent(locale, 'zimmer-st5-400');
   const m = (await import(`../../../../../messages/${locale}.json`)).default;
   const room = ROOMS[3];
   const breadcrumb = generateBreadcrumbSchema([

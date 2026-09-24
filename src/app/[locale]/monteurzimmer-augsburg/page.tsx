@@ -1,5 +1,5 @@
 import { pageMetadata } from '@/lib/meta';
-import { getGermanPageContent, type ParsedContent } from '@/lib/markdown';
+import { getPageContent, type ParsedContent } from '@/lib/markdown';
 import { ContentIntro, ContentBody } from '@/components/SeoContent';
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
@@ -23,7 +23,7 @@ export default async function RoomsPage({ params }: { params: Promise<{ locale: 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
-      <RoomsContent content={getGermanPageContent(locale, 'monteurzimmer')} />
+      <RoomsContent content={getPageContent(locale, 'monteurzimmer')} />
     </>
   );
 }

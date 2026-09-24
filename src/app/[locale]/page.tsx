@@ -1,5 +1,5 @@
 import { pageMetadata } from '@/lib/meta';
-import { getGermanPageContent, type ParsedContent } from '@/lib/markdown';
+import { getPageContent, type ParsedContent } from '@/lib/markdown';
 import { ContentIntro, ContentBody } from '@/components/SeoContent';
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function HomePage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
-  const content = getGermanPageContent(locale, 'startseite');
+  const content = getPageContent(locale, 'startseite');
 
   return <HomeContent content={content} />;
 }

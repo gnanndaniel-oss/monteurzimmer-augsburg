@@ -1,7 +1,8 @@
 import { pageMetadata } from '@/lib/meta';
-import { getGermanPageContent, type ParsedContent } from '@/lib/markdown';
+import { getPageContent, type ParsedContent } from '@/lib/markdown';
 import { ContentIntro, ContentBody } from '@/components/SeoContent';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
+import { UI, asLoc } from '@/lib/ui-i18n';
 import { setRequestLocale } from 'next-intl/server';
 import ContactForm from '@/components/ContactForm';
 import { CONTACT } from '@/lib/constants';
@@ -23,13 +24,14 @@ export default async function KontaktPage({ params }: { params: Promise<{ locale
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
-      <KontaktContent content={getGermanPageContent(locale, 'kontakt')} />
+      <KontaktContent content={getPageContent(locale, 'kontakt')} />
     </>
   );
 }
 
 function KontaktContent({ content }: { content: ParsedContent | null }) {
   const t = useTranslations();
+  const ui = UI[asLoc(useLocale())];
 
   return (
     <>
@@ -53,7 +55,7 @@ function KontaktContent({ content }: { content: ParsedContent | null }) {
                 <h3 className="text-lg font-bold text-slate-900 mb-4">{t('contact.title')}</h3>
                 <div className="space-y-4 text-sm">
                   <div>
-                    <p className="font-semibold text-slate-700 mb-1">Telefon</p>
+                    <p className="font-semibold text-slate-700 mb-1">{ui.phone}</p>
                     <a href={CONTACT.phoneTel} className="text-brand-600 hover:underline font-medium text-base">{CONTACT.phone}</a>
                   </div>
                   <div>
@@ -61,7 +63,7 @@ function KontaktContent({ content }: { content: ParsedContent | null }) {
                     <p className="text-slate-600">{CONTACT.fax}</p>
                   </div>
                   <div>
-                    <p className="font-semibold text-slate-700 mb-1">Adresse</p>
+                    <p className="font-semibold text-slate-700 mb-1">{ui.address}</p>
                     <p className="text-slate-600">{CONTACT.address}</p>
                   </div>
                   <div>
@@ -79,7 +81,7 @@ function KontaktContent({ content }: { content: ParsedContent | null }) {
                 >
                   {CONTACT.phone}
                 </a>
-                <p className="text-brand-100 text-sm mt-2">Mo–Fr 8–18 Uhr</p>
+                <p className="text-brand-100 text-sm mt-2">{ui.hours}</p>
               </div>
             </div>
           </div>

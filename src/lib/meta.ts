@@ -51,12 +51,12 @@ const META: Record<PageKey, Record<Loc, Meta>> = {
   },
   rooms: {
     de: {
-      title: 'Monteurzimmer Augsburg – Einzel-, Doppel- & Dreibettzimmer',
+      title: 'Monteurzimmer Augsburg – Einzel-, Doppel-, Dreibettzimmer',
       description:
         'Monteurzimmer Augsburg I–IV in der Stiermannstraße 5: Einzel-, Doppel- und Dreibettzimmer, 6 bis 12 Personen je Einheit, ab 12 € pro Person und Nacht buchbar.',
     },
     en: {
-      title: "Workers' Rooms Augsburg – Single, Double & Triple Rooms",
+      title: 'Rooms for Workers in Augsburg – Single, Double, Triple',
       description:
         "Workers' rooms Augsburg I–IV at Stiermannstraße 5: single, double and triple rooms, 6 to 12 guests per unit, from €12 per person per night. Book directly.",
     },
@@ -83,7 +83,7 @@ const META: Record<PageKey, Record<Loc, Meta>> = {
         'Monteurwohnung in Augsburg mieten: komplett möbliert für 4–20 Personen, ab 60 € pro Tag. Eigene Küche, WLAN, wöchentliche Reinigung, Parkplätze. Ab 1 Nacht.',
     },
     en: {
-      title: "Workers' Apartments Augsburg – Furnished for 4–20 People",
+      title: "Workers' Apartments Augsburg – Furnished, 4–20 People",
       description:
         "Rent a furnished workers' apartment in Augsburg for 4–20 people from €60 per day. Own kitchen, Wi-Fi, weekly cleaning and parking. Stays from one night.",
     },
@@ -110,7 +110,7 @@ const META: Record<PageKey, Record<Loc, Meta>> = {
         'Monteurapartment in Augsburg: möblierte Apartments für 1–4 Personen ab 30 €/Tag – ideal für Einzelreisende und kleine Teams. Küche, WLAN, Parkplatz inklusive.',
     },
     en: {
-      title: "Small Workers' Apartments Augsburg – 1–4 People from €30",
+      title: "Workers' Studios Augsburg – 1–4 People from €30",
       description:
         'Furnished apartments in Augsburg for 1–4 people from €30 per day – ideal for individual workers and small teams. Kitchen, Wi-Fi and parking are included.',
     },
@@ -355,7 +355,7 @@ export function roomMetadata(index: number, code: string, cap: number, slug: str
   return build(roomMeta(asLoc(locale), index, code, cap), `monteurzimmer-augsburg/${slug}`, locale);
 }
 
-/** Für Seiten, die nur auf Deutsch existieren (Ratgeber). */
+/** Für Seiten, die nur auf Deutsch existieren. */
 export function germanOnlyMetadata(meta: Meta, path: string, image?: string) {
   const cleanPath = path ? `/${path.replace(/^\/|\/$/g, '')}/` : '/';
   const url = `https://www.monteurzimmer.augsburg-apartments.de${cleanPath}`;
@@ -364,5 +364,21 @@ export function germanOnlyMetadata(meta: Meta, path: string, image?: string) {
     description: meta.description,
     alternates: { canonical: url, languages: { de: url, 'x-default': url } },
     openGraph: { ...generateOgMeta(meta.title, meta.description, path, 'de', image), type: 'article' as const },
+  };
+}
+
+/** Ratgeber: existiert auf Deutsch, Englisch und Polnisch (hreflang nur zwischen diesen). */
+export function blogMetadata(meta: Meta, path: string, locale: string, image?: string) {
+  const cleanPath = path ? `/${path.replace(/^\/|\/$/g, '')}/` : '/';
+  const base = 'https://www.monteurzimmer.augsburg-apartments.de';
+  const urlFor = (l: string) => (l === 'de' ? `${base}${cleanPath}` : `${base}/${l}${cleanPath}`);
+  return {
+    title: { absolute: meta.title },
+    description: meta.description,
+    alternates: {
+      canonical: urlFor(locale),
+      languages: { de: urlFor('de'), en: urlFor('en'), pl: urlFor('pl'), 'x-default': urlFor('de') },
+    },
+    openGraph: { ...generateOgMeta(meta.title, meta.description, path, locale, image), type: 'article' as const },
   };
 }

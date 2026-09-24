@@ -1,7 +1,7 @@
 import { pageMetadata } from '@/lib/meta';
 import { setRequestLocale } from 'next-intl/server';
 import CategoryPage from '@/components/CategoryPage';
-import { getGermanPageContent } from '@/lib/markdown';
+import { getPageContent } from '@/lib/markdown';
 import { ContentIntro, ContentBody } from '@/components/SeoContent';
 import {  generateAlternates, generateOgMeta , generateBreadcrumbSchema } from '@/lib/seo';
 
@@ -18,7 +18,7 @@ export default async function MonteurhausPage({ params }: { params: Promise<{ lo
     { name: m.nav.house },
   ], locale);
   setRequestLocale(locale);
-  const content = getGermanPageContent(locale, 'monteurhaus');
+  const content = getPageContent(locale, 'monteurhaus');
   return (
     <>
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />

@@ -193,6 +193,10 @@ function renderBlock(b: Block, k: string): ReactNode {
   }
 }
 
+/** FAQ-Überschrift in allen Sprachen (Abschnitt beginnt mit dieser Phrase). */
+const FAQ_HEADING =
+  /^(Häufige Fragen|Frequently asked questions|Najczęściej zadawane pytania|Často kladené otázky|Întrebări frecvente)/i;
+
 export type ParsedContent = {
   intro: ReactNode[];
   body: ReactNode[];
@@ -219,7 +223,7 @@ export function parseContent(md: string): ParsedContent {
 
   blocks.forEach((b, i) => {
     if (b.type === 'h2') {
-      inFaq = /^Häufige Fragen/i.test(b.text);
+      inFaq = FAQ_HEADING.test(b.text);
       if (inFaq) {
         faqTitle = b.text;
         return;
@@ -245,8 +249,27 @@ export function countWords(md: string): number {
   return plainText(md.replace(/<!--.*?-->/g, '')).split(/\s+/).filter(Boolean).length;
 }
 
-/** Deutscher Zusatzinhalt einer Seite (nur für locale 'de'). */
-export function getGermanPageContent(locale: string, file: string): ParsedContent | null {
-  if (locale !== 'de') return null;
-  return parseContent(readContent(`seiten/${file}.md`));
+/**
+ * Setzt bei internen Links das Sprachpräfix (Inhalte verlinken immer auf die
+ * deutschen Pfade). Ratgeber-Links bleiben für Sprachen ohne übersetzten
+ * Ratgeber (cs, ro) auf der deutschen URL.
+ */
+export function localizeLinks(md: string, locale: string): string {
+  if (locale === 'de') return md;
+  const blogTranslated = ['en', 'pl'].includes(locale);
+  return md.replace(/\]\((\/[^)]*)\)/g, (all, href: string) => {
+    if (/^\/(en|pl|cs|ro)\//.test(href)) return all;
+    if (href.startsWith('/blog/') && !blogTranslated) return all;
+    return `](/${locale}${href})`;
+  });
+}
+
+/**
+ * Redaktioneller Inhalt einer Seite in der jeweiligen Sprache:
+ * de → seiten/<file>.md, sonst seiten/<locale>/<file>.md (null, wenn nicht vorhanden).
+ */
+export function getPageContent(locale: string, file: string): ParsedContent | null {
+  const rel = locale === 'de' ? `seiten/${file}.md` : `seiten/${locale}/${file}.md`;
+  if (!fs.existsSync(path.join(CONTENT_DIR, rel))) return null;
+  return parseContent(localizeLinks(readContent(rel), locale));
 }

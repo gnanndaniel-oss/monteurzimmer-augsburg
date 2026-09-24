@@ -1,5 +1,5 @@
 import { pageMetadata } from '@/lib/meta';
-import { getGermanPageContent, type ParsedContent } from '@/lib/markdown';
+import { getPageContent, type ParsedContent } from '@/lib/markdown';
 import { ContentIntro, ContentBody } from '@/components/SeoContent';
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
@@ -23,7 +23,7 @@ export default async function FairPage({ params }: { params: Promise<{ locale: s
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
-      <FairContent content={getGermanPageContent(locale, 'messe')} />
+      <FairContent content={getPageContent(locale, 'messe')} />
     </>
   );
 }
