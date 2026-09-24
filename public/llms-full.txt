@@ -79,7 +79,7 @@
 - URL: https://www.monteurzimmer.augsburg-apartments.de/kontakt/
 - Inhalt: Kontaktdaten (Telefon Mo–Fr 8–18 Uhr), Angaben für ein schnelles Angebot, Entscheidungshilfe Unterkunftsart
 
-### Ratgeber (nur Deutsch)
+### Ratgeber (Deutsch, Übersetzungen auf Englisch und Polnisch)
 - Übersicht: https://www.monteurzimmer.augsburg-apartments.de/blog/
 - Monteurzimmer steuerlich absetzen – was Firmen wissen müssen: https://www.monteurzimmer.augsburg-apartments.de/blog/monteurzimmer-steuerlich-absetzen/
   Kernaussagen: Übernachtungskosten bei Auswärtstätigkeit sind Betriebsausgaben und nach § 3 Nr. 16 EStG steuerfrei erstattbar; kurzfristige Beherbergung 7 % USt (§ 12 Abs. 2 Nr. 11 UStG), Nebenleistungen 19 %; Pflichtangaben für den Vorsteuerabzug (§ 14 Abs. 4 UStG); Inlands-Übernachtungspauschale 20 €; Verpflegungspauschalen 14 €/28 €; nach 48 Monaten am selben Einsatzort max. 1.000 € Unterkunftskosten pro Monat. Allgemeine Information, keine Steuerberatung.
@@ -178,12 +178,32 @@ A: Über das Reservierungsformular (https://www.monteurzimmer.augsburg-apartment
 
 ## Sprachen
 
-Die Website ist in 5 Sprachen verfügbar:
+Die Website ist in 5 Sprachen verfügbar. Alle Seiten (Startseite, Monteurzimmer I–IV, Monteurwohnung, Monteurapartment, Monteurhaus, Messe, Reservierung, Kontakt) sind vollständig übersetzt, inkl. FAQ; gleiche Pfade mit Sprachpräfix, hreflang de/en/pl/cs/ro/x-default. Fakten sind in allen Sprachen identisch.
 - Deutsch (Standardsprache): https://www.monteurzimmer.augsburg-apartments.de/
 - English: https://www.monteurzimmer.augsburg-apartments.de/en/
 - Polski: https://www.monteurzimmer.augsburg-apartments.de/pl/
 - Čeština: https://www.monteurzimmer.augsburg-apartments.de/cs/
 - Română: https://www.monteurzimmer.augsburg-apartments.de/ro/
+
+### English
+Workers' accommodation in Augsburg, Germany, rented directly by Gnann Verwaltung GmbH: workers' rooms from €12 per person per night (apartment with 10+ people), €15 shared room, €18 double room, €25 single room; apartments for 4–20 people, studio apartments for 1–4, whole houses for 7–16. Check-in from 2 pm, check-out by 10 am, phone +49 821 419028-28 (Mon–Fri 8 am–6 pm). Several locations incl. Barfüßerstraße 7 and Stiermannstraße.
+- Home: https://www.monteurzimmer.augsburg-apartments.de/en/ · Rooms: https://www.monteurzimmer.augsburg-apartments.de/en/monteurzimmer-augsburg/ · Apartments: https://www.monteurzimmer.augsburg-apartments.de/en/monteurwohnung-augsburg/ · Booking: https://www.monteurzimmer.augsburg-apartments.de/en/reservierung-monterwohungaugsburg/
+- Guides (7 articles, translated from German): https://www.monteurzimmer.augsburg-apartments.de/en/blog/
+
+### Polski
+Kwatery dla pracowników i noclegi dla monterów w Augsburgu (Niemcy), bezpośrednio u Gnann Verwaltung GmbH: od 12 € za osobę/noc (mieszkanie od 10 osób), 15 € pokój wieloosobowy, 18 € pokój 2-osobowy, 25 € pokój 1-osobowy; mieszkania dla 4–20 osób, apartamenty dla 1–4, całe domy dla 7–16. Zameldowanie od 14:00, wymeldowanie do 10:00, tel. +49 821 419028-28 (pn.–pt. 8–18). Kilka lokalizacji, m.in. Barfüßerstraße 7 i Stiermannstraße.
+- Strona główna: https://www.monteurzimmer.augsburg-apartments.de/pl/ · Pokoje: https://www.monteurzimmer.augsburg-apartments.de/pl/monteurzimmer-augsburg/ · Mieszkania: https://www.monteurzimmer.augsburg-apartments.de/pl/monteurwohnung-augsburg/ · Rezerwacja: https://www.monteurzimmer.augsburg-apartments.de/pl/reservierung-monterwohungaugsburg/
+- Poradnik (7 artykułów, tłumaczenie z niemieckiego): https://www.monteurzimmer.augsburg-apartments.de/pl/blog/
+
+### Čeština
+Ubytování pro dělníky a montéry v Augsburgu (Německo), přímo u Gnann Verwaltung GmbH: od 12 € za osobu a noc (byt od 10 osob), 15 € vícelůžkový pokoj, 18 € dvoulůžkový, 25 € jednolůžkový; byty pro 4–20 osob, apartmány pro 1–4, celé domy pro 7–16. Check-in od 14:00, check-out do 10:00, tel. +49 821 419028-28 (po–pá 8–18). Více lokalit, mj. Barfüßerstraße 7 a Stiermannstraße.
+- Úvod: https://www.monteurzimmer.augsburg-apartments.de/cs/ · Pokoje: https://www.monteurzimmer.augsburg-apartments.de/cs/monteurzimmer-augsburg/ · Byty: https://www.monteurzimmer.augsburg-apartments.de/cs/monteurwohnung-augsburg/ · Rezervace: https://www.monteurzimmer.augsburg-apartments.de/cs/reservierung-monterwohungaugsburg/
+- Rádce je k dispozici jen německy: https://www.monteurzimmer.augsburg-apartments.de/blog/
+
+### Română
+Cazare muncitori în Augsburg (Germania), direct de la Gnann Verwaltung GmbH: de la 12 € de persoană/noapte (apartament de la 10 persoane), 15 € cameră cu mai multe paturi, 18 € cameră dublă, 25 € cameră single; apartamente pentru 4–20 persoane, mini-apartamente pentru 1–4, case întregi pentru 7–16. Check-in de la 14:00, check-out până la 10:00, tel. +49 821 419028-28 (luni–vineri 8–18). Mai multe locații, printre care Barfüßerstraße 7 și Stiermannstraße.
+- Acasă: https://www.monteurzimmer.augsburg-apartments.de/ro/ · Camere: https://www.monteurzimmer.augsburg-apartments.de/ro/monteurzimmer-augsburg/ · Apartamente: https://www.monteurzimmer.augsburg-apartments.de/ro/monteurwohnung-augsburg/ · Rezervare: https://www.monteurzimmer.augsburg-apartments.de/ro/reservierung-monterwohungaugsburg/
+- Ghidurile sunt disponibile doar în limba germană: https://www.monteurzimmer.augsburg-apartments.de/blog/
 
 ## Unternehmensverbund
 

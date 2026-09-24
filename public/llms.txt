@@ -78,7 +78,7 @@ Mehrere Standorte im Augsburger Stadtgebiet, u. a. Barfüßerstraße 7 (Innensta
 
 ## Sprachen
 
-Website verfügbar in: Deutsch, English, Polski, Čeština, Română
+Website verfügbar in: Deutsch, English (/en/), Polski (/pl/), Čeština (/cs/), Română (/ro/) – alle Seiten vollständig übersetzt inkl. FAQ. Ratgeber zusätzlich auf Englisch (/en/blog/) und Polnisch (/pl/blog/). Details je Sprache: llms-full.txt
 
 ## Kontakt & Reservierung
 

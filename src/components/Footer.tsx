@@ -3,6 +3,7 @@
 import { useLocale, useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { CONTACT } from '@/lib/constants';
+import { BLOG_UI, isBlogLocale, localePath } from '@/lib/ui-i18n';
 
 export default function Footer() {
   const t = useTranslations();
@@ -49,9 +50,9 @@ export default function Footer() {
               <Link href="/reservierung-monterwohungaugsburg/" className="block hover:text-brand-400 transition-colors">
                 {t('nav.reservation')}
               </Link>
-              {locale === 'de' && (
-                <a href="/blog/" className="block hover:text-brand-400 transition-colors">
-                  Ratgeber
+              {isBlogLocale(locale) && (
+                <a href={localePath(locale, '/blog/')} className="block hover:text-brand-400 transition-colors">
+                  {BLOG_UI[locale].footerLabel}
                 </a>
               )}
               <Link href="/impressum-montuerzimmer-augsburg/" className="block hover:text-brand-400 transition-colors">
