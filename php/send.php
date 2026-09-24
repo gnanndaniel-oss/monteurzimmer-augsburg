@@ -98,7 +98,7 @@ $headers = [
 ];
 
 // Senden
-$sent = mail($to, $subject, $body, implode("\r\n", $headers));
+$sent = mail($to, $subject, $body, implode("\r\n", $headers), '-fnoreply@augsburg-apartments.de');
 
 if ($sent) {
     // Bestätigungsmail an Absender
@@ -122,7 +122,7 @@ if ($sent) {
         "Content-Type: text/plain; charset=UTF-8",
     ];
 
-    mail($email, $confirmSubject, $confirmBody, implode("\r\n", $confirmHeaders));
+    mail($email, $confirmSubject, $confirmBody, implode("\r\n", $confirmHeaders), '-fnoreply@augsburg-apartments.de');
 
     echo json_encode(['success' => true]);
 } else {
