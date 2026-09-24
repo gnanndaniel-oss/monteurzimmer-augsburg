@@ -82,3 +82,36 @@ export function FaqList({ faq, title }: { faq: FaqItem[]; title: string }) {
     </div>
   );
 }
+
+/** Fotogalerie mit echten Maßen, alt-Texten und lazy loading. */
+export function PhotoGallery({
+  photos,
+  title,
+}: {
+  photos: { src: string; alt: string; width: number; height: number }[];
+  title: string;
+}) {
+  return (
+    <section className="py-12 bg-slate-50">
+      <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+        <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 mb-6">{title}</h2>
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
+          {photos.map((p) => (
+            <figure key={p.src} className="bg-white rounded-xl overflow-hidden border border-slate-200">
+              <img
+                src={p.src}
+                alt={p.alt}
+                width={p.width}
+                height={p.height}
+                loading="lazy"
+                decoding="async"
+                className="w-full aspect-[4/3] object-cover"
+              />
+              <figcaption className="text-xs text-slate-500 px-3 py-2">{p.alt}</figcaption>
+            </figure>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}

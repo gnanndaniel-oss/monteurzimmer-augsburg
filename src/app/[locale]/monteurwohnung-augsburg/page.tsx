@@ -2,7 +2,8 @@ import { pageMetadata } from '@/lib/meta';
 import { setRequestLocale } from 'next-intl/server';
 import CategoryPage from '@/components/CategoryPage';
 import { getGermanPageContent } from '@/lib/markdown';
-import { ContentIntro, ContentBody } from '@/components/SeoContent';
+import { ContentIntro, ContentBody, PhotoGallery } from '@/components/SeoContent';
+import { GALLERY_MONTEURWOHNUNG } from '@/content/images';
 import {  generateAlternates, generateOgMeta , generateBreadcrumbSchema } from '@/lib/seo';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
@@ -37,6 +38,7 @@ export default async function MonteurwohnungPage({ params }: { params: Promise<{
         { labelKey: 'pricing.apt20', priceKey: 'pricing.apt20Price' },
       ]}
     >
+      {content && <PhotoGallery photos={GALLERY_MONTEURWOHNUNG} title="Fotos: So wohnen Monteure bei uns" />}
       {content && <ContentBody nodes={content.body} faq={content.faq} faqTitle={content.faqTitle} />}
     </CategoryPage>
     </>

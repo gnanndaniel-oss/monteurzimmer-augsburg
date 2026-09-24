@@ -3,13 +3,15 @@
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { CONTACT } from '@/lib/constants';
+import type { ReactNode } from 'react';
 
 type Props = {
   roomKey: 'st5100' | 'st5200' | 'st5300' | 'st5400';
   images: string[];
+  children?: ReactNode;
 };
 
-export default function RoomDetailPage({ roomKey, images }: Props) {
+export default function RoomDetailPage({ roomKey, images, children }: Props) {
   const t = useTranslations();
 
   const amenities = ['wifi', 'tv', 'kitchen', 'cleaning', 'washing', 'parking'];
@@ -126,6 +128,7 @@ export default function RoomDetailPage({ roomKey, images }: Props) {
           </div>
         </div>
       </section>
+      {children}
     </>
   );
 }
