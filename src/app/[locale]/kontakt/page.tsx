@@ -1,3 +1,6 @@
+import { pageMetadata } from '@/lib/meta';
+import { getGermanPageContent, type ParsedContent } from '@/lib/markdown';
+import { ContentIntro, ContentBody } from '@/components/SeoContent';
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import ContactForm from '@/components/ContactForm';
@@ -6,15 +9,7 @@ import { generateAlternates, generateOgMeta, generateBreadcrumbSchema } from '@/
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
-  const m = (await import(`../../../../messages/${locale}.json`)).default;
-  const title = m.meta.titleContact;
-  const desc = m.form.subtitle;
-  return {
-    title,
-    description: desc,
-    alternates: generateAlternates('kontakt', locale),
-    openGraph: generateOgMeta(title, desc, 'kontakt', locale),
-  };
+  return pageMetadata('contact', 'kontakt', locale);
 }
 
 export default async function KontaktPage({ params }: { params: Promise<{ locale: string }> }) {
@@ -28,12 +23,12 @@ export default async function KontaktPage({ params }: { params: Promise<{ locale
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
-      <KontaktContent />
+      <KontaktContent content={getGermanPageContent(locale, 'kontakt')} />
     </>
   );
 }
 
-function KontaktContent() {
+function KontaktContent({ content }: { content: ParsedContent | null }) {
   const t = useTranslations();
 
   return (
@@ -44,6 +39,8 @@ function KontaktContent() {
           <p className="text-slate-300 text-lg">{t('form.subtitle')}</p>
         </div>
       </section>
+
+      {content && <ContentIntro nodes={content.intro} />}
 
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -88,6 +85,7 @@ function KontaktContent() {
           </div>
         </div>
       </section>
+      {content && <ContentBody nodes={content.body} faq={content.faq} faqTitle={content.faqTitle} />}
     </>
   );
 }

@@ -1,3 +1,6 @@
+import { pageMetadata } from '@/lib/meta';
+import { getGermanPageContent, type ParsedContent } from '@/lib/markdown';
+import { ContentIntro, ContentBody } from '@/components/SeoContent';
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
@@ -8,25 +11,20 @@ type Props = {
   params: Promise<{ locale: string }>;
 };
 
-export async function generateMetadata({ params }: Props) {
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
-  const m = (await import(`../../../messages/${locale}.json`)).default;
-  return {
-    title: m.meta.title,
-    description: m.meta.description,
-    alternates: generateAlternates('', locale),
-    openGraph: generateOgMeta(m.meta.title, m.meta.description, '', locale),
-  };
+  return pageMetadata('home', '', locale);
 }
 
 export default async function HomePage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
+  const content = getGermanPageContent(locale, 'startseite');
 
-  return <HomeContent />;
+  return <HomeContent content={content} />;
 }
 
-function HomeContent() {
+function HomeContent({ content }: { content: ParsedContent | null }) {
   const t = useTranslations();
 
   const features = [
@@ -87,6 +85,8 @@ function HomeContent() {
           </div>
         </div>
       </section>
+
+      {content && <ContentIntro nodes={content.intro} />}
 
       {/* Features */}
       <section className="py-16 bg-white">
@@ -208,7 +208,10 @@ function HomeContent() {
         </div>
       </section>
 
-      {/* FAQ + FAQPage Schema */}
+      {content && <ContentBody nodes={content.body} faq={content.faq} faqTitle={content.faqTitle} />}
+
+      {/* FAQ + FAQPage Schema (andere Sprachen) */}
+      {!content && (
       <section className="py-16 bg-white" id="faq">
         <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl font-bold text-slate-900 mb-10 text-center">{t('faq.title')}</h2>
@@ -246,6 +249,7 @@ function HomeContent() {
           }}
         />
       </section>
+      )}
 
       {/* CTA */}
       <section className="py-16 bg-gradient-to-r from-brand-600 to-brand-700 text-white">

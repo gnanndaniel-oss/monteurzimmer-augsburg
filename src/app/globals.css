@@ -11,3 +11,50 @@ html {
 body {
   @apply antialiased text-slate-700 bg-slate-50;
 }
+
+/* Redaktionelle Inhalte (Markdown aus src/content) */
+.mz-prose {
+  @apply text-slate-700 leading-relaxed;
+}
+.mz-prose h2 {
+  @apply text-2xl sm:text-3xl font-bold text-slate-900 mt-10 mb-4;
+}
+.mz-prose h2:first-child {
+  @apply mt-0;
+}
+.mz-prose h3 {
+  @apply text-xl font-semibold text-slate-900 mt-8 mb-3;
+}
+.mz-prose p {
+  @apply mb-4;
+}
+.mz-prose ul {
+  @apply list-disc pl-6 mb-4 space-y-1.5;
+}
+.mz-prose ol {
+  @apply list-decimal pl-6 mb-4 space-y-1.5;
+}
+.mz-prose a {
+  @apply text-brand-700 underline underline-offset-2 hover:text-brand-600;
+}
+.mz-prose strong {
+  @apply font-semibold text-slate-900;
+}
+.mz-prose .mz-answer {
+  @apply bg-brand-50 border-l-4 border-brand-600 rounded-r-xl px-5 py-4 mb-6 text-slate-800;
+}
+.mz-prose .mz-answer p {
+  @apply mb-0;
+}
+.mz-prose .mz-table {
+  @apply overflow-x-auto mb-6 rounded-xl border border-slate-200;
+}
+.mz-prose table {
+  @apply w-full text-sm text-left;
+}
+.mz-prose th {
+  @apply bg-slate-100 font-semibold text-slate-900 px-4 py-2.5;
+}
+.mz-prose td {
+  @apply px-4 py-2.5 border-t border-slate-200 align-top;
+}

@@ -1,3 +1,6 @@
+import { pageMetadata } from '@/lib/meta';
+import { getGermanPageContent, type ParsedContent } from '@/lib/markdown';
+import { ContentIntro, ContentBody } from '@/components/SeoContent';
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
@@ -6,8 +9,7 @@ import {  generateAlternates, generateOgMeta , generateBreadcrumbSchema } from '
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
-  const m = (await import(`../../../../messages/${locale}.json`)).default;
-  const title = m.meta.titleFair; const desc = m.fair.desc; return { title, description: desc, alternates: generateAlternates('messe-monteurzimmer-augsburg', locale), openGraph: generateOgMeta(title, desc, 'messe-monteurzimmer-augsburg', locale) };
+  return pageMetadata('fair', 'messe-monteurzimmer-augsburg', locale);
 }
 
 export default async function FairPage({ params }: { params: Promise<{ locale: string }> }) {
@@ -21,12 +23,12 @@ export default async function FairPage({ params }: { params: Promise<{ locale: s
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
-      <FairContent />
+      <FairContent content={getGermanPageContent(locale, 'messe')} />
     </>
   );
 }
 
-function FairContent() {
+function FairContent({ content }: { content: ParsedContent | null }) {
   const t = useTranslations();
 
   return (
@@ -37,6 +39,8 @@ function FairContent() {
           <p className="text-slate-300 text-lg max-w-3xl">{t('fair.desc')}</p>
         </div>
       </section>
+
+      {content && <ContentIntro nodes={content.intro} />}
 
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -81,6 +85,7 @@ function FairContent() {
           </div>
         </div>
       </section>
+      {content && <ContentBody nodes={content.body} faq={content.faq} faqTitle={content.faqTitle} />}
     </>
   );
 }

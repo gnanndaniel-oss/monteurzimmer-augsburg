@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     metadataBase: new URL(SITE_URL),
     title: {
       default: t.title,
-      template: '%s | Monteurzimmer Augsburg',
+      template: '%s',
     },
     description: t.description,
     icons: {
@@ -96,7 +96,7 @@ export default async function LocaleLayout({ children, params }: Props) {
     numberOfRooms: 4,
     petsAllowed: false,
     checkinTime: '14:00',
-    checkoutTime: '11:00',
+    checkoutTime: '10:00',
     areaServed: {
       '@type': 'GeoCircle',
       geoMidpoint: {

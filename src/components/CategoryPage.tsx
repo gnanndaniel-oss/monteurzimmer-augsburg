@@ -3,6 +3,7 @@
 import { useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { CONTACT } from '@/lib/constants';
+import type { ReactNode } from 'react';
 
 type PricingItem = { labelKey: string; priceKey: string };
 
@@ -11,9 +12,11 @@ type Props = {
   descKey: string;
   pricing: PricingItem[];
   images: string[];
+  intro?: ReactNode;
+  children?: ReactNode;
 };
 
-export default function CategoryPage({ titleKey, descKey, pricing, images }: Props) {
+export default function CategoryPage({ titleKey, descKey, pricing, images, intro, children }: Props) {
   const t = useTranslations();
 
   return (
@@ -24,6 +27,8 @@ export default function CategoryPage({ titleKey, descKey, pricing, images }: Pro
           <p className="text-slate-300 text-lg max-w-3xl">{t(descKey)}</p>
         </div>
       </section>
+
+      {intro}
 
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -88,6 +93,7 @@ export default function CategoryPage({ titleKey, descKey, pricing, images }: Pro
           </div>
         </div>
       </section>
+      {children}
     </>
   );
 }

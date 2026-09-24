@@ -1,3 +1,4 @@
+import { roomMetadata } from '@/lib/meta';
 import { setRequestLocale } from 'next-intl/server';
 import RoomDetailPage from '@/components/RoomDetailPage';
 import { generateAlternates, generateOgMeta, generateBreadcrumbSchema, generateRoomSchema } from '@/lib/seo';
@@ -5,15 +6,8 @@ import { ROOMS } from '@/lib/constants';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
-  const m = (await import(`../../../../../messages/${locale}.json`)).default;
-  const title = `${m.rooms.st5200.name} – ${m.rooms.st5200.code}`;
-  const desc = m.rooms.st5200.desc;
-  return {
-    title,
-    description: desc,
-    alternates: generateAlternates('monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200', locale),
-    openGraph: generateOgMeta(title, desc, 'monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200', locale),
-  };
+  const room = ROOMS[1];
+  return roomMetadata(1, room.code, room.capacity, room.slug, locale);
 }
 
 export default async function ST5200({ params }: { params: Promise<{ locale: string }> }) {

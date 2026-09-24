@@ -1,3 +1,6 @@
+import { pageMetadata } from '@/lib/meta';
+import { getGermanPageContent, type ParsedContent } from '@/lib/markdown';
+import { ContentIntro, ContentBody } from '@/components/SeoContent';
 import { useTranslations } from 'next-intl';
 import { setRequestLocale } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
@@ -6,8 +9,7 @@ import { generateAlternates, generateOgMeta, generateBreadcrumbSchema } from '@/
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
-  const messages = (await import(`../../../../messages/${locale}.json`)).default;
-  const title = messages.meta.titleRooms; const desc = messages.rooms.subtitle; return { title, description: desc, alternates: generateAlternates('monteurzimmer-augsburg', locale), openGraph: generateOgMeta(title, desc, 'monteurzimmer-augsburg', locale) };
+  return pageMetadata('rooms', 'monteurzimmer-augsburg', locale);
 }
 
 export default async function RoomsPage({ params }: { params: Promise<{ locale: string }> }) {
@@ -21,12 +23,12 @@ export default async function RoomsPage({ params }: { params: Promise<{ locale: 
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumb) }} />
-      <RoomsContent />
+      <RoomsContent content={getGermanPageContent(locale, 'monteurzimmer')} />
     </>
   );
 }
 
-function RoomsContent() {
+function RoomsContent({ content }: { content: ParsedContent | null }) {
   const t = useTranslations();
 
   const rooms = [
@@ -44,6 +46,8 @@ function RoomsContent() {
           <p className="text-slate-300 text-lg max-w-2xl">{t('rooms.subtitle')}</p>
         </div>
       </section>
+
+      {content && <ContentIntro nodes={content.intro} />}
 
       <section className="py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -88,6 +92,7 @@ function RoomsContent() {
           </div>
         </div>
       </section>
+      {content && <ContentBody nodes={content.body} faq={content.faq} faqTitle={content.faqTitle} />}
     </>
   );
 }
