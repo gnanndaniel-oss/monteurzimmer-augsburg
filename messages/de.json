@@ -65,7 +65,7 @@
     "apt6": "6-Personen-Wohnung",
     "apt6Price": "ab 90€/Tag",
     "apt10": "10-Personen-Wohnung",
-    "apt10Price": "ab 150€/Tag",
+    "apt10Price": "ab 120€/Tag",
     "apt20": "20-Personen-Haus",
     "apt20Price": "ab 200€/Tag",
     "aptSingle": "1-Personen-Apartment",
@@ -116,7 +116,7 @@
   },
   "location": {
     "title": "Zentrale Lage in Augsburg",
-    "desc": "Die Monteurzimmer I–IV liegen in der Stiermannstraße 5, 86154 Augsburg, unsere Verwaltung in der Barfüßerstraße 7 im Herzen von Augsburg. In unmittelbarer Nähe zu öffentlichen Verkehrsmitteln, Einkaufsmöglichkeiten und Restaurants. Ideal für Handwerker, Monteure und Projektteams.",
+    "desc": "Unsere Unterkünfte liegen an mehreren Standorten im Augsburger Stadtgebiet, u. a. in der Barfüßerstraße 7 (Innenstadt) und in der Stiermannstraße. In der Nähe von öffentlichen Verkehrsmitteln, Einkaufsmöglichkeiten und Restaurants. Ideal für Handwerker, Monteure und Projektteams.",
     "nearFair": "Nur 15 Minuten zur Messe Augsburg",
     "nearCenter": "Direkt in der Augsburger Innenstadt",
     "nearTransport": "Öffentliche Verkehrsmittel vor der Tür",

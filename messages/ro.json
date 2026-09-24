@@ -65,7 +65,7 @@
     "apt6": "Apartament 6 persoane",
     "apt6Price": "de la 90€/zi",
     "apt10": "Apartament 10 persoane",
-    "apt10Price": "de la 150€/zi",
+    "apt10Price": "de la 120€/zi",
     "apt20": "Casă 20 persoane",
     "apt20Price": "de la 200€/zi",
     "aptSingle": "Apartament 1 persoană",
@@ -116,7 +116,7 @@
   },
   "location": {
     "title": "Locație centrală în Augsburg",
-    "desc": "Cazarea noastră se află pe Barfüßerstraße 7 în inima Augsburgului. Aproape de transport public, magazine și restaurante. Ideal pentru meșteșugari, montori și echipe de proiect.",
+    "desc": "Cazările noastre se află în mai multe locații din Augsburg, printre altele pe Barfüßerstraße 7 (centru) și Stiermannstraße. Aproape de transport public, magazine și restaurante. Ideal pentru meșteșugari, montori și echipe de proiect.",
     "nearFair": "Doar 15 minute până la Messe Augsburg",
     "nearCenter": "Direct în centrul Augsburgului",
     "nearTransport": "Transport public la ușă",

@@ -3,7 +3,7 @@
 | Auf einen Blick | |
 |---|---|
 | Betreiber | Gnann Verwaltung GmbH, Geschäftsführer Daniel Gnann |
-| Monteurzimmer I–IV | Stiermannstraße 5, 86154 Augsburg (Objekt ST5) |
+| Standorte | mehrere im Stadtgebiet, u. a. Barfüßerstraße 7 (Innenstadt) und Stiermannstraße |
 | Preise | ab 12 € (Wohnung ab 10 Pers.), 15 € (Mehrbettzimmer), 18 € (Doppelzimmer), 25 € (Einzelzimmer) pro Person/Nacht |
 | Kapazität | Einzelpersonen bis Teams von 20 Personen |
 | Ausstattung | WLAN, TV, Küche, Waschmaschine, Bettwäsche & Handtücher, wöchentliche Reinigung |
@@ -56,7 +56,7 @@ Unsere Unterkünfte sind auf Menschen ausgelegt, die in Augsburg arbeiten und ni
 
 ## Lage und Anbindung
 
-Die Monteurzimmer I–IV liegen in der **Stiermannstraße 5, 86154 Augsburg**; unsere Verwaltung sitzt in der **Barfüßerstraße 7** in der Augsburger Innenstadt. Von unseren Unterkünften erreichen Sie die wichtigsten Einsatzorte schnell:
+Unsere Unterkünfte liegen an **mehreren Standorten im Augsburger Stadtgebiet**, u. a. in der **Barfüßerstraße 7** (Innenstadt, auch Apartments) und in der **Stiermannstraße** (Monteurzimmer I–IV). Von unseren Unterkünften erreichen Sie die wichtigsten Einsatzorte schnell:
 
 - **Autobahn A8** (München–Stuttgart) – schnelle Anbindung über die Augsburger Anschlussstellen
 - **B17** – die Nord-Süd-Achse im Westen Augsburgs, Richtung Landsberg am Lech
@@ -118,7 +118,7 @@ Vermieter ist die Gnann Verwaltung GmbH, Barfüßerstraße 7, 86150 Augsburg, ve
 
 ### Wo liegen die Monteurzimmer?
 
-Die Monteurzimmer Augsburg I bis IV liegen in der Stiermannstraße 5, 86154 Augsburg. Die Messe Augsburg erreichen Sie in rund 15 Minuten, die Autobahn A8 und die B17 schnell.
+Unsere Unterkünfte liegen an mehreren Standorten im Augsburger Stadtgebiet, u. a. in der Barfüßerstraße 7 (Innenstadt) und in der Stiermannstraße, wo sich die Monteurzimmer I bis IV befinden. Die Messe Augsburg erreichen Sie in rund 15 Minuten, die Autobahn A8 und die B17 schnell.
 
 ### Wie buche ich ein Monteurzimmer?
 

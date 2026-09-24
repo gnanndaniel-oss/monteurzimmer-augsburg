@@ -77,14 +77,10 @@ export default async function LocaleLayout({ children, params }: Props) {
       longitude: 10.8986,
     },
     hasMap: 'https://www.google.com/maps?q=Barfüßerstraße+7,+86150+Augsburg',
-    priceRange: '€12 - €50',
+    priceRange: '12–25 € pro Person/Nacht',
     currenciesAccepted: 'EUR',
     paymentAccepted: 'Cash, Bank Transfer',
-    openingHours: 'Mo-Su 08:00-20:00',
-    starRating: {
-      '@type': 'Rating',
-      ratingValue: '4',
-    },
+    openingHours: 'Mo-Fr 08:00-18:00',
     amenityFeature: [
       { '@type': 'LocationFeatureSpecification', name: 'WiFi', value: true },
       { '@type': 'LocationFeatureSpecification', name: 'Free Parking', value: true },
@@ -136,9 +132,9 @@ export default async function LocaleLayout({ children, params }: Props) {
     url: SITE_URL,
     openingHoursSpecification: {
       '@type': 'OpeningHoursSpecification',
-      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+      dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
       opens: '08:00',
-      closes: '20:00',
+      closes: '18:00',
     },
   };
 

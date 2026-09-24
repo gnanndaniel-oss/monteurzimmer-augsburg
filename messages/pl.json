@@ -65,7 +65,7 @@
     "apt6": "Mieszkanie 6-osobowe",
     "apt6Price": "od 90€/dzień",
     "apt10": "Mieszkanie 10-osobowe",
-    "apt10Price": "od 150€/dzień",
+    "apt10Price": "od 120€/dzień",
     "apt20": "Dom 20-osobowy",
     "apt20Price": "od 200€/dzień",
     "aptSingle": "Apartament 1-osobowy",
@@ -116,7 +116,7 @@
   },
   "location": {
     "title": "Centralna lokalizacja w Augsburgu",
-    "desc": "Nasze zakwaterowanie znajduje się pod adresem Barfüßerstraße 7 w sercu Augsburga. W pobliżu komunikacji miejskiej, sklepów i restauracji. Idealne dla rzemieślników, monterów i zespołów projektowych.",
+    "desc": "Nasze kwatery znajdują się w kilku miejscach na terenie Augsburga, m.in. przy Barfüßerstraße 7 (centrum) i Stiermannstraße. W pobliżu komunikacji miejskiej, sklepów i restauracji. Idealne dla rzemieślników, monterów i zespołów projektowych.",
     "nearFair": "Tylko 15 minut do Messe Augsburg",
     "nearCenter": "Bezpośrednio w centrum Augsburga",
     "nearTransport": "Komunikacja miejska pod drzwiami",

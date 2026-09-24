@@ -65,7 +65,7 @@
     "apt6": "6-person apartment",
     "apt6Price": "from 90€/day",
     "apt10": "10-person apartment",
-    "apt10Price": "from 150€/day",
+    "apt10Price": "from 120€/day",
     "apt20": "20-person house",
     "apt20Price": "from 200€/day",
     "aptSingle": "1-person apartment",
@@ -116,7 +116,7 @@
   },
   "location": {
     "title": "Central Location in Augsburg",
-    "desc": "Our accommodations are located at Barfüßerstraße 7 in the heart of Augsburg. Close to public transport, shops and restaurants. Ideal for tradespeople, workers and project teams.",
+    "desc": "Our accommodations are spread across several locations in Augsburg, including Barfüßerstraße 7 (city centre) and Stiermannstraße. Close to public transport, shops and restaurants. Ideal for tradespeople, workers and project teams.",
     "nearFair": "Only 15 minutes to Messe Augsburg",
     "nearCenter": "Directly in the Augsburg city center",
     "nearTransport": "Public transport right at the doorstep",

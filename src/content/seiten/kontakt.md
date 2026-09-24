@@ -3,8 +3,8 @@
 | Kontaktdaten | |
 |---|---|
 | Unternehmen | Gnann Verwaltung GmbH |
-| Anschrift Verwaltung | Barfüßerstraße 7, 86150 Augsburg |
-| Monteurzimmer I–IV | Stiermannstraße 5, 86154 Augsburg |
+| Anschrift | Barfüßerstraße 7, 86150 Augsburg |
+| Standorte | mehrere im Stadtgebiet, u. a. Barfüßerstraße 7 (Innenstadt) und Stiermannstraße |
 | Telefon | +49 (0) 821 419028-28 |
 | Fax | +49 (0) 821 419028-13 |
 | Telefonisch erreichbar | Montag bis Freitag, 8–18 Uhr |
@@ -42,7 +42,7 @@ Wenn Sie unsicher sind, beschreiben Sie einfach Ihr Projekt – Teamgröße, Dau
 
 ## Lage der Unterkünfte
 
-Die Monteurzimmer I–IV befinden sich in der Stiermannstraße 5, 86154 Augsburg. Von dort sind die Autobahn A8 (München–Stuttgart) und die B17 schnell erreichbar, die Messe Augsburg liegt rund 15 Minuten entfernt. Öffentliche Verkehrsmittel, Einkaufsmöglichkeiten und Restaurants gibt es in der Nähe. Unsere Verwaltung in der Barfüßerstraße 7 liegt in der Augsburger Innenstadt.
+Unsere Unterkünfte liegen an mehreren Standorten im Augsburger Stadtgebiet, u. a. in der Barfüßerstraße 7 (Innenstadt) und in der Stiermannstraße, wo sich die Monteurzimmer I–IV befinden. Von dort sind die Autobahn A8 (München–Stuttgart) und die B17 schnell erreichbar, die Messe Augsburg liegt rund 15 Minuten entfernt. Öffentliche Verkehrsmittel, Einkaufsmöglichkeiten und Restaurants gibt es in der Nähe.
 
 ## Unternehmensverbund
 
@@ -68,4 +68,4 @@ Nein. Die Anfrage ist unverbindlich; verbindlich wird die Buchung erst mit Ihrer
 
 ### Wo befindet sich die Unterkunft?
 
-Die Monteurzimmer I–IV liegen in der Stiermannstraße 5, 86154 Augsburg. Unsere Verwaltung sitzt in der Barfüßerstraße 7, 86150 Augsburg.
+Unsere Unterkünfte liegen an mehreren Standorten im Augsburger Stadtgebiet, u. a. in der Barfüßerstraße 7 (Innenstadt) und in der Stiermannstraße (Monteurzimmer I–IV). Die genaue Adresse Ihrer Unterkunft steht im Angebot.

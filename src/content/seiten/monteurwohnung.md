@@ -1,10 +1,10 @@
-> **Monteurwohnung in Augsburg ab 60 € pro Tag:** Die Gnann Verwaltung GmbH vermietet komplett möblierte Wohnungen für Teams von 4 bis 20 Personen – mit eigener Küche, WLAN, TV, Waschmaschine, Bettwäsche, wöchentlicher Reinigung und kostenlosen Parkplätzen. Mietbar ab einer Nacht, mit Sonderkonditionen für Langzeitaufenthalte.
+> **Monteurwohnung in Augsburg ab 60 € pro Tag:** Die Gnann Verwaltung GmbH vermietet komplett möblierte Wohnungen für Teams von 4 bis 20 Personen – rechnerisch 12–15 € pro Person und Nacht, je nach Wohnung, Personenzahl und Dauer – mit eigener Küche, WLAN, TV, Waschmaschine, Bettwäsche, wöchentlicher Reinigung und kostenlosen Parkplätzen. Mietbar ab einer Nacht, mit Sonderkonditionen für Langzeitaufenthalte.
 
 | Wohnungsgröße | Preis ab (pro Tag) | rechnerisch pro Person |
 |---|---|---|
 | 4-Personen-Wohnung | 60 € | 15 € |
 | 6-Personen-Wohnung | 90 € | 15 € |
-| 10-Personen-Wohnung | 150 € | 15 € |
+| 10-Personen-Wohnung | 120 € | 12 € |
 | 20-Personen-Haus | 200 € | 10 € |
 
 <!-- more -->
@@ -36,7 +36,7 @@ Wer allein oder zu zweit anreist, ist in einem [Monteurzimmer](/monteurzimmer-au
 |---|---|
 | 2–4 Personen | 4-Personen-Wohnung (ab 60 €/Tag) oder [Monteurapartment](/monteurapartment-augsburg/) für bis zu 4 Personen (ab 80 €/Tag) |
 | 5–6 Personen | 6-Personen-Wohnung (ab 90 €/Tag) |
-| 7–10 Personen | 10-Personen-Wohnung (ab 150 €/Tag) oder [Monteurhaus](/monteurhaus-augsburg/) für 7 Personen (ab 120 €/Tag) |
+| 7–10 Personen | 10-Personen-Wohnung (ab 120 €/Tag) oder [Monteurhaus](/monteurhaus-augsburg/) für 7 Personen (ab 120 €/Tag) |
 | 11–20 Personen | 20-Personen-Haus (ab 200 €/Tag) oder Kombination mehrerer Einheiten |
 
 Alle Preise sind Ab-Preise und variieren je nach Saison und Auslastung. Das konkrete Angebot für Ihren Zeitraum erhalten Sie nach der [Anfrage](/reservierung-monterwohungaugsburg/).
@@ -57,13 +57,13 @@ Hinweise zur steuerlichen Behandlung der Unterkunftskosten gibt unser Ratgeber [
 
 ## Anbindung
 
-Unsere Unterkünfte in Augsburg haben eine schnelle Anbindung an die Autobahn A8 und die B17; die Messe Augsburg ist rund 15 Minuten entfernt. Öffentliche Verkehrsmittel und Einkaufsmöglichkeiten gibt es in der Nähe. Die genaue Adresse Ihrer Wohnung erhalten Sie mit dem Angebot.
+Unsere Unterkünfte liegen an mehreren Standorten im Augsburger Stadtgebiet, u. a. in der Barfüßerstraße 7 (Innenstadt) und in der Stiermannstraße. Sie haben eine schnelle Anbindung an die Autobahn A8 und die B17; die Messe Augsburg ist rund 15 Minuten entfernt. Öffentliche Verkehrsmittel und Einkaufsmöglichkeiten gibt es in der Nähe. Die genaue Adresse Ihrer Wohnung erhalten Sie mit dem Angebot.
 
 ## Häufige Fragen zur Monteurwohnung in Augsburg
 
 ### Was kostet eine Monteurwohnung in Augsburg?
 
-Eine 4-Personen-Wohnung gibt es ab 60 € pro Tag, eine 6-Personen-Wohnung ab 90 €, eine 10-Personen-Wohnung ab 150 € und ein 20-Personen-Haus ab 200 € pro Tag. Die Preise variieren je nach Saison und Auslastung.
+Eine 4-Personen-Wohnung gibt es ab 60 € pro Tag, eine 6-Personen-Wohnung ab 90 €, eine 10-Personen-Wohnung ab 120 € und ein 20-Personen-Haus ab 200 € pro Tag. Die Preise variieren je nach Saison und Auslastung.
 
 ### Gilt der Preis pro Person oder pro Wohnung?
 

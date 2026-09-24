@@ -65,7 +65,7 @@
     "apt6": "Byt pro 6 osob",
     "apt6Price": "od 90€/den",
     "apt10": "Byt pro 10 osob",
-    "apt10Price": "od 150€/den",
+    "apt10Price": "od 120€/den",
     "apt20": "Dům pro 20 osob",
     "apt20Price": "od 200€/den",
     "aptSingle": "Apartmán pro 1 osobu",
@@ -116,7 +116,7 @@
   },
   "location": {
     "title": "Centrální poloha v Augsburgu",
-    "desc": "Naše ubytování se nachází na adrese Barfüßerstraße 7 v srdci Augsburgu. V blízkosti MHD, obchodů a restaurací. Ideální pro řemeslníky, montéry a projektové týmy.",
+    "desc": "Naše ubytování se nachází na několika místech v Augsburgu, mimo jiné v ulici Barfüßerstraße 7 (centrum) a Stiermannstraße. V blízkosti MHD, obchodů a restaurací. Ideální pro řemeslníky, montéry a projektové týmy.",
     "nearFair": "Pouze 15 minut na Messe Augsburg",
     "nearCenter": "Přímo v centru Augsburgu",
     "nearTransport": "MHD přímo u dveří",

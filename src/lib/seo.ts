@@ -141,13 +141,17 @@ export function generateRoomSchema(room: {
       },
     },
     offers: {
-      '@type': 'Offer',
+      '@type': 'AggregateOffer',
       priceCurrency: 'EUR',
-      price: '12',
-      priceValidUntil: '2026-12-31',
+      // Wohnungspreis ab 12 € gilt erst ab 10 Personen (nur Einheit IV erreicht das)
+      lowPrice: room.capacity >= 10 ? '12' : '15',
+      highPrice: '25',
       availability: 'https://schema.org/InStock',
       url,
-      description: 'Ab 12€ pro Person pro Nacht',
+      description:
+        room.capacity >= 10
+          ? 'Ab 12 € (Wohnung ab 10 Personen) bis 25 € (Einzelzimmer) pro Person und Nacht'
+          : 'Ab 15 € (Mehrbettzimmer) bis 25 € (Einzelzimmer) pro Person und Nacht',
     },
   };
 }
