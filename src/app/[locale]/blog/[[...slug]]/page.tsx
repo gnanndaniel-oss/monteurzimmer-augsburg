@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: { params: Promise<Params> }) 
   const { locale, slug } = await params;
   const post = slug && slug.length ? getPost(slug[0]) : undefined;
   const meta = post
-    ? germanOnlyMetadata({ title: post.metaTitle, description: post.description }, `blog/${post.slug}`)
+    ? germanOnlyMetadata({ title: post.metaTitle, description: post.description }, `blog/${post.slug}`, `${SITE_URL}${post.image.src}`)
     : germanOnlyMetadata(INDEX_META, 'blog');
   if (locale !== 'de') return { ...meta, robots: { index: false, follow: true } };
   return meta;
@@ -69,7 +69,7 @@ export default async function BlogPage({ params }: { params: Promise<Params> }) 
     inLanguage: 'de-DE',
     mainEntityOfPage: url,
     url,
-    image: `${SITE_URL}/attachments/Image/monteurwohnung-augsburg-ansicht.jpg`,
+    image: `${SITE_URL}${post.image.src}`,
     author: { '@type': 'Organization', name: CONTACT.company, url: SITE_URL },
     publisher: {
       '@type': 'Organization',
@@ -100,6 +100,20 @@ export default async function BlogPage({ params }: { params: Promise<Params> }) 
             <time dateTime={post.date}>{formatDate(post.date)}</time> · {minutes} Min. Lesezeit · {CONTACT.company}
           </p>
         </div>
+      </section>
+      <section className="bg-white">
+        <figure className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 pt-8">
+          <img
+            src={post.image.src}
+            alt={post.image.alt}
+            width={post.image.width}
+            height={post.image.height}
+            fetchPriority="high"
+            decoding="async"
+            className="w-full max-h-[420px] object-cover rounded-2xl"
+          />
+          <figcaption className="text-xs text-slate-500 mt-2">{post.image.alt}</figcaption>
+        </figure>
       </section>
       {intro.length > 0 && (
         <section className="bg-white border-b border-slate-200">
@@ -166,7 +180,7 @@ function BlogIndex() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="text-3xl sm:text-4xl font-extrabold mb-4">Ratgeber für Monteure, Handwerker &amp; Firmen</h1>
           <p className="text-slate-300 text-lg">
-            Praxiswissen rund um Monteurunterkünfte in Augsburg: Steuern und Abrechnung, Buchung für Montageteams und die Frage, ob Zimmer oder Wohnung besser passt.
+            Praxiswissen rund um Montage in Augsburg: Steuern und Abrechnung, Buchung für Montageteams, Zimmer oder Wohnung, Parken mit Firmenfahrzeug, Einkauf von Material, Alltag und Sport nach Feierabend.
           </p>
         </div>
       </section>
