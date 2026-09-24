@@ -140,7 +140,7 @@ fi
 
 # Place PHP mailer
 mkdir -p "$HTTPDOCS/php"
-cp "$BUILD_DIR/php/send.php" "$HTTPDOCS/php/send.php"
+cp "$BUILD_DIR/public/php/send.php" "$HTTPDOCS/php/send.php"
 echo "PHP mailer installed"
 
 # 7. Set permissions
