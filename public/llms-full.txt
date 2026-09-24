@@ -73,7 +73,20 @@
 
 ### Reservierung
 - URL: https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/
-- Inhalt: Kontaktformular für Buchungsanfragen
+- Inhalt: Reservierungsformular, Ablauf der Buchung in 5 Schritten, Preisübersicht, Tipps für Firmenbuchungen
+
+### Kontakt
+- URL: https://www.monteurzimmer.augsburg-apartments.de/kontakt/
+- Inhalt: Kontaktdaten (Telefon Mo–Fr 8–18 Uhr), Angaben für ein schnelles Angebot, Entscheidungshilfe Unterkunftsart
+
+### Ratgeber (nur Deutsch)
+- Übersicht: https://www.monteurzimmer.augsburg-apartments.de/blog/
+- Monteurzimmer steuerlich absetzen – was Firmen wissen müssen: https://www.monteurzimmer.augsburg-apartments.de/blog/monteurzimmer-steuerlich-absetzen/
+  Kernaussagen: Übernachtungskosten bei Auswärtstätigkeit sind Betriebsausgaben und nach § 3 Nr. 16 EStG steuerfrei erstattbar; kurzfristige Beherbergung 7 % USt (§ 12 Abs. 2 Nr. 11 UStG), Nebenleistungen 19 %; Pflichtangaben für den Vorsteuerabzug (§ 14 Abs. 4 UStG); Inlands-Übernachtungspauschale 20 €; Verpflegungspauschalen 14 €/28 €; nach 48 Monaten am selben Einsatzort max. 1.000 € Unterkunftskosten pro Monat. Allgemeine Information, keine Steuerberatung.
+- Checkliste: Unterkunft für Montageteams in Augsburg buchen: https://www.monteurzimmer.augsburg-apartments.de/blog/checkliste-unterkunft-montageteams-augsburg/
+  Kernaussagen: 23 Punkte in 5 Phasen (Bedarf, Anfrage, vor Anreise, vor Ort, Abreise/Abrechnung); vor der Anfrage Teamgröße, Zeitraum mit Puffer, Fahrzeuge, Rechnungsangaben und Anreisezeit klären; A1-Bescheinigung für entsandte EU-Mitarbeiter.
+- Langzeitunterkunft für Handwerker: Monteurzimmer oder Monteurwohnung?: https://www.monteurzimmer.augsburg-apartments.de/blog/monteurzimmer-oder-monteurwohnung/
+  Kernaussagen: 1–3 Personen → Monteurzimmer am günstigsten; ab 4 Personen kostet eine Monteurwohnung (ab 60 €/Tag) so viel wie 4 Plätze im Mehrbettzimmer (4 × 15 €); ab 7 Personen Monteurhaus; 16-Personen-Haus rechnerisch 12,50 € pro Person/Nacht.
 
 ## Detaillierte Preisliste
 
@@ -122,6 +135,21 @@ A: Selbstverständlich! Wir bieten Unterkünfte für einzelne Personen bis hin z
 **F: Wird Bettwäsche und Handtücher gestellt?**
 A: Ja, Bettwäsche und Handtücher sind inklusive und werden wöchentlich gewechselt.
 
+**F: Was kostet ein Monteurzimmer in Augsburg?**
+A: Ab 12 € pro Person/Nacht (Wohnung ab 10 Personen), ab 15 € im Mehrbettzimmer, ab 18 € im Doppelzimmer, ab 25 € im Einzelzimmer. Preise variieren je nach Saison und Auslastung.
+
+**F: Ab wie vielen Personen lohnt sich eine Monteurwohnung?**
+A: Ab etwa 4 Personen: Die 4-Personen-Wohnung (ab 60 €/Tag) kostet so viel wie 4 Plätze im Mehrbettzimmer, bietet aber Küche und Bad exklusiv für das Team.
+
+**F: Wie kann ich bezahlen?**
+A: Per Überweisung oder bar.
+
+**F: Sind Haustiere erlaubt?**
+A: Nein.
+
+**F: Wie buche ich?**
+A: Über das Reservierungsformular (https://www.monteurzimmer.augsburg-apartments.de/reservierung-monterwohungaugsburg/) oder telefonisch unter +49 (0) 821 419028-28 (Mo–Fr 8–18 Uhr). Die Anfrage ist unverbindlich.
+
 ## Zielgruppen
 
 - Monteure und Handwerker auf Montage
@@ -133,9 +161,9 @@ A: Ja, Bettwäsche und Handtücher sind inklusive und werden wöchentlich gewech
 
 ## Lagevorteile
 
-- Zentrale Lage in Augsburg (Barfüßerstraße 7, 86150 Augsburg)
+- Monteurzimmer I–IV: Stiermannstraße 5, 86154 Augsburg
+- Verwaltung/Kontaktadresse: Barfüßerstraße 7, 86150 Augsburg (Innenstadt)
 - 15 Minuten zur Messe Augsburg
-- Direkt in der Augsburger Innenstadt
 - ÖPNV-Haltestellen direkt vor der Tür
 - Schnelle Anbindung an Autobahn A8 und Bundesstraße B17
 - Nähe zu München (ca. 60 km), Ulm (ca. 80 km)

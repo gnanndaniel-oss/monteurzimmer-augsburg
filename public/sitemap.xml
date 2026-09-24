@@ -782,4 +782,42 @@
     <priority>0.3</priority>
   </url>
 
+
+  <!-- Ratgeber (nur Deutsch) -->
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/blog/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/blog/" />
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/blog/monteurzimmer-steuerlich-absetzen/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/blog/monteurzimmer-steuerlich-absetzen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/blog/monteurzimmer-steuerlich-absetzen/" />
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/blog/checkliste-unterkunft-montageteams-augsburg/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/blog/checkliste-unterkunft-montageteams-augsburg/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/blog/checkliste-unterkunft-montageteams-augsburg/" />
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.monteurzimmer.augsburg-apartments.de/blog/monteurzimmer-oder-monteurwohnung/</loc>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.monteurzimmer.augsburg-apartments.de/blog/monteurzimmer-oder-monteurwohnung/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.monteurzimmer.augsburg-apartments.de/blog/monteurzimmer-oder-monteurwohnung/" />
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>

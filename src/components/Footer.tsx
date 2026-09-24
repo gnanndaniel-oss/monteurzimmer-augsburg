@@ -1,11 +1,12 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { Link } from '@/i18n/navigation';
 import { CONTACT } from '@/lib/constants';
 
 export default function Footer() {
   const t = useTranslations();
+  const locale = useLocale();
 
   return (
     <footer className="bg-slate-900 text-slate-300">
@@ -48,6 +49,11 @@ export default function Footer() {
               <Link href="/reservierung-monterwohungaugsburg/" className="block hover:text-brand-400 transition-colors">
                 {t('nav.reservation')}
               </Link>
+              {locale === 'de' && (
+                <a href="/blog/" className="block hover:text-brand-400 transition-colors">
+                  Ratgeber
+                </a>
+              )}
               <Link href="/impressum-montuerzimmer-augsburg/" className="block hover:text-brand-400 transition-colors">
                 {t('footer.imprint')}
               </Link>
