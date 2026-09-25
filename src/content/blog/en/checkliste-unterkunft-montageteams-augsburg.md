@@ -32,7 +32,7 @@ Tip: for longer projects, ask straight away about **special rates for long-term 
 ## Phase 3: Before arrival
 
 7. **Pass the booking confirmation on to the team** – with the address, contact person and the landlord's phone number (ours: +49 821 419028-28).
-8. **Communicate the check-in time.** At Monteurzimmer Augsburg, check-in is from 2:00 pm and check-out is by 10:00 am. If the team arrives later or earlier, arrange this in advance.
+8. **Communicate the check-in time.** At Monteurzimmer Augsburg, check-in is from 3:00 pm and check-out is by 10:00 am. If the team arrives later or earlier, arrange this in advance.
 9. **Decide who sleeps where.** Who shares with whom? A short list saves arguments on the first evening.
 10. **Check vehicles and route.** Find out in advance about the current rules for Augsburg's low-emission zone (Umweltzone) and roadworks along the way. The accommodation has fast connections to the A8 (Munich–Stuttgart) and the B17.
 11. **Documents for workers from abroad.** Posted workers from EU countries should bring their A1 certificate; in some sectors – such as construction – registration with German customs (Zoll) is also required. Check the current obligations in good time.
@@ -90,4 +90,4 @@ Let us know about the extension as early as possible. Depending on availability,
 
 ### Can the team arrive late in the evening?
 
-Regular check-in is from 2:00 pm. Later arrivals are possible by arrangement – please let us know in advance.
+Regular check-in is from 3:00 pm. Later arrivals are possible by arrangement – please let us know in advance.

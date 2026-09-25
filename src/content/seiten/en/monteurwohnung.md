@@ -50,7 +50,7 @@ Workers' apartments are often booked for several weeks or months – for example
 1. Enquiry with company name, team size, arrival date and estimated duration – via the [form](/reservierung-monterwohungaugsburg/) or by phone on +49 821 419028-28
 2. Quote for the right apartment
 3. Confirmation with billing address and, if applicable, project or cost centre number
-4. Arrival from 2:00 pm, departure by 10:00 am – other times by arrangement
+4. Arrival from 3:00 pm, departure by 10:00 am – other times by arrangement
 5. Payment by bank transfer or in cash
 
 Information on the tax treatment of accommodation costs can be found in our guide [Claiming workers' accommodation against tax](/blog/monteurzimmer-steuerlich-absetzen/).

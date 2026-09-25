@@ -8,7 +8,7 @@
 | Adresa | Stiermannstraße 5, 86154 Augsburg |
 | Typy pokojů | jednolůžkové, dvoulůžkové a třílůžkové pokoje |
 | Kapacita | až 7 osob (pronájem jako sdílené bydlení) |
-| Check-in / check-out | od 14:00 / do 10:00, jiné časy po domluvě |
+| Check-in / check-out | od 15:00 / do 10:00, jiné časy po domluvě |
 | Parkování | zdarma přímo u domu |
 | Minimální pobyt | 1 noc |
 | Platba | bankovní převod nebo hotovost |

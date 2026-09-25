@@ -8,7 +8,7 @@
 | Capacity | from individual workers to teams of 20 people |
 | Amenities | Wi-Fi, TV, kitchen, washing machine, bed linen & towels, weekly cleaning |
 | Parking | free parking right outside the building |
-| Check-in / check-out | from 2:00 pm / by 10:00 am, other times by arrangement |
+| Check-in / check-out | from 3:00 pm / by 10:00 am, other times by arrangement |
 | Minimum stay | 1 night, special rates for long stays |
 
 <!-- more -->
@@ -51,7 +51,7 @@ Our accommodation is designed for people who work in Augsburg and can't travel h
 1. **Send an enquiry:** via the [booking form](/reservierung-monterwohungaugsburg/) or by phone on +49 821 419028-28. It helps if you tell us your company name, number of people, preferred room allocation, arrival date and expected length of stay.
 2. **Receive a quote:** we'll get back to you as quickly as possible with a specific proposal – room, apartment or house – and the price for your dates.
 3. **Confirm:** once you accept, the accommodation is reserved. It's best to give us your billing address, cost centre or project number at the same time, so the invoice is right first time.
-4. **Arrive and get to work:** check-in from 2:00 pm; if you arrive late in the evening or early in the morning, we'll arrange the key handover with you in advance.
+4. **Arrive and get to work:** check-in from 3:00 pm; if you arrive late in the evening or early in the morning, we'll arrange the key handover with you in advance.
 5. **Pay:** by bank transfer or in cash.
 
 ## Location and transport links
@@ -78,7 +78,7 @@ At Monteurzimmer Augsburg you pay from €12 per person per night when an apartm
 
 ### What are the check-in and check-out times?
 
-Check-in is from 2:00 pm, check-out is by 10:00 am. Flexible times are possible by arrangement.
+Check-in is from 3:00 pm, check-out is by 10:00 am. Flexible times are possible by arrangement.
 
 ### Is there a minimum stay?
 

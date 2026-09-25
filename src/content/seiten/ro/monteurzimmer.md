@@ -54,7 +54,7 @@ De la camerele pentru muncitori ajungeți rapid la autostrada A8 (München–Stu
 1. Cerere prin [formularul de rezervare](/reservierung-monterwohungaugsburg/) sau telefonic la +49 821 419028-28
 2. Ofertă cu împărțirea pe camere și prețul pentru perioada dumneavoastră
 3. Confirmare – trimiteți odată cu ea și datele de facturare (firma, adresa, eventual numărul de proiect)
-4. Check-in de la ora 14:00, alte ore de sosire după înțelegere
+4. Check-in de la ora 15:00, alte ore de sosire după înțelegere
 5. Check-out până la ora 10:00, plata prin transfer bancar sau în numerar
 
 Pentru echipe mai mari merită adesea un [apartament pentru muncitori](/monteurwohnung-augsburg/) întreg sau o [casă pentru muncitori](/monteurhaus-augsburg/). Ce trebuie să aibă în vedere firmele la decontare explică ghidul nostru [Deducerea fiscală a cazării pentru muncitori](/blog/monteurzimmer-steuerlich-absetzen/) (în limba germană).
@@ -87,7 +87,7 @@ Da, pentru șederi mai lungi oferim condiții speciale. Vă rugăm să ne spune�
 
 ### Pot sosi târziu seara?
 
-Check-in-ul obișnuit este de la ora 14:00. Ore de sosire mai târzii sunt posibile după înțelegere – vă rugăm să ne anunțați din timp.
+Check-in-ul obișnuit este de la ora 15:00. Ore de sosire mai târzii sunt posibile după înțelegere – vă rugăm să ne anunțați din timp.
 
 ### Cât de departe este Messe Augsburg?
 

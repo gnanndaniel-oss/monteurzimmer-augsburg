@@ -34,7 +34,7 @@ A single room in our workers' rooms costs from €25 per night, the 1-person apa
 
 ## Booking
 
-Send us your enquiry via the [reservation form](/reservierung-monterwohungaugsburg/) or call +49 821 419028-28. Check-in is from 2:00 pm, check-out by 10:00 am; other times by arrangement. Payment is by bank transfer or in cash.
+Send us your enquiry via the [reservation form](/reservierung-monterwohungaugsburg/) or call +49 821 419028-28. Check-in is from 3:00 pm, check-out by 10:00 am; other times by arrangement. Payment is by bank transfer or in cash.
 
 ## Frequently asked questions about the contractor studio apartment
 

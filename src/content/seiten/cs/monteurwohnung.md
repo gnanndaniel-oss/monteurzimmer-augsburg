@@ -50,7 +50,7 @@ Byty pro montéry se často rezervují na několik týdnů nebo měsíců – na
 1. Poptávka s názvem firmy, velikostí týmu, datem příjezdu a odhadovanou délkou pobytu – přes [formulář](/reservierung-monterwohungaugsburg/) nebo na telefonu +49 821 419028-28
 2. Nabídka vhodného bytu
 3. Potvrzení s fakturační adresou a případně číslem projektu nebo nákladového střediska
-4. Příjezd od 14:00, odjezd do 10:00 – jiné časy po dohodě
+4. Příjezd od 15:00, odjezd do 10:00 – jiné časy po dohodě
 5. Platba bankovním převodem nebo v hotovosti
 
 Informace o daňovém zacházení s náklady na ubytování najdete v našem průvodci [Daňový odpočet nákladů na pokoje pro montéry](/blog/monteurzimmer-steuerlich-absetzen/) (v němčině).

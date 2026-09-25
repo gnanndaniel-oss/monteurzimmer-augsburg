@@ -54,7 +54,7 @@ Od pokojů pro montéry se rychle dostanete na dálnici A8 (Mnichov–Stuttgart)
 1. Poptávka přes [rezervační formulář](/reservierung-monterwohungaugsburg/) nebo telefonicky na čísle +49 821 419028-28
 2. Nabídka s rozdělením pokojů a cenou pro Vaše období
 3. Potvrzení – fakturační údaje (firma, adresa, případně číslo projektu) pošlete rovnou s ním
-4. Check-in od 14:00, jiné časy příjezdu po dohodě
+4. Check-in od 15:00, jiné časy příjezdu po dohodě
 5. Check-out do 10:00, platba bankovním převodem nebo v hotovosti
 
 Pro větší týmy se často vyplatí celý [byt pro montéry](/monteurwohnung-augsburg/) nebo [dům pro montéry](/monteurhaus-augsburg/). Na co by firmy měly dbát při vyúčtování, vysvětluje náš průvodce [Daňový odpočet nákladů na pokoje pro montéry](/blog/monteurzimmer-steuerlich-absetzen/) (v němčině).
@@ -87,7 +87,7 @@ Ano, pro delší pobyty nabízíme zvýhodněné podmínky. Zeptejte se na ně v
 
 ### Mohu přijet pozdě večer?
 
-Standardní check-in je od 14:00. Pozdější příjezd je možný po dohodě – dejte nám prosím vědět předem.
+Standardní check-in je od 15:00. Pozdější příjezd je možný po dohodě – dejte nám prosím vědět předem.
 
 ### Jak daleko je to na veletrh Messe Augsburg?
 

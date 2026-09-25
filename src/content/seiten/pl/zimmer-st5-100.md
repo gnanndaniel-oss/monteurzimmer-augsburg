@@ -8,7 +8,7 @@
 | Adres | Stiermannstraße 5, 86154 Augsburg |
 | Rodzaje pokoi | pokoje jedno-, dwu- i trzyosobowe |
 | Pojemność | do 6 osób (możliwy wynajem całego mieszkania) |
-| Zameldowanie / wymeldowanie | od 14:00 / do 10:00, inne godziny po uzgodnieniu |
+| Zameldowanie / wymeldowanie | od 15:00 / do 10:00, inne godziny po uzgodnieniu |
 | Parking | bezpłatny, tuż przy budynku |
 | Minimalny pobyt | 1 noc |
 | Płatność | przelew lub gotówka |

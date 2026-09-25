@@ -50,7 +50,7 @@ Apartamentele pentru muncitori sunt adesea rezervate pentru mai multe săptămâ
 1. Cerere cu numele firmei, mărimea echipei, data sosirii și durata estimată – prin [formular](/reservierung-monterwohungaugsburg/) sau la telefon +49 821 419028-28
 2. Ofertă pentru apartamentul potrivit
 3. Confirmare cu adresa de facturare și, dacă este cazul, numărul de proiect sau de centru de cost
-4. Sosire de la ora 14:00, plecare până la ora 10:00 – alte ore după înțelegere
+4. Sosire de la ora 15:00, plecare până la ora 10:00 – alte ore după înțelegere
 5. Plata prin transfer bancar sau în numerar
 
 Informații despre tratamentul fiscal al costurilor de cazare găsiți în ghidul nostru [Deducerea fiscală a cazării pentru muncitori](/blog/monteurzimmer-steuerlich-absetzen/) (în limba germană).

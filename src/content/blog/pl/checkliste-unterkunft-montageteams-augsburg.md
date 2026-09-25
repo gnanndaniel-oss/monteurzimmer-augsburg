@@ -32,7 +32,7 @@ Wskazówka: przy dłuższych projektach warto od razu zapytać o **specjalne war
 ## Etap 3: Przed przyjazdem
 
 7. **Przekazanie potwierdzenia rezerwacji ekipie** – z adresem, osobą kontaktową i numerem telefonu wynajmującego (u nas: +49 821 419028-28).
-8. **Poinformowanie o godzinie zameldowania.** W Monteurzimmer Augsburg zameldowanie (check-in) jest możliwe od 14:00, a wymeldowanie (check-out) do 10:00. Jeśli ekipa przyjedzie później lub wcześniej, należy to wcześniej uzgodnić.
+8. **Poinformowanie o godzinie zameldowania.** W Monteurzimmer Augsburg zameldowanie (check-in) jest możliwe od 15:00, a wymeldowanie (check-out) do 10:00. Jeśli ekipa przyjedzie później lub wcześniej, należy to wcześniej uzgodnić.
 9. **Ustalenie podziału pokoi.** Kto śpi z kim? Krótka lista oszczędza dyskusji pierwszego wieczoru.
 10. **Sprawdzenie pojazdów i trasy.** Warto z wyprzedzeniem sprawdzić aktualne zasady dotyczące strefy ekologicznej (Umweltzone) w Augsburgu oraz roboty drogowe na trasie dojazdu. Nasze kwatery mają szybkie połączenie z autostradą A8 (Monachium–Stuttgart) i drogą B17.
 11. **Dokumenty pracowników z zagranicy.** Pracownicy delegowani z krajów UE powinni mieć przy sobie zaświadczenie A1; w niektórych branżach – np. w budownictwie – wymagane jest dodatkowo zgłoszenie w urzędzie celnym (Zoll). Aktualne obowiązki należy sprawdzić odpowiednio wcześnie.
@@ -90,4 +90,4 @@ Prosimy zgłosić przedłużenie jak najwcześniej. W zależności od dostępno�
 
 ### Czy ekipa może przyjechać późnym wieczorem?
 
-Standardowe zameldowanie jest możliwe od 14:00. Późniejszy przyjazd jest możliwy po uzgodnieniu – prosimy o wcześniejszą informację.
+Standardowe zameldowanie jest możliwe od 15:00. Późniejszy przyjazd jest możliwy po uzgodnieniu – prosimy o wcześniejszą informację.

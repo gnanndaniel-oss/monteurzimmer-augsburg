@@ -39,7 +39,7 @@ Preise variieren je nach Saison und Auslastung – zu großen Messen gilt: früh
 1. **Früh buchen:** Sobald der Messetermin und die Teamgröße feststehen, anfragen – zu Messezeiten ist die Nachfrage in ganz Augsburg hoch.
 2. **Auf- und Abbau mitplanen:** Die Unterkunft für die Aufbautage vor Messebeginn und den Abbautag danach gleich mitbuchen.
 3. **Fahrzeuge angeben:** Mit wie vielen Transportern oder Anhängern reist das Team an? Das bei der Anfrage angeben.
-4. **Anreisezeiten abstimmen:** Check-in ist ab 14:00 Uhr; späte Anreise nach dem Aufbau vorher mit uns absprechen.
+4. **Anreisezeiten abstimmen:** Check-in ist ab 15:00 Uhr; späte Anreise nach dem Aufbau vorher mit uns absprechen.
 5. **Rechnungsangaben mitschicken:** Firmenname, Anschrift und Projekt- bzw. Messebezeichnung erleichtern die Abrechnung.
 
 ## Anfahrt zur Messe

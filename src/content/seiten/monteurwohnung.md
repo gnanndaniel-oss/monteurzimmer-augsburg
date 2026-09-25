@@ -50,7 +50,7 @@ Monteurwohnungen werden oft für mehrere Wochen oder Monate gebucht – etwa bei
 1. Anfrage mit Firmenname, Teamgröße, Anreisedatum und geschätzter Dauer – per [Formular](/reservierung-monterwohungaugsburg/) oder Telefon 0821 419028-28
 2. Angebot für die passende Wohnung
 3. Bestätigung mit Rechnungsanschrift und ggf. Projekt- oder Kostenstellennummer
-4. Anreise ab 14:00 Uhr, Abreise bis 10:00 Uhr – andere Zeiten nach Absprache
+4. Anreise ab 15:00 Uhr, Abreise bis 10:00 Uhr – andere Zeiten nach Absprache
 5. Bezahlung per Überweisung oder bar
 
 Hinweise zur steuerlichen Behandlung der Unterkunftskosten gibt unser Ratgeber [Monteurzimmer steuerlich absetzen](/blog/monteurzimmer-steuerlich-absetzen/).

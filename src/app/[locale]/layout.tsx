@@ -91,7 +91,7 @@ export default async function LocaleLayout({ children, params }: Props) {
     ],
     numberOfRooms: 4,
     petsAllowed: false,
-    checkinTime: '14:00',
+    checkinTime: '15:00',
     checkoutTime: '10:00',
     areaServed: {
       '@type': 'GeoCircle',

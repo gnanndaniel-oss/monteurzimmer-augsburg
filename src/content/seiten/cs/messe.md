@@ -39,7 +39,7 @@ Ceny se liší podle sezóny a obsazenosti – na velké veletrhy platí: poptá
 1. **Rezervujte včas:** Jakmile znáte termín veletrhu a velikost týmu, pošlete poptávku – v době veletrhů je poptávka v celém Augsburgu vysoká.
 2. **Počítejte s montáží a demontáží:** Ubytování na dny montáže před zahájením veletrhu a na den demontáže po jeho skončení si rezervujte rovnou také.
 3. **Uveďte vozidla:** S kolika dodávkami nebo přívěsy tým přijede? Uveďte to v poptávce.
-4. **Domluvte časy příjezdu:** Check-in je od 14:00; pozdní příjezd po montáži s námi prosím předem domluvte.
+4. **Domluvte časy příjezdu:** Check-in je od 15:00; pozdní příjezd po montáži s námi prosím předem domluvte.
 5. **Pošlete fakturační údaje:** Název firmy, adresa a označení projektu nebo veletrhu usnadňují vyúčtování.
 
 ## Cesta na výstaviště

@@ -50,7 +50,7 @@ Mieszkania dla monterów są często rezerwowane na kilka tygodni lub miesięcy 
 1. Zapytanie z nazwą firmy, wielkością ekipy, datą przyjazdu i szacowanym czasem pobytu – przez [formularz](/reservierung-monterwohungaugsburg/) lub telefonicznie pod numerem +49 821 419028-28
 2. Oferta na odpowiednie mieszkanie
 3. Potwierdzenie z adresem do faktury i ewentualnie numerem projektu lub centrum kosztów
-4. Przyjazd od 14:00, wyjazd do 10:00 – inne godziny po uzgodnieniu
+4. Przyjazd od 15:00, wyjazd do 10:00 – inne godziny po uzgodnieniu
 5. Płatność przelewem lub gotówką
 
 Wskazówki dotyczące podatkowego rozliczania kosztów zakwaterowania znajdą Państwo w naszym poradniku [Pokoje dla monterów a odliczenia podatkowe](/blog/monteurzimmer-steuerlich-absetzen/).

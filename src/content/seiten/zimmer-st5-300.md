@@ -8,7 +8,7 @@
 | Adresse | Stiermannstraße 5, 86154 Augsburg |
 | Zimmerarten | Einzel-, Doppel- und Dreibettzimmer |
 | Kapazität | bis zu 7 Personen (als WG mietbar) |
-| Check-in / Check-out | ab 14:00 Uhr / bis 10:00 Uhr, andere Zeiten nach Absprache |
+| Check-in / Check-out | ab 15:00 Uhr / bis 10:00 Uhr, andere Zeiten nach Absprache |
 | Parken | kostenlos direkt am Haus |
 | Mindestaufenthalt | 1 Nacht |
 | Bezahlung | Überweisung oder bar |

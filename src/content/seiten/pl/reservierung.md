@@ -7,7 +7,7 @@
 1. **Wysłanie zapytania:** Prosimy wypełnić formularz – obowiązkowe dane to imię i nazwisko, telefon, e-mail, rodzaj zakwaterowania, liczba pokoi i osób, data przyjazdu oraz długość pobytu. Pole „Firma” jest opcjonalne, ale przy rezerwacjach firmowych warto je wypełnić.
 2. **Otrzymanie oferty:** Sprawdzamy dostępność i jak najszybciej odpowiadamy z propozycją i ceną na wybrany termin.
 3. **Potwierdzenie:** Po Państwa akceptacji zakwaterowanie jest zarezerwowane.
-4. **Przyjazd:** Zameldowanie od 14:00. Jeśli ekipa przyjedzie później, wcześniej uzgodnimy godzinę przyjazdu.
+4. **Przyjazd:** Zameldowanie od 15:00. Jeśli ekipa przyjedzie później, wcześniej uzgodnimy godzinę przyjazdu.
 5. **Wyjazd i płatność:** Wymeldowanie do 10:00, płatność przelewem lub gotówką.
 
 ## Ile kosztuje zakwaterowanie?

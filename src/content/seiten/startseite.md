@@ -8,7 +8,7 @@
 | Kapazität | Einzelpersonen bis Teams von 20 Personen |
 | Ausstattung | WLAN, TV, Küche, Waschmaschine, Bettwäsche & Handtücher, wöchentliche Reinigung |
 | Parken | kostenlose Parkplätze direkt am Haus |
-| Check-in / Check-out | ab 14:00 Uhr / bis 10:00 Uhr, andere Zeiten nach Absprache |
+| Check-in / Check-out | ab 15:00 Uhr / bis 10:00 Uhr, andere Zeiten nach Absprache |
 | Mindestaufenthalt | 1 Nacht, Sonderkonditionen für Langzeitaufenthalte |
 
 <!-- more -->
@@ -51,7 +51,7 @@ Unsere Unterkünfte sind auf Menschen ausgelegt, die in Augsburg arbeiten und ni
 1. **Anfrage senden:** über das [Reservierungsformular](/reservierung-monterwohungaugsburg/) oder telefonisch unter 0821 419028-28. Hilfreich sind Firmenname, Personenzahl, gewünschte Zimmeraufteilung, Anreisedatum und voraussichtliche Dauer.
 2. **Angebot erhalten:** Wir melden uns schnellstmöglich mit einem konkreten Vorschlag – Zimmer, Wohnung oder Haus – und dem Preis für Ihren Zeitraum.
 3. **Bestätigen:** Nach Ihrer Zusage ist die Unterkunft reserviert. Rechnungsanschrift, Kostenstelle oder Projektnummer nennen Sie uns am besten gleich mit, dann stimmt die Rechnung auf Anhieb.
-4. **Anreisen und arbeiten:** Check-in ab 14:00 Uhr, bei Anreise am späten Abend oder frühen Morgen stimmen wir die Schlüsselübergabe vorher mit Ihnen ab.
+4. **Anreisen und arbeiten:** Check-in ab 15:00 Uhr, bei Anreise am späten Abend oder frühen Morgen stimmen wir die Schlüsselübergabe vorher mit Ihnen ab.
 5. **Bezahlen:** per Überweisung oder bar.
 
 ## Lage und Anbindung
@@ -78,7 +78,7 @@ Bei Monteurzimmer Augsburg zahlen Sie ab 12 € pro Person und Nacht, wenn eine 
 
 ### Ab wann kann ich ein- und auschecken?
 
-Check-in ist ab 14:00 Uhr möglich, Check-out bis 10:00 Uhr. Flexible Zeiten sind nach Absprache möglich.
+Check-in ist ab 15:00 Uhr möglich, Check-out bis 10:00 Uhr. Flexible Zeiten sind nach Absprache möglich.
 
 ### Gibt es eine Mindestaufenthaltsdauer?
 

@@ -54,7 +54,7 @@ Z pokoi dla monterów szybko dotrą Państwo do autostrady A8 (Monachium–Stutt
 1. Zapytanie przez [formularz rezerwacji](/reservierung-monterwohungaugsburg/) lub telefonicznie pod numerem +49 821 419028-28
 2. Oferta z podziałem pokoi i ceną za wybrany okres
 3. Potwierdzenie – od razu prosimy przesłać dane do faktury (firma, adres, ewentualnie numer projektu)
-4. Zameldowanie od 14:00, inne godziny przyjazdu po uzgodnieniu
+4. Zameldowanie od 15:00, inne godziny przyjazdu po uzgodnieniu
 5. Wymeldowanie do 10:00, płatność przelewem lub gotówką
 
 Dla większych ekip często opłaca się wynająć całe [mieszkanie dla monterów](/monteurwohnung-augsburg/) lub [dom dla monterów](/monteurhaus-augsburg/). Na co firmy powinny zwrócić uwagę przy rozliczeniach, wyjaśnia nasz poradnik [Pokoje dla monterów a odliczenia podatkowe](/blog/monteurzimmer-steuerlich-absetzen/).
@@ -87,7 +87,7 @@ Tak, przy dłuższych pobytach oferujemy specjalne warunki. Prosimy zapytać o n
 
 ### Czy mogę przyjechać późnym wieczorem?
 
-Standardowe zameldowanie odbywa się od 14:00. Późniejsze godziny przyjazdu są możliwe po uzgodnieniu – prosimy o wcześniejszą informację.
+Standardowe zameldowanie odbywa się od 15:00. Późniejsze godziny przyjazdu są możliwe po uzgodnieniu – prosimy o wcześniejszą informację.
 
 ### Jak daleko jest do Messe Augsburg?
 

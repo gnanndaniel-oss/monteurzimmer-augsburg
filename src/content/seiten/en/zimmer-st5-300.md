@@ -8,7 +8,7 @@
 | Address | Stiermannstraße 5, 86154 Augsburg |
 | Room types | single, double and triple rooms |
 | Capacity | up to 7 people (let as a shared flat) |
-| Check-in / check-out | from 2:00 pm / by 10:00 am, other times by arrangement |
+| Check-in / check-out | from 3:00 pm / by 10:00 am, other times by arrangement |
 | Parking | free, right outside the house |
 | Minimum stay | 1 night |
 | Payment | bank transfer or cash |

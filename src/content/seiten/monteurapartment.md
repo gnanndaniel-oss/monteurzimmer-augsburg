@@ -34,7 +34,7 @@ Ein Einzelzimmer im Monteurzimmer kostet ab 25 € pro Nacht, das 1-Personen-Apa
 
 ## Buchung
 
-Senden Sie uns Ihre Anfrage über das [Reservierungsformular](/reservierung-monterwohungaugsburg/) oder rufen Sie an: 0821 419028-28. Check-in ist ab 14:00 Uhr, Check-out bis 10:00 Uhr, abweichende Zeiten nach Absprache. Bezahlt wird per Überweisung oder bar.
+Senden Sie uns Ihre Anfrage über das [Reservierungsformular](/reservierung-monterwohungaugsburg/) oder rufen Sie an: 0821 419028-28. Check-in ist ab 15:00 Uhr, Check-out bis 10:00 Uhr, abweichende Zeiten nach Absprache. Bezahlt wird per Überweisung oder bar.
 
 ## Häufige Fragen zum Monteurapartment
 

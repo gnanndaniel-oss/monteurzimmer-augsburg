@@ -39,7 +39,7 @@ Prețurile variază în funcție de sezon și de grad de ocupare – la târguri
 1. **Rezervați din timp:** Imediat ce data târgului și mărimea echipei sunt stabilite, trimiteți-ne o cerere – în perioada târgurilor cererea este mare în tot orașul Augsburg.
 2. **Planificați și montajul, și demontajul:** Rezervați de la început cazarea și pentru zilele de montaj dinaintea târgului, și pentru ziua de demontaj de după.
 3. **Menționați vehiculele:** Cu câte dube sau remorci sosește echipa? Precizați acest lucru în cerere.
-4. **Stabiliți ora sosirii:** Check-in-ul este de la ora 14:00; o sosire târzie după montaj vă rugăm să o stabiliți în prealabil cu noi.
+4. **Stabiliți ora sosirii:** Check-in-ul este de la ora 15:00; o sosire târzie după montaj vă rugăm să o stabiliți în prealabil cu noi.
 5. **Trimiteți datele de facturare:** Numele firmei, adresa și denumirea proiectului sau a târgului ușurează facturarea.
 
 ## Cum ajungeți la târg

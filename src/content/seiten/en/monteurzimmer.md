@@ -54,7 +54,7 @@ From the workers' rooms you can quickly reach the A8 motorway (Munich–Stuttgar
 1. Enquiry via the [booking form](/reservierung-monterwohungaugsburg/) or by phone on +49 821 419028-28
 2. Quote with room allocation and price for your dates
 3. Confirmation – send your billing details (company, address, project number if applicable) at the same time
-4. Check-in from 2:00 pm, different arrival times by arrangement
+4. Check-in from 3:00 pm, different arrival times by arrangement
 5. Check-out by 10:00 am, payment by bank transfer or in cash
 
 For larger teams, a whole [workers' apartment](/monteurwohnung-augsburg/) or a [workers' house](/monteurhaus-augsburg/) is often better value. What companies should bear in mind when it comes to accounting is explained in our guide [Claiming workers' accommodation against tax](/blog/monteurzimmer-steuerlich-absetzen/).
@@ -87,7 +87,7 @@ Yes, we offer special rates for longer stays. Just mention it when you send your
 
 ### Can I arrive late in the evening?
 
-Standard check-in is from 2:00 pm. Later arrival times are possible by arrangement – please let us know in advance.
+Standard check-in is from 3:00 pm. Later arrival times are possible by arrangement – please let us know in advance.
 
 ### How far is it to Messe Augsburg?
 

@@ -8,7 +8,7 @@
 | Pojemność | od pojedynczych osób po ekipy liczące 20 osób |
 | Wyposażenie | Wi-Fi, TV, kuchnia, pralka, pościel i ręczniki, cotygodniowe sprzątanie |
 | Parking | bezpłatne miejsca parkingowe bezpośrednio przy budynku |
-| Zameldowanie / wymeldowanie | od 14:00 / do 10:00, inne godziny po uzgodnieniu |
+| Zameldowanie / wymeldowanie | od 15:00 / do 10:00, inne godziny po uzgodnieniu |
 | Minimalny pobyt | 1 noc, specjalne warunki przy dłuższych pobytach |
 
 <!-- more -->
@@ -51,7 +51,7 @@ Nasze noclegi są przeznaczone dla osób, które pracują w Augsburgu i nie mog�
 1. **Wysłanie zapytania:** przez [formularz rezerwacji](/reservierung-monterwohungaugsburg/) lub telefonicznie pod numerem +49 821 419028-28. Pomocne będą: nazwa firmy, liczba osób, preferowany podział pokoi, data przyjazdu i przewidywany czas pobytu.
 2. **Otrzymanie oferty:** odezwiemy się najszybciej, jak to możliwe, z konkretną propozycją – pokój, mieszkanie lub dom – oraz ceną za wybrany okres.
 3. **Potwierdzenie:** po Państwa akceptacji nocleg zostaje zarezerwowany. Najlepiej od razu podać adres do faktury, centrum kosztów lub numer projektu – wtedy faktura będzie od początku prawidłowa.
-4. **Przyjazd i praca:** zameldowanie od 14:00; w przypadku przyjazdu późnym wieczorem lub wczesnym rano wcześniej uzgodnimy z Państwem przekazanie kluczy.
+4. **Przyjazd i praca:** zameldowanie od 15:00; w przypadku przyjazdu późnym wieczorem lub wczesnym rano wcześniej uzgodnimy z Państwem przekazanie kluczy.
 5. **Płatność:** przelewem lub gotówką.
 
 ## Lokalizacja i dojazd
@@ -78,7 +78,7 @@ W Monteurzimmer Augsburg płacą Państwo od 12 € za osobę za noc, jeśli mie
 
 ### O której godzinie można się zameldować i wymeldować?
 
-Zameldowanie jest możliwe od 14:00, wymeldowanie do 10:00. Elastyczne godziny są możliwe po uzgodnieniu.
+Zameldowanie jest możliwe od 15:00, wymeldowanie do 10:00. Elastyczne godziny są możliwe po uzgodnieniu.
 
 ### Czy obowiązuje minimalny czas pobytu?
 

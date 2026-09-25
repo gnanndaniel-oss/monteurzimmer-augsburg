@@ -8,7 +8,7 @@
 | Adresă | Stiermannstraße 5, 86154 Augsburg |
 | Tipuri de camere | camere single, duble și triple |
 | Capacitate | până la 7 persoane (se închiriază ca locuință comună) |
-| Check-in / check-out | de la ora 14:00 / până la ora 10:00, alte ore de comun acord |
+| Check-in / check-out | de la ora 15:00 / până la ora 10:00, alte ore de comun acord |
 | Parcare | gratuită, direct lângă casă |
 | Ședere minimă | 1 noapte |
 | Plată | transfer bancar sau numerar |

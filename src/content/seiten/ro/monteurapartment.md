@@ -34,7 +34,7 @@ O cameră single în camerele pentru muncitori costă de la 25 € pe noapte, ap
 
 ## Rezervare
 
-Trimiteți-ne cererea prin [formularul de rezervare](/reservierung-monterwohungaugsburg/) sau sunați la +49 821 419028-28. Check-in-ul este de la ora 14:00, check-out-ul până la ora 10:00, alte ore se pot stabili de comun acord. Plata se face prin transfer bancar sau în numerar.
+Trimiteți-ne cererea prin [formularul de rezervare](/reservierung-monterwohungaugsburg/) sau sunați la +49 821 419028-28. Check-in-ul este de la ora 15:00, check-out-ul până la ora 10:00, alte ore se pot stabili de comun acord. Plata se face prin transfer bancar sau în numerar.
 
 ## Întrebări frecvente despre mini-apartamentul pentru muncitori
 

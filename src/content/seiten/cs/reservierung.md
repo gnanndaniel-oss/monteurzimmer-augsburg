@@ -7,7 +7,7 @@
 1. **Odešlete poptávku:** Vyplňte formulář – povinné údaje jsou jméno, telefon, e-mail, typ ubytování, počet pokojů a osob, datum příjezdu a délka pobytu. Pole „Firma“ je nepovinné, u firemních rezervací je ale vhodné ho vyplnit.
 2. **Obdržíte nabídku:** Ověříme dostupnost a co nejdříve se Vám ozveme s návrhem a cenou pro Váš termín.
 3. **Potvrďte:** Vaším souhlasem je ubytování pro Vás rezervováno.
-4. **Přijeďte:** Check-in od 14:00. Pokud Váš tým přijede později, domluvíme příjezd s Vámi předem.
+4. **Přijeďte:** Check-in od 15:00. Pokud Váš tým přijede později, domluvíme příjezd s Vámi předem.
 5. **Odjezd a platba:** Check-out do 10:00, platba bankovním převodem nebo v hotovosti.
 
 ## Kolik ubytování stojí?

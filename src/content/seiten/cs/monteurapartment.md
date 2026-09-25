@@ -34,7 +34,7 @@ Jednolůžkový pokoj v Monteurzimmer stojí od 25 € za noc, apartmán pro 1 o
 
 ## Rezervace
 
-Pošlete nám poptávku přes [rezervační formulář](/reservierung-monterwohungaugsburg/) nebo zavolejte: +49 821 419028-28. Check-in je od 14:00, check-out do 10:00, jiné časy po domluvě. Platí se bankovním převodem nebo v hotovosti.
+Pošlete nám poptávku přes [rezervační formulář](/reservierung-monterwohungaugsburg/) nebo zavolejte: +49 821 419028-28. Check-in je od 15:00, check-out do 10:00, jiné časy po domluvě. Platí se bankovním převodem nebo v hotovosti.
 
 ## Často kladené otázky k apartmánu pro montéry
 

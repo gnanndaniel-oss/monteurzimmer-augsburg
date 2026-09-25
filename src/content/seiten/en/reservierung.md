@@ -7,7 +7,7 @@
 1. **Send an enquiry:** Fill in the form – required fields are name, phone, email, type of accommodation, number of rooms and people, arrival date and length of stay. The "Company" ("Firma") field is optional, but useful for company bookings.
 2. **Receive a quote:** We check availability and get back to you as quickly as possible with a proposal and the price for your dates.
 3. **Confirm:** Once you accept, the accommodation is reserved for you.
-4. **Arrive:** Check-in from 2:00 pm. If your team arrives later, we will agree the arrival time with you in advance.
+4. **Arrive:** Check-in from 3:00 pm. If your team arrives later, we will agree the arrival time with you in advance.
 5. **Depart and pay:** Check-out by 10:00 am, payment by bank transfer or in cash.
 
 ## How much does the accommodation cost?

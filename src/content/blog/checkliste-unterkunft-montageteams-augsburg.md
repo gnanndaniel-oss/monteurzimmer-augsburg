@@ -32,7 +32,7 @@ Tipp: Fragen Sie bei längeren Projekten direkt nach **Sonderkonditionen für La
 ## Phase 3: Vor der Anreise
 
 7. **Buchungsbestätigung an das Team weitergeben** – mit Adresse, Ansprechpartner und Telefonnummer des Vermieters (bei uns: 0821 419028-28).
-8. **Check-in-Zeit kommunizieren.** Bei Monteurzimmer Augsburg ist der Check-in ab 14:00 Uhr, der Check-out bis 10:00 Uhr. Kommt das Team später oder früher, vorher absprechen.
+8. **Check-in-Zeit kommunizieren.** Bei Monteurzimmer Augsburg ist der Check-in ab 15:00 Uhr, der Check-out bis 10:00 Uhr. Kommt das Team später oder früher, vorher absprechen.
 9. **Zimmerbelegung festlegen.** Wer schläft mit wem? Eine kurze Liste erspart Diskussionen am ersten Abend.
 10. **Fahrzeuge und Route prüfen.** Informieren Sie sich vorab über die aktuellen Regeln zur Umweltzone in Augsburg und über Baustellen auf der Anfahrt. Die Unterkünfte haben eine schnelle Anbindung an die A8 (München–Stuttgart) und die B17.
 11. **Papiere für Mitarbeiter aus dem Ausland.** Bei entsandten Arbeitnehmern aus EU-Staaten gehört die A1-Bescheinigung ins Gepäck; in einigen Branchen – etwa im Baugewerbe – ist zusätzlich eine Anmeldung beim Zoll erforderlich. Prüfen Sie die aktuellen Pflichten rechtzeitig.
@@ -90,4 +90,4 @@ Melden Sie die Verlängerung so früh wie möglich. Je nach Verfügbarkeit läss
 
 ### Kann das Team spät abends anreisen?
 
-Der reguläre Check-in ist ab 14:00 Uhr. Spätere Anreisen sind nach Absprache möglich – bitte vorher Bescheid geben.
+Der reguläre Check-in ist ab 15:00 Uhr. Spätere Anreisen sind nach Absprache möglich – bitte vorher Bescheid geben.

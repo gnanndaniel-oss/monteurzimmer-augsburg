@@ -7,7 +7,7 @@
 1. **Anfrage stellen:** Füllen Sie das Formular aus – Pflichtangaben sind Name, Telefon, E-Mail, Art der Unterkunft, Anzahl der Zimmer und Personen, Anreisedatum und Aufenthaltsdauer. Das Feld „Firma“ ist optional, bei Firmenbuchungen aber sinnvoll.
 2. **Angebot erhalten:** Wir prüfen die Verfügbarkeit und melden uns schnellstmöglich mit einem Vorschlag und dem Preis für Ihren Zeitraum.
 3. **Bestätigen:** Mit Ihrer Zusage ist die Unterkunft für Sie reserviert.
-4. **Anreisen:** Check-in ab 14:00 Uhr. Kommt Ihr Team später, stimmen wir die Anreise vorher mit Ihnen ab.
+4. **Anreisen:** Check-in ab 15:00 Uhr. Kommt Ihr Team später, stimmen wir die Anreise vorher mit Ihnen ab.
 5. **Abreisen und bezahlen:** Check-out bis 10:00 Uhr, Bezahlung per Überweisung oder bar.
 
 ## Was kostet die Unterkunft?

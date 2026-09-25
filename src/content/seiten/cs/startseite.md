@@ -8,7 +8,7 @@
 | Kapacita | od jednotlivců až po týmy o 20 osobách |
 | Vybavení | Wi-Fi, TV, kuchyně, pračka, ložní prádlo a ručníky, týdenní úklid |
 | Parkování | bezplatná parkovací místa přímo u domu |
-| Check-in / check-out | od 14:00 / do 10:00, jiné časy po dohodě |
+| Check-in / check-out | od 15:00 / do 10:00, jiné časy po dohodě |
 | Minimální pobyt | 1 noc, zvýhodněné podmínky pro dlouhodobé pobyty |
 
 <!-- more -->
@@ -51,7 +51,7 @@ Naše ubytování je určeno lidem, kteří pracují v Augsburgu a nemohou každ
 1. **Odešlete poptávku:** přes [rezervační formulář](/reservierung-monterwohungaugsburg/) nebo telefonicky na čísle +49 821 419028-28. Užitečné jsou název firmy, počet osob, požadované rozdělení pokojů, datum příjezdu a předpokládaná délka pobytu.
 2. **Obdržíte nabídku:** Co nejdříve se Vám ozveme s konkrétním návrhem – pokoj, byt nebo dům – a cenou pro Vaše období.
 3. **Potvrďte:** Po Vašem souhlasu je ubytování rezervováno. Fakturační adresu, nákladové středisko nebo číslo projektu nám nejlépe sdělte rovnou, aby faktura byla hned napoprvé správně.
-4. **Přijeďte a pracujte:** Check-in od 14:00; při příjezdu pozdě večer nebo brzy ráno s Vámi předání klíčů předem domluvíme.
+4. **Přijeďte a pracujte:** Check-in od 15:00; při příjezdu pozdě večer nebo brzy ráno s Vámi předání klíčů předem domluvíme.
 5. **Zaplaťte:** bankovním převodem nebo v hotovosti.
 
 ## Poloha a dopravní spojení
@@ -78,7 +78,7 @@ U Monteurzimmer Augsburg platíte od 12 € za osobu a noc, pokud je byt obsazen
 
 ### Od kdy se mohu ubytovat a do kdy se musím odhlásit?
 
-Check-in je možný od 14:00, check-out do 10:00. Flexibilní časy jsou možné po dohodě.
+Check-in je možný od 15:00, check-out do 10:00. Flexibilní časy jsou možné po dohodě.
 
 ### Je stanovena minimální délka pobytu?
 

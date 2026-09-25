@@ -54,7 +54,7 @@ Von den Monteurzimmern erreichen Sie die Autobahn A8 (München–Stuttgart) und 
 1. Anfrage über das [Reservierungsformular](/reservierung-monterwohungaugsburg/) oder telefonisch unter 0821 419028-28
 2. Angebot mit Zimmeraufteilung und Preis für Ihren Zeitraum
 3. Bestätigung – Rechnungsangaben (Firma, Anschrift, ggf. Projektnummer) gleich mitschicken
-4. Check-in ab 14:00 Uhr, abweichende Anreisezeiten nach Absprache
+4. Check-in ab 15:00 Uhr, abweichende Anreisezeiten nach Absprache
 5. Check-out bis 10:00 Uhr, Bezahlung per Überweisung oder bar
 
 Für größere Teams lohnt sich oft eine komplette [Monteurwohnung](/monteurwohnung-augsburg/) oder ein [Monteurhaus](/monteurhaus-augsburg/). Was Firmen bei der Abrechnung beachten sollten, erklärt unser Ratgeber [Monteurzimmer steuerlich absetzen](/blog/monteurzimmer-steuerlich-absetzen/).
@@ -87,7 +87,7 @@ Ja, für längere Aufenthalte bieten wir Sonderkonditionen. Sprechen Sie uns bei
 
 ### Kann ich spät abends anreisen?
 
-Regulärer Check-in ist ab 14:00 Uhr. Spätere Anreisezeiten sind nach Absprache möglich – bitte vorher Bescheid geben.
+Regulärer Check-in ist ab 15:00 Uhr. Spätere Anreisezeiten sind nach Absprache möglich – bitte vorher Bescheid geben.
 
 ### Wie weit ist es zur Messe Augsburg?
 

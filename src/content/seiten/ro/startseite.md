@@ -8,7 +8,7 @@
 | Capacitate | de la persoane individuale până la echipe de 20 de persoane |
 | Dotări | WiFi, TV, bucătărie, mașină de spălat, lenjerie de pat și prosoape, curățenie săptămânală |
 | Parcare | locuri de parcare gratuite chiar lângă clădire |
-| Check-in / check-out | de la ora 14:00 / până la ora 10:00, alte ore după înțelegere |
+| Check-in / check-out | de la ora 15:00 / până la ora 10:00, alte ore după înțelegere |
 | Ședere minimă | 1 noapte, condiții speciale pentru șederi de lungă durată |
 
 <!-- more -->
@@ -51,7 +51,7 @@ Unitățile noastre de cazare sunt gândite pentru oamenii care lucrează în Au
 1. **Trimiteți cererea:** prin [formularul de rezervare](/reservierung-monterwohungaugsburg/) sau telefonic la +49 821 419028-28. Sunt utile numele firmei, numărul de persoane, împărțirea dorită pe camere, data sosirii și durata estimată.
 2. **Primiți oferta:** vă răspundem cât mai repede posibil cu o propunere concretă – cameră, apartament sau casă – și prețul pentru perioada dumneavoastră.
 3. **Confirmați:** după acceptul dumneavoastră, cazarea este rezervată. Cel mai bine ne comunicați de la început adresa de facturare, centrul de cost sau numărul de proiect – astfel factura este corectă din prima.
-4. **Sosiți și lucrați:** check-in de la ora 14:00; dacă sosiți târziu seara sau dimineața devreme, stabilim în prealabil cu dumneavoastră predarea cheilor.
+4. **Sosiți și lucrați:** check-in de la ora 15:00; dacă sosiți târziu seara sau dimineața devreme, stabilim în prealabil cu dumneavoastră predarea cheilor.
 5. **Plătiți:** prin transfer bancar sau în numerar.
 
 ## Amplasare și acces
@@ -78,7 +78,7 @@ La Monteurzimmer Augsburg plătiți de la 12 € de persoană pe noapte, dacă u
 
 ### De la ce oră pot face check-in și până la ce oră check-out?
 
-Check-in-ul este posibil de la ora 14:00, check-out-ul până la ora 10:00. Ore flexibile sunt posibile după înțelegere.
+Check-in-ul este posibil de la ora 15:00, check-out-ul până la ora 10:00. Ore flexibile sunt posibile după înțelegere.
 
 ### Există o durată minimă de ședere?
 

@@ -7,7 +7,7 @@
 1. **Trimiteți cererea:** Completați formularul – datele obligatorii sunt numele, telefonul, e-mailul, tipul de cazare, numărul de camere și de persoane, data sosirii și durata șederii. Câmpul „Firmă” („Firma”) este opțional, dar util în cazul rezervărilor făcute de firme.
 2. **Primiți oferta:** Verificăm disponibilitatea și revenim cât mai repede posibil cu o propunere și cu prețul pentru perioada dumneavoastră.
 3. **Confirmați:** Odată cu acordul dumneavoastră, cazarea este rezervată pentru dumneavoastră.
-4. **Sosirea:** Check-in de la ora 14:00. Dacă echipa dumneavoastră ajunge mai târziu, stabilim sosirea împreună cu dumneavoastră în prealabil.
+4. **Sosirea:** Check-in de la ora 15:00. Dacă echipa dumneavoastră ajunge mai târziu, stabilim sosirea împreună cu dumneavoastră în prealabil.
 5. **Plecarea și plata:** Check-out până la ora 10:00, plata prin transfer bancar sau în numerar.
 
 ## Cât costă cazarea?

@@ -39,7 +39,7 @@ Prices vary depending on season and occupancy – for major trade fairs, the rul
 1. **Book early:** Enquire as soon as the fair dates and team size are fixed – demand is high across Augsburg during trade fairs.
 2. **Plan for build-up and dismantling:** Book the accommodation for the build-up days before the fair and the dismantling day afterwards at the same time.
 3. **Tell us about your vehicles:** How many vans or trailers is the team bringing? Please include this in your enquiry.
-4. **Agree arrival times:** Check-in is from 2:00 pm; please arrange a late arrival after build-up with us in advance.
+4. **Agree arrival times:** Check-in is from 3:00 pm; please arrange a late arrival after build-up with us in advance.
 5. **Send your invoicing details:** Company name, address and project or trade fair name make invoicing easier.
 
 ## Getting to the trade fair

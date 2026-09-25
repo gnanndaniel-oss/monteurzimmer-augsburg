@@ -34,7 +34,7 @@ Pokój jednoosobowy w Monteurzimmer kosztuje od 25 € za noc, apartament 1-osob
 
 ## Rezerwacja
 
-Zapytanie prosimy przesłać przez [formularz rezerwacji](/reservierung-monterwohungaugsburg/) lub zadzwonić: +49 821 419028-28. Zameldowanie od 14:00, wymeldowanie do 10:00, inne godziny po uzgodnieniu. Płatność przelewem lub gotówką.
+Zapytanie prosimy przesłać przez [formularz rezerwacji](/reservierung-monterwohungaugsburg/) lub zadzwonić: +49 821 419028-28. Zameldowanie od 15:00, wymeldowanie do 10:00, inne godziny po uzgodnieniu. Płatność przelewem lub gotówką.
 
 ## Najczęściej zadawane pytania o apartament dla monterów
 

@@ -39,7 +39,7 @@ Ceny zależą od sezonu i obłożenia – przy dużych targach zasada jest prost
 1. **Rezerwować wcześnie:** Gdy tylko termin targów i wielkość ekipy są znane, prosimy o zapytanie – w czasie targów popyt w całym Augsburgu jest wysoki.
 2. **Uwzględnić montaż i demontaż:** Od razu warto zarezerwować nocleg na dni montażu przed rozpoczęciem targów oraz na dzień demontażu po ich zakończeniu.
 3. **Podać liczbę pojazdów:** Iloma busami lub przyczepami przyjeżdża ekipa? Prosimy podać to w zapytaniu.
-4. **Uzgodnić godziny przyjazdu:** Zameldowanie od 14:00; późny przyjazd po montażu prosimy wcześniej z nami uzgodnić.
+4. **Uzgodnić godziny przyjazdu:** Zameldowanie od 15:00; późny przyjazd po montażu prosimy wcześniej z nami uzgodnić.
 5. **Przesłać dane do faktury:** Nazwa firmy, adres oraz nazwa projektu lub targów ułatwiają rozliczenie.
 
 ## Dojazd na targi
