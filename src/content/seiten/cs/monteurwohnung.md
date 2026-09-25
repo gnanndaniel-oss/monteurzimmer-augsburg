@@ -56,7 +56,7 @@ Informace o daňovém zacházení s náklady na ubytování najdete v našem pr�
 
 ## Dopravní spojení
 
-Naše ubytování se nachází na několika místech v Augsburgu, mimo jiné v ulici Barfüßerstraße 7 (centrum) a v ulici Stiermannstraße. Máte rychlé napojení na dálnici A8 a silnici B17; veletrh Messe Augsburg je vzdálen zhruba 15 minut. Městská hromadná doprava a obchody jsou v blízkosti. Přesnou adresu Vašeho bytu obdržíte s nabídkou.
+Naše ubytování se nachází na několika místech v Augsburgu, mimo jiné v ulici Barfüßerstraße 7 (centrum) a v ulici Stiermannstraße (Oberhausen), a také v ulicích Grünerstraße (Oberhausen-Süd) a Schelklingerstraße (Kriegshaber). Máte rychlé napojení na dálnici A8 a silnici B17; veletrh Messe Augsburg je vzdálen zhruba 15 minut. Městská hromadná doprava a obchody jsou v blízkosti. Přesnou adresu Vašeho bytu obdržíte s nabídkou.
 
 ## Často kladené otázky o bytech pro montéry v Augsburgu
 

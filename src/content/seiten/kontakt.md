@@ -4,7 +4,7 @@
 |---|---|
 | Unternehmen | Gnann Verwaltung GmbH |
 | Anschrift | Barfüßerstraße 7, 86150 Augsburg |
-| Standorte | mehrere im Stadtgebiet, u. a. Barfüßerstraße 7 (Innenstadt) und Stiermannstraße |
+| Standorte | mehrere im Stadtgebiet, u. a. Barfüßerstraße 7 (Innenstadt), Stiermannstraße (Oberhausen), Grünerstraße (Oberhausen-Süd) und Schelklingerstraße (Kriegshaber) |
 | Telefon | +49 (0) 821 419028-28 |
 | Fax | +49 (0) 821 419028-13 |
 | Telefonisch erreichbar | Montag bis Freitag, 8–18 Uhr |
@@ -42,7 +42,7 @@ Wenn Sie unsicher sind, beschreiben Sie einfach Ihr Projekt – Teamgröße, Dau
 
 ## Lage der Unterkünfte
 
-Unsere Unterkünfte liegen an mehreren Standorten im Augsburger Stadtgebiet, u. a. in der Barfüßerstraße 7 (Innenstadt) und in der Stiermannstraße, wo sich die Monteurzimmer I–IV befinden. Von dort sind die Autobahn A8 (München–Stuttgart) und die B17 schnell erreichbar, die Messe Augsburg liegt rund 15 Minuten entfernt. Öffentliche Verkehrsmittel, Einkaufsmöglichkeiten und Restaurants gibt es in der Nähe.
+Unsere Unterkünfte liegen an mehreren Standorten im Augsburger Stadtgebiet, u. a. in der Barfüßerstraße 7 (Innenstadt) und in der Stiermannstraße (Oberhausen), wo sich die Monteurzimmer I–IV befinden, sowie in der Grünerstraße (Oberhausen-Süd) und in der Schelklingerstraße (Kriegshaber). Von dort sind die Autobahn A8 (München–Stuttgart) und die B17 schnell erreichbar, die Messe Augsburg liegt rund 15 Minuten entfernt. Öffentliche Verkehrsmittel, Einkaufsmöglichkeiten und Restaurants gibt es in der Nähe.
 
 ## Unternehmensverbund
 
@@ -68,4 +68,4 @@ Nein. Die Anfrage ist unverbindlich; verbindlich wird die Buchung erst mit Ihrer
 
 ### Wo befindet sich die Unterkunft?
 
-Unsere Unterkünfte liegen an mehreren Standorten im Augsburger Stadtgebiet, u. a. in der Barfüßerstraße 7 (Innenstadt) und in der Stiermannstraße (Monteurzimmer I–IV). Die genaue Adresse Ihrer Unterkunft steht im Angebot.
+Unsere Unterkünfte liegen an mehreren Standorten im Augsburger Stadtgebiet, u. a. in der Barfüßerstraße 7 (Innenstadt) und in der Stiermannstraße (Oberhausen, Monteurzimmer I–IV) sowie in der Grünerstraße (Oberhausen-Süd) und in der Schelklingerstraße (Kriegshaber). Die genaue Adresse Ihrer Unterkunft steht im Angebot.

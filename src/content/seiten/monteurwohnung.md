@@ -56,7 +56,7 @@ Hinweise zur steuerlichen Behandlung der Unterkunftskosten gibt unser Ratgeber [
 
 ## Anbindung
 
-Unsere Unterkünfte liegen an mehreren Standorten im Augsburger Stadtgebiet, u. a. in der Barfüßerstraße 7 (Innenstadt) und in der Stiermannstraße. Sie haben eine schnelle Anbindung an die Autobahn A8 und die B17; die Messe Augsburg ist rund 15 Minuten entfernt. Öffentliche Verkehrsmittel und Einkaufsmöglichkeiten gibt es in der Nähe. Die genaue Adresse Ihrer Wohnung erhalten Sie mit dem Angebot.
+Unsere Unterkünfte liegen an mehreren Standorten im Augsburger Stadtgebiet, u. a. in der Barfüßerstraße 7 (Innenstadt) und in der Stiermannstraße (Oberhausen) sowie in der Grünerstraße (Oberhausen-Süd) und in der Schelklingerstraße (Kriegshaber). Sie haben eine schnelle Anbindung an die Autobahn A8 und die B17; die Messe Augsburg ist rund 15 Minuten entfernt. Öffentliche Verkehrsmittel und Einkaufsmöglichkeiten gibt es in der Nähe. Die genaue Adresse Ihrer Wohnung erhalten Sie mit dem Angebot.
 
 ## Häufige Fragen zur Monteurwohnung in Augsburg
 

@@ -4,7 +4,7 @@
 |---|---|
 | Companie | Gnann Verwaltung GmbH |
 | Adresă | Barfüßerstraße 7, 86150 Augsburg |
-| Locații | mai multe în oraș, printre care Barfüßerstraße 7 (centru) și Stiermannstraße |
+| Locații | mai multe în oraș, printre care Barfüßerstraße 7 (centru) și Stiermannstraße (Oberhausen), precum și Grünerstraße (Oberhausen-Süd) și Schelklingerstraße (Kriegshaber) |
 | Telefon | +49 (0) 821 419028-28 |
 | Fax | +49 (0) 821 419028-13 |
 | Program telefonic | luni până vineri, 8:00–18:00 |
@@ -42,7 +42,7 @@ Dacă nu sunteți sigur, descrieți-ne pur și simplu proiectul – mărimea ech
 
 ## Amplasarea unităților de cazare
 
-Unitățile noastre de cazare se află în mai multe locații din orașul Augsburg, printre care Barfüßerstraße 7 (centru) și Stiermannstraße, unde se găsesc Monteurzimmer I–IV. De acolo ajungeți rapid la autostrada A8 (München–Stuttgart) și la B17, iar Messe Augsburg se află la aproximativ 15 minute. Transportul public, magazinele și restaurantele sunt în apropiere.
+Unitățile noastre de cazare se află în mai multe locații din orașul Augsburg, printre care Barfüßerstraße 7 (centru) și Stiermannstraße (Oberhausen), unde se găsesc Monteurzimmer I–IV, precum și Grünerstraße (Oberhausen-Süd) și Schelklingerstraße (Kriegshaber). De acolo ajungeți rapid la autostrada A8 (München–Stuttgart) și la B17, iar Messe Augsburg se află la aproximativ 15 minute. Transportul public, magazinele și restaurantele sunt în apropiere.
 
 ## Grupul de companii
 
@@ -68,4 +68,4 @@ Nu. Cererea este fără obligații; rezervarea devine fermă abia după ce confi
 
 ### Unde se află cazarea?
 
-Unitățile noastre de cazare se află în mai multe locații din orașul Augsburg, printre care Barfüßerstraße 7 (centru) și Stiermannstraße (Monteurzimmer I–IV). Adresa exactă a cazării dumneavoastră este menționată în ofertă.
+Unitățile noastre de cazare se află în mai multe locații din orașul Augsburg, printre care Barfüßerstraße 7 (centru) și Stiermannstraße (Oberhausen, Monteurzimmer I–IV), precum și Grünerstraße (Oberhausen-Süd) și Schelklingerstraße (Kriegshaber). Adresa exactă a cazării dumneavoastră este menționată în ofertă.

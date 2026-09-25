@@ -56,7 +56,7 @@ Wskazówki dotyczące podatkowego rozliczania kosztów zakwaterowania znajdą Pa
 
 ## Dojazd
 
-Nasze noclegi znajdują się w kilku lokalizacjach na terenie Augsburga, m.in. przy Barfüßerstraße 7 (centrum) oraz przy Stiermannstraße. Mają Państwo szybki dojazd do autostrady A8 i drogi B17; Messe Augsburg (tereny targowe) jest oddalona o ok. 15 minut. Komunikacja publiczna i sklepy znajdują się w pobliżu. Dokładny adres mieszkania otrzymają Państwo razem z ofertą.
+Nasze noclegi znajdują się w kilku lokalizacjach na terenie Augsburga, m.in. przy Barfüßerstraße 7 (centrum) oraz przy Stiermannstraße (Oberhausen), a także przy Grünerstraße (Oberhausen-Süd) i Schelklingerstraße (Kriegshaber). Mają Państwo szybki dojazd do autostrady A8 i drogi B17; Messe Augsburg (tereny targowe) jest oddalona o ok. 15 minut. Komunikacja publiczna i sklepy znajdują się w pobliżu. Dokładny adres mieszkania otrzymają Państwo razem z ofertą.
 
 ## Najczęściej zadawane pytania o mieszkanie dla monterów w Augsburgu
 

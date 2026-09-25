@@ -3,7 +3,7 @@
 | W skrócie | |
 |---|---|
 | Operator | Gnann Verwaltung GmbH, prezes zarządu (Geschäftsführer) Daniel Gnann |
-| Lokalizacje | kilka w obrębie miasta, m.in. Barfüßerstraße 7 (centrum) i Stiermannstraße |
+| Lokalizacje | kilka w obrębie miasta, m.in. Barfüßerstraße 7 (centrum) i Stiermannstraße (Oberhausen), a także Grünerstraße (Oberhausen-Süd) i Schelklingerstraße (Kriegshaber) |
 | Ceny | od 12 € (mieszkanie od 10 os.), 15 € (pokój wieloosobowy), 18 € (pokój dwuosobowy), 25 € (pokój jednoosobowy) za osobę/noc |
 | Pojemność | od pojedynczych osób po ekipy liczące 20 osób |
 | Wyposażenie | Wi-Fi, TV, kuchnia, pralka; opcjonalnie do zamówienia: pościel i ręczniki, cotygodniowe sprzątanie |
@@ -56,7 +56,7 @@ Nasze noclegi są przeznaczone dla osób, które pracują w Augsburgu i nie mog�
 
 ## Lokalizacja i dojazd
 
-Nasze noclegi znajdują się w **kilku lokalizacjach na terenie Augsburga**, m.in. przy **Barfüßerstraße 7** (centrum, również apartamenty) oraz przy **Stiermannstraße** (Monteurzimmer I–IV). Z naszych kwater szybko dotrą Państwo do najważniejszych miejsc pracy:
+Nasze noclegi znajdują się w **kilku lokalizacjach na terenie Augsburga**, m.in. przy **Barfüßerstraße 7** (centrum, również apartamenty) oraz przy **Stiermannstraße** (Oberhausen, Monteurzimmer I–IV), a także przy **Grünerstraße** (Oberhausen-Süd) i **Schelklingerstraße** (Kriegshaber). Z naszych kwater szybko dotrą Państwo do najważniejszych miejsc pracy:
 
 - **Autostrada A8** (Monachium–Stuttgart) – szybki dojazd przez augsburskie węzły autostradowe
 - **B17** – oś północ–południe w zachodniej części Augsburga, w kierunku Landsberg am Lech
@@ -118,7 +118,7 @@ Wynajmującym jest Gnann Verwaltung GmbH, Barfüßerstraße 7, 86150 Augsburg, r
 
 ### Gdzie znajdują się pokoje dla monterów?
 
-Nasze noclegi znajdują się w kilku lokalizacjach na terenie Augsburga, m.in. przy Barfüßerstraße 7 (centrum) oraz przy Stiermannstraße, gdzie mieszczą się Monteurzimmer I do IV. Do Messe Augsburg dotrą Państwo w ok. 15 minut, a do autostrady A8 i drogi B17 – bardzo szybko.
+Nasze noclegi znajdują się w kilku lokalizacjach na terenie Augsburga, m.in. przy Barfüßerstraße 7 (centrum) oraz przy Stiermannstraße (Oberhausen), gdzie mieszczą się Monteurzimmer I do IV, a także przy Grünerstraße (Oberhausen-Süd) i Schelklingerstraße (Kriegshaber). Do Messe Augsburg dotrą Państwo w ok. 15 minut, a do autostrady A8 i drogi B17 – bardzo szybko.
 
 ### Jak zarezerwować pokój dla monterów?
 

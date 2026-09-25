@@ -3,7 +3,7 @@
 | Pe scurt | |
 |---|---|
 | Operator | Gnann Verwaltung GmbH, director general Daniel Gnann |
-| Locații | mai multe în oraș, printre care Barfüßerstraße 7 (centru) și Stiermannstraße |
+| Locații | mai multe în oraș, printre care Barfüßerstraße 7 (centru) și Stiermannstraße (Oberhausen), precum și Grünerstraße (Oberhausen-Süd) și Schelklingerstraße (Kriegshaber) |
 | Prețuri | de la 12 € (apartament de la 10 pers.), 15 € (cameră cu mai multe paturi), 18 € (cameră dublă), 25 € (cameră single) de persoană/noapte |
 | Capacitate | de la persoane individuale până la echipe de 20 de persoane |
 | Dotări | WiFi, TV, bucătărie, mașină de spălat; opțional: lenjerie de pat și prosoape, curățenie săptămânală |
@@ -56,7 +56,7 @@ Unitățile noastre de cazare sunt gândite pentru oamenii care lucrează în Au
 
 ## Amplasare și acces
 
-Unitățile noastre de cazare se află în **mai multe locații din orașul Augsburg**, printre care **Barfüßerstraße 7** (centru, inclusiv mini-apartamente) și **Stiermannstraße** (Monteurzimmer I–IV). De la unitățile noastre ajungeți rapid la cele mai importante locuri de muncă:
+Unitățile noastre de cazare se află în **mai multe locații din orașul Augsburg**, printre care **Barfüßerstraße 7** (centru, inclusiv mini-apartamente) și **Stiermannstraße** (Oberhausen, Monteurzimmer I–IV), precum și **Grünerstraße** (Oberhausen-Süd) și **Schelklingerstraße** (Kriegshaber). De la unitățile noastre ajungeți rapid la cele mai importante locuri de muncă:
 
 - **Autostrada A8** (München–Stuttgart) – acces rapid prin nodurile rutiere din Augsburg
 - **B17** – axa nord-sud din vestul orașului Augsburg, în direcția Landsberg am Lech
@@ -118,7 +118,7 @@ Proprietarul este Gnann Verwaltung GmbH, Barfüßerstraße 7, 86150 Augsburg, re
 
 ### Unde se află camerele pentru muncitori?
 
-Unitățile noastre de cazare se află în mai multe locații din orașul Augsburg, printre care Barfüßerstraße 7 (centru) și Stiermannstraße, unde se găsesc Monteurzimmer I până la IV. Messe Augsburg este la aproximativ 15 minute, iar autostrada A8 și B17 sunt rapid accesibile.
+Unitățile noastre de cazare se află în mai multe locații din orașul Augsburg, printre care Barfüßerstraße 7 (centru) și Stiermannstraße (Oberhausen), unde se găsesc Monteurzimmer I până la IV, precum și Grünerstraße (Oberhausen-Süd) și Schelklingerstraße (Kriegshaber). Messe Augsburg este la aproximativ 15 minute, iar autostrada A8 și B17 sunt rapid accesibile.
 
 ### Cum rezerv o cameră pentru muncitori?
 

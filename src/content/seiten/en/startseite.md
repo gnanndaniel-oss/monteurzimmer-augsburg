@@ -3,7 +3,7 @@
 | At a glance | |
 |---|---|
 | Operator | Gnann Verwaltung GmbH, Managing Director Daniel Gnann |
-| Locations | several across the city, including Barfüßerstraße 7 (city centre) and Stiermannstraße |
+| Locations | several across the city, including Barfüßerstraße 7 (city centre) and Stiermannstraße (Oberhausen), as well as Grünerstraße (Oberhausen-Süd) and Schelklingerstraße (Kriegshaber) |
 | Prices | from €12 (apartment, 10+ people), €15 (shared room), €18 (double room), €25 (single room) per person/night |
 | Capacity | from individual workers to teams of 20 people |
 | Amenities | Wi-Fi, TV, kitchen, washing machine; optional extras: bed linen & towels, weekly cleaning |
@@ -56,7 +56,7 @@ Our accommodation is designed for people who work in Augsburg and can't travel h
 
 ## Location and transport links
 
-Our accommodation is spread across **several locations in the city of Augsburg**, including **Barfüßerstraße 7** (city centre, also studio apartments) and **Stiermannstraße** (workers' rooms I–IV). From our properties you can quickly reach the main work sites:
+Our accommodation is spread across **several locations in the city of Augsburg**, including **Barfüßerstraße 7** (city centre, also studio apartments) and **Stiermannstraße** (Oberhausen, workers' rooms I–IV), as well as **Grünerstraße** (Oberhausen-Süd) and **Schelklingerstraße** (Kriegshaber). From our properties you can quickly reach the main work sites:
 
 - **A8 motorway** (Munich–Stuttgart) – fast access via the Augsburg junctions
 - **B17** – the north–south trunk road in the west of Augsburg, towards Landsberg am Lech
@@ -118,7 +118,7 @@ The landlord is Gnann Verwaltung GmbH, Barfüßerstraße 7, 86150 Augsburg, repr
 
 ### Where are the workers' rooms located?
 
-Our accommodation is spread across several locations in the city of Augsburg, including Barfüßerstraße 7 (city centre) and Stiermannstraße, where workers' rooms I to IV are located. Messe Augsburg is around 15 minutes away, and the A8 motorway and the B17 are quickly reached.
+Our accommodation is spread across several locations in the city of Augsburg, including Barfüßerstraße 7 (city centre) and Stiermannstraße (Oberhausen), where workers' rooms I to IV are located, as well as Grünerstraße (Oberhausen-Süd) and Schelklingerstraße (Kriegshaber). Messe Augsburg is around 15 minutes away, and the A8 motorway and the B17 are quickly reached.
 
 ### How do I book a workers' room?
 

@@ -4,7 +4,7 @@
 |---|---|
 | Company | Gnann Verwaltung GmbH |
 | Address | Barfüßerstraße 7, 86150 Augsburg |
-| Locations | several across the city, including Barfüßerstraße 7 (city centre) and Stiermannstraße |
+| Locations | several across the city, including Barfüßerstraße 7 (city centre) and Stiermannstraße (Oberhausen), as well as Grünerstraße (Oberhausen-Süd) and Schelklingerstraße (Kriegshaber) |
 | Phone | +49 821 419028-28 |
 | Fax | +49 821 419028-13 |
 | Phone hours | Monday to Friday, 8 am–6 pm |
@@ -42,7 +42,7 @@ If you're not sure, just describe your project – team size, duration, vehicles
 
 ## Where the accommodation is located
 
-Our accommodation is spread across several locations in the city of Augsburg, including Barfüßerstraße 7 (city centre) and Stiermannstraße, where workers' rooms I–IV are located. From there, the A8 motorway (Munich–Stuttgart) and the B17 are quickly reached, and Messe Augsburg (the trade fair centre) is around 15 minutes away. Public transport, shops and restaurants are nearby.
+Our accommodation is spread across several locations in the city of Augsburg, including Barfüßerstraße 7 (city centre) and Stiermannstraße (Oberhausen), where workers' rooms I–IV are located, as well as Grünerstraße (Oberhausen-Süd) and Schelklingerstraße (Kriegshaber). From there, the A8 motorway (Munich–Stuttgart) and the B17 are quickly reached, and Messe Augsburg (the trade fair centre) is around 15 minutes away. Public transport, shops and restaurants are nearby.
 
 ## Group of companies
 
@@ -68,4 +68,4 @@ No. The enquiry is non-binding; the booking only becomes binding once you confir
 
 ### Where is the accommodation located?
 
-Our accommodation is spread across several locations in the city of Augsburg, including Barfüßerstraße 7 (city centre) and Stiermannstraße (workers' rooms I–IV). The exact address of your accommodation is given in the quote.
+Our accommodation is spread across several locations in the city of Augsburg, including Barfüßerstraße 7 (city centre) and Stiermannstraße (Oberhausen, workers' rooms I–IV), as well as Grünerstraße (Oberhausen-Süd) and Schelklingerstraße (Kriegshaber). The exact address of your accommodation is given in the quote.

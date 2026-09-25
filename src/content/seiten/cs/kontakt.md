@@ -4,7 +4,7 @@
 |---|---|
 | Společnost | Gnann Verwaltung GmbH |
 | Adresa | Barfüßerstraße 7, 86150 Augsburg |
-| Lokality | několik míst ve městě, mimo jiné Barfüßerstraße 7 (centrum) a Stiermannstraße |
+| Lokality | několik míst ve městě, mimo jiné Barfüßerstraße 7 (centrum) a Stiermannstraße (Oberhausen), a také Grünerstraße (Oberhausen-Süd) a Schelklingerstraße (Kriegshaber) |
 | Telefon | +49 821 419028-28 |
 | Fax | +49 821 419028-13 |
 | Telefonicky k zastižení | pondělí až pátek, 8–18 h |
@@ -42,7 +42,7 @@ Pokud si nejste jisti, jednoduše nám popište svůj projekt – velikost týmu
 
 ## Poloha ubytování
 
-Naše ubytování se nachází na několika místech v Augsburgu, mimo jiné v ulici Barfüßerstraße 7 (centrum) a v ulici Stiermannstraße, kde jsou pokoje Monteurzimmer I–IV. Odtud se rychle dostanete na dálnici A8 (Mnichov–Stuttgart) a silnici B17, veletrh Messe Augsburg je vzdálen zhruba 15 minut. Městská hromadná doprava, obchody a restaurace jsou v blízkosti.
+Naše ubytování se nachází na několika místech v Augsburgu, mimo jiné v ulici Barfüßerstraße 7 (centrum) a v ulici Stiermannstraße (Oberhausen), kde jsou pokoje Monteurzimmer I–IV, a také v ulicích Grünerstraße (Oberhausen-Süd) a Schelklingerstraße (Kriegshaber). Odtud se rychle dostanete na dálnici A8 (Mnichov–Stuttgart) a silnici B17, veletrh Messe Augsburg je vzdálen zhruba 15 minut. Městská hromadná doprava, obchody a restaurace jsou v blízkosti.
 
 ## Skupina společností
 
@@ -68,4 +68,4 @@ Ne. Poptávka je nezávazná; rezervace se stává závaznou až Vaším potvrze
 
 ### Kde se ubytování nachází?
 
-Naše ubytování se nachází na několika místech v Augsburgu, mimo jiné v ulici Barfüßerstraße 7 (centrum) a v ulici Stiermannstraße (Monteurzimmer I–IV). Přesnou adresu Vašeho ubytování najdete v nabídce.
+Naše ubytování se nachází na několika místech v Augsburgu, mimo jiné v ulici Barfüßerstraße 7 (centrum) a v ulici Stiermannstraße (Oberhausen, Monteurzimmer I–IV), a také v ulicích Grünerstraße (Oberhausen-Süd) a Schelklingerstraße (Kriegshaber). Přesnou adresu Vašeho ubytování najdete v nabídce.

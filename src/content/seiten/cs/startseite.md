@@ -3,7 +3,7 @@
 | Přehled | |
 |---|---|
 | Provozovatel | Gnann Verwaltung GmbH, jednatel Daniel Gnann |
-| Lokality | několik míst ve městě, mimo jiné Barfüßerstraße 7 (centrum) a Stiermannstraße |
+| Lokality | několik míst ve městě, mimo jiné Barfüßerstraße 7 (centrum) a Stiermannstraße (Oberhausen), a také Grünerstraße (Oberhausen-Süd) a Schelklingerstraße (Kriegshaber) |
 | Ceny | od 12 € (byt od 10 osob), 15 € (vícelůžkový pokoj), 18 € (dvoulůžkový pokoj), 25 € (jednolůžkový pokoj) za osobu/noc |
 | Kapacita | od jednotlivců až po týmy o 20 osobách |
 | Vybavení | Wi-Fi, TV, kuchyně, pračka; volitelně k přiobjednání: ložní prádlo a ručníky, týdenní úklid |
@@ -56,7 +56,7 @@ Naše ubytování je určeno lidem, kteří pracují v Augsburgu a nemohou každ
 
 ## Poloha a dopravní spojení
 
-Naše ubytování se nachází na **několika místech v Augsburgu**, mimo jiné v ulici **Barfüßerstraße 7** (centrum, také apartmány) a v ulici **Stiermannstraße** (Monteurzimmer I–IV). Z našeho ubytování se rychle dostanete na nejdůležitější místa výkonu práce:
+Naše ubytování se nachází na **několika místech v Augsburgu**, mimo jiné v ulici **Barfüßerstraße 7** (centrum, také apartmány) a v ulici **Stiermannstraße** (Oberhausen, Monteurzimmer I–IV), a také v ulicích **Grünerstraße** (Oberhausen-Süd) a **Schelklingerstraße** (Kriegshaber). Z našeho ubytování se rychle dostanete na nejdůležitější místa výkonu práce:
 
 - **Dálnice A8** (Mnichov–Stuttgart) – rychlé napojení přes augsburské sjezdy
 - **B17** – severojižní osa na západě Augsburgu, směr Landsberg am Lech
@@ -118,7 +118,7 @@ Pronajímatelem je společnost Gnann Verwaltung GmbH, Barfüßerstraße 7, 86150
 
 ### Kde se pokoje pro montéry nacházejí?
 
-Naše ubytování se nachází na několika místech v Augsburgu, mimo jiné v ulici Barfüßerstraße 7 (centrum) a v ulici Stiermannstraße, kde jsou pokoje Monteurzimmer I až IV. Na veletrh Messe Augsburg se dostanete zhruba za 15 minut, na dálnici A8 a silnici B17 rychle.
+Naše ubytování se nachází na několika místech v Augsburgu, mimo jiné v ulici Barfüßerstraße 7 (centrum) a v ulici Stiermannstraße (Oberhausen), kde jsou pokoje Monteurzimmer I až IV, a také v ulicích Grünerstraße (Oberhausen-Süd) a Schelklingerstraße (Kriegshaber). Na veletrh Messe Augsburg se dostanete zhruba za 15 minut, na dálnici A8 a silnici B17 rychle.
 
 ### Jak si pokoj pro montéry zarezervuji?
 

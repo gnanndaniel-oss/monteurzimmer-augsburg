@@ -4,7 +4,7 @@
 |---|---|
 | Firma | Gnann Verwaltung GmbH |
 | Adres | Barfüßerstraße 7, 86150 Augsburg |
-| Lokalizacje | kilka w obrębie miasta, m.in. Barfüßerstraße 7 (centrum) i Stiermannstraße |
+| Lokalizacje | kilka w obrębie miasta, m.in. Barfüßerstraße 7 (centrum) i Stiermannstraße (Oberhausen), a także Grünerstraße (Oberhausen-Süd) i Schelklingerstraße (Kriegshaber) |
 | Telefon | +49 (0) 821 419028-28 |
 | Faks | +49 (0) 821 419028-13 |
 | Kontakt telefoniczny | od poniedziałku do piątku, 8:00–18:00 |
@@ -42,7 +42,7 @@ Jeśli nie są Państwo pewni, wystarczy opisać projekt – wielkość ekipy, c
 
 ## Lokalizacja noclegów
 
-Nasze noclegi znajdują się w kilku lokalizacjach na terenie Augsburga, m.in. przy Barfüßerstraße 7 (centrum) oraz przy Stiermannstraße, gdzie mieszczą się Monteurzimmer I–IV. Stamtąd szybko można dojechać do autostrady A8 (Monachium–Stuttgart) i drogi B17, a Messe Augsburg (tereny targowe) jest oddalona o ok. 15 minut. Komunikacja publiczna, sklepy i restauracje znajdują się w pobliżu.
+Nasze noclegi znajdują się w kilku lokalizacjach na terenie Augsburga, m.in. przy Barfüßerstraße 7 (centrum) oraz przy Stiermannstraße (Oberhausen), gdzie mieszczą się Monteurzimmer I–IV, a także przy Grünerstraße (Oberhausen-Süd) i Schelklingerstraße (Kriegshaber). Stamtąd szybko można dojechać do autostrady A8 (Monachium–Stuttgart) i drogi B17, a Messe Augsburg (tereny targowe) jest oddalona o ok. 15 minut. Komunikacja publiczna, sklepy i restauracje znajdują się w pobliżu.
 
 ## Grupa firm
 
@@ -68,4 +68,4 @@ Nie. Zapytanie jest niewiążące; rezerwacja staje się wiążąca dopiero po P
 
 ### Gdzie znajduje się nocleg?
 
-Nasze noclegi znajdują się w kilku lokalizacjach na terenie Augsburga, m.in. przy Barfüßerstraße 7 (centrum) oraz przy Stiermannstraße (Monteurzimmer I–IV). Dokładny adres noclegu podajemy w ofercie.
+Nasze noclegi znajdują się w kilku lokalizacjach na terenie Augsburga, m.in. przy Barfüßerstraße 7 (centrum) oraz przy Stiermannstraße (Oberhausen, Monteurzimmer I–IV), a także przy Grünerstraße (Oberhausen-Süd) i Schelklingerstraße (Kriegshaber). Dokładny adres noclegu podajemy w ofercie.

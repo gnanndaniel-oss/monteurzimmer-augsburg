@@ -56,7 +56,7 @@ Informații despre tratamentul fiscal al costurilor de cazare găsiți în ghidu
 
 ## Acces
 
-Unitățile noastre de cazare se află în mai multe locații din orașul Augsburg, printre care Barfüßerstraße 7 (centru) și Stiermannstraße. Aveți acces rapid la autostrada A8 și la B17; Messe Augsburg se află la aproximativ 15 minute. Transportul public și magazinele sunt în apropiere. Adresa exactă a apartamentului dumneavoastră o primiți odată cu oferta.
+Unitățile noastre de cazare se află în mai multe locații din orașul Augsburg, printre care Barfüßerstraße 7 (centru) și Stiermannstraße (Oberhausen), precum și Grünerstraße (Oberhausen-Süd) și Schelklingerstraße (Kriegshaber). Aveți acces rapid la autostrada A8 și la B17; Messe Augsburg se află la aproximativ 15 minute. Transportul public și magazinele sunt în apropiere. Adresa exactă a apartamentului dumneavoastră o primiți odată cu oferta.
 
 ## Întrebări frecvente despre apartamentul pentru muncitori din Augsburg
 

@@ -56,7 +56,7 @@ Information on the tax treatment of accommodation costs can be found in our guid
 
 ## Transport links
 
-Our accommodation is spread across several locations in the city of Augsburg, including Barfüßerstraße 7 (city centre) and Stiermannstraße. You have fast access to the A8 motorway and the B17; Messe Augsburg (the trade fair centre) is around 15 minutes away. Public transport and shops are nearby. You'll receive the exact address of your apartment with the quote.
+Our accommodation is spread across several locations in the city of Augsburg, including Barfüßerstraße 7 (city centre) and Stiermannstraße (Oberhausen), as well as Grünerstraße (Oberhausen-Süd) and Schelklingerstraße (Kriegshaber). You have fast access to the A8 motorway and the B17; Messe Augsburg (the trade fair centre) is around 15 minutes away. Public transport and shops are nearby. You'll receive the exact address of your apartment with the quote.
 
 ## Frequently asked questions about workers' apartments in Augsburg
 
