@@ -23,9 +23,8 @@ Przy dużych projektach z wieloma pracownikami zwykłe mieszkanie szybko okazuje
 - W pełni wyposażona kuchnia z kuchenką, piekarnikiem, mikrofalówką, lodówką i naczyniami
 - Bezpłatne szybkie Wi-Fi i telewizor z płaskim ekranem
 - Pralka, suszarka na życzenie
-- Pościel i ręczniki w cenie, wymiana co tydzień
-- Cotygodniowe sprzątanie
 - Ogród z miejscem na grilla, miejsca parkingowe przy domu
+- Opcjonalnie do zamówienia: pościel i ręczniki z cotygodniową wymianą oraz cotygodniowe sprzątanie
 
 ## Jaka wielkość będzie odpowiednia?
 

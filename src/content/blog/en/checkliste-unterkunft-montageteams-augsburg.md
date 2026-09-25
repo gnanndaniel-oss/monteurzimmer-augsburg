@@ -36,14 +36,14 @@ Tip: for longer projects, ask straight away about **special rates for long-term 
 9. **Decide who sleeps where.** Who shares with whom? A short list saves arguments on the first evening.
 10. **Check vehicles and route.** Find out in advance about the current rules for Augsburg's low-emission zone (Umweltzone) and roadworks along the way. The accommodation has fast connections to the A8 (Munich–Stuttgart) and the B17.
 11. **Documents for workers from abroad.** Posted workers from EU countries should bring their A1 certificate; in some sectors – such as construction – registration with German customs (Zoll) is also required. Check the current obligations in good time.
-12. **What to bring, what is already there?** Bed linen, towels, a kitchen with hob, oven, microwave, fridge and crockery, Wi-Fi and TV are all provided. Everyone should bring: ID, work clothes, slippers and food for the first evening.
+12. **What to bring, what is already there?** A kitchen with hob, oven, microwave, fridge and crockery, Wi-Fi and TV are all provided; bed linen and towels can be booked as optional extras. Everyone should bring: ID, work clothes, slippers and food for the first evening.
 
 ## Phase 4: On site
 
 13. **Clarify on arrival:** Where are the washing machine, the bins and the parking spaces? Who is the contact person if there are problems?
 14. **Appoint one person in the team** to take care of keys, house rules and contact with the landlord.
-15. **Organise laundry:** A washing machine is available, a tumble dryer on request. Bed linen and towels are changed weekly.
-16. **Plan for cleaning:** The accommodation is cleaned weekly. In between, keep the kitchen and bathroom clean so there is no friction in the team.
+15. **Organise laundry:** A washing machine is available, a tumble dryer on request. Bed linen and towels changed weekly can be booked as an optional extra.
+16. **Plan for cleaning:** Weekly cleaning of the accommodation can be booked as an optional extra. Either way, keep the kitchen and bathroom clean so there is no friction in the team.
 17. **Cook for yourselves instead of burning through expenses:** With a fully equipped kitchen, actual food costs drop considerably. Supermarkets and restaurants are nearby.
 18. **Report changes early:** Is a worker arriving later, is someone leaving early or is the project being extended? The sooner the landlord knows, the easier it is to adjust.
 
@@ -68,7 +68,7 @@ Tip: for longer projects, ask straight away about **special rates for long-term 
 
 ## Accommodation for your installation team in Augsburg
 
-Monteurzimmer Augsburg – a service of Gnann Verwaltung GmbH – accommodates individuals and teams of up to 20 people: in a [workers' room](/monteurzimmer-augsburg/) from €12 per person per night, in the [workers' apartment](/monteurwohnung-augsburg/) from €60 per day, in the [studio apartment](/monteurapartment-augsburg/) from €30 per day or in the [workers' house](/monteurhaus-augsburg/) from €120 per day. Free parking, kitchen, Wi-Fi and weekly cleaning are included. [Enquire now](/reservierung-monterwohungaugsburg/) or call: +49 821 419028-28.
+Monteurzimmer Augsburg – a service of Gnann Verwaltung GmbH – accommodates individuals and teams of up to 20 people: in a [workers' room](/monteurzimmer-augsburg/) from €12 per person per night, in the [workers' apartment](/monteurwohnung-augsburg/) from €60 per day, in the [studio apartment](/monteurapartment-augsburg/) from €30 per day or in the [workers' house](/monteurhaus-augsburg/) from €120 per day. Free parking, kitchen and Wi-Fi are included; bed linen, towels and weekly cleaning are available as optional extras. [Enquire now](/reservierung-monterwohungaugsburg/) or call: +49 821 419028-28.
 
 ## Frequently asked questions about booking for installation teams
 

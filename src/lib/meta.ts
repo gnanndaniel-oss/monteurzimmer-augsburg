@@ -80,27 +80,27 @@ const META: Record<PageKey, Record<Loc, Meta>> = {
     de: {
       title: 'Monteurwohnung Augsburg – möbliert für 4 bis 20 Personen',
       description:
-        'Monteurwohnung in Augsburg mieten: komplett möbliert für 4–20 Personen, ab 60 € pro Tag. Eigene Küche, WLAN, wöchentliche Reinigung, Parkplätze. Ab 1 Nacht.',
+        'Monteurwohnung in Augsburg mieten: komplett möbliert für 4–20 Personen, ab 60 € pro Tag. Eigene Küche, WLAN, TV, Waschmaschine und Parkplätze. Ab 1 Nacht.',
     },
     en: {
       title: "Workers' Apartments Augsburg – Furnished, 4–20 People",
       description:
-        "Rent a furnished workers' apartment in Augsburg for 4–20 people from €60 per day. Own kitchen, Wi-Fi, weekly cleaning and parking. Stays from one night.",
+        "Rent a furnished workers' apartment in Augsburg for 4–20 people from €60 per day. Own kitchen, Wi-Fi, TV, washing machine and parking. Stays from one night.",
     },
     pl: {
       title: 'Mieszkanie dla monterów Augsburg – dla 4 do 20 osób',
       description:
-        'Umeblowane mieszkania dla monterów w Augsburgu dla 4–20 osób od 60 € dziennie. Własna kuchnia, Wi-Fi, cotygodniowe sprzątanie i parking. Już od jednej nocy.',
+        'Umeblowane mieszkania dla monterów w Augsburgu dla 4–20 osób od 60 € dziennie. Własna kuchnia, Wi-Fi, TV, pralka i parking. Wynajem już od jednej nocy.',
     },
     cs: {
       title: 'Byt pro montéry Augsburg – zařízený pro 4 až 20 osob',
       description:
-        'Zařízené byty pro montéry v Augsburgu pro 4–20 osob od 60 € za den. Vlastní kuchyně, Wi-Fi, týdenní úklid a parkování. Pronájem již od jedné noci, i na déle.',
+        'Zařízené byty pro montéry v Augsburgu pro 4–20 osob od 60 € za den. Vlastní kuchyně, Wi-Fi, TV, pračka a parkování. Pronájem již od jedné noci, i na déle.',
     },
     ro: {
       title: 'Apartament muncitori Augsburg – mobilat, 4–20 persoane',
       description:
-        'Apartamente mobilate pentru muncitori în Augsburg pentru 4–20 persoane de la 60 € pe zi. Bucătărie proprie, Wi-Fi, curățenie săptămânală și parcare.',
+        'Apartamente mobilate pentru muncitori în Augsburg pentru 4–20 persoane de la 60 € pe zi. Bucătărie proprie, Wi-Fi, TV, mașină de spălat și parcare.',
     },
   },
   monteurapartment: {

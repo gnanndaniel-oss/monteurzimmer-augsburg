@@ -1,4 +1,4 @@
-> **Pokoje dla monterów w Augsburgu od 12 € za osobę za noc:** Gnann Verwaltung GmbH wynajmuje cztery umeblowane jednostki – Monteurzimmer Augsburg I do IV (ST5-100 do ST5-400) przy Stiermannstraße 5, 86154 Augsburg. Każda jednostka ma pokoje jedno-, dwu- i trzyosobowe, a także można ją wynająć w całości dla 6, 7 lub 12 osób. Kuchnia, Wi-Fi, TV, pościel i bezpłatne miejsca parkingowe są wliczone w cenę.
+> **Pokoje dla monterów w Augsburgu od 12 € za osobę za noc:** Gnann Verwaltung GmbH wynajmuje cztery umeblowane jednostki – Monteurzimmer Augsburg I do IV (ST5-100 do ST5-400) przy Stiermannstraße 5, 86154 Augsburg. Każda jednostka ma pokoje jedno-, dwu- i trzyosobowe, a także można ją wynająć w całości dla 6, 7 lub 12 osób. Kuchnia, Wi-Fi, TV i bezpłatne miejsca parkingowe są wliczone w cenę; pościel, ręczniki i cotygodniowe sprzątanie można zamówić opcjonalnie.
 
 <!-- more -->
 
@@ -37,9 +37,8 @@ Ceny zależą od sezonu i obłożenia. Nie pobieramy opłat pośredników, ponie
 - Telewizor z płaskim ekranem w każdym pokoju
 - W pełni wyposażona kuchnia z kuchenką, piekarnikiem, mikrofalówką, lodówką i naczyniami
 - Pralka, suszarka na życzenie
-- Pościel i ręczniki w cenie, wymiana co tydzień
-- Cotygodniowe sprzątanie
 - Bezpłatne miejsca parkingowe bezpośrednio przy budynku
+- Opcjonalnie do zamówienia: pościel i ręczniki z cotygodniową wymianą oraz cotygodniowe sprzątanie
 
 ## Parkowanie pojazdów firmowych
 
@@ -75,7 +74,7 @@ Przy wynajmie jako mieszkanie otrzymują Państwo całą jednostkę na wyłączn
 
 ### Czy sprzątanie jest wliczone w cenę?
 
-Tak, lokal jest sprzątany co tydzień, a pościel i ręczniki są wymieniane co tydzień.
+Nie. Cotygodniowe sprzątanie oraz pościel i ręczniki z cotygodniową wymianą można zamówić opcjonalnie. Sprzątanie końcowe jest zawsze płatne.
 
 ### Czy są miejsca parkingowe dla busów?
 

@@ -1,4 +1,4 @@
-> **Mieszkanie dla monterów w Augsburgu od 60 € za dobę:** Gnann Verwaltung GmbH wynajmuje w pełni umeblowane mieszkania dla ekip od 4 do 20 osób – w przeliczeniu 12–15 € za osobę za noc, w zależności od mieszkania, liczby osób i długości pobytu – z własną kuchnią, Wi-Fi, TV, pralką, pościelą, cotygodniowym sprzątaniem i bezpłatnymi miejscami parkingowymi. Wynajem już od jednej nocy, ze specjalnymi warunkami przy dłuższych pobytach.
+> **Mieszkanie dla monterów w Augsburgu od 60 € za dobę:** Gnann Verwaltung GmbH wynajmuje w pełni umeblowane mieszkania dla ekip od 4 do 20 osób – w przeliczeniu 12–15 € za osobę za noc, w zależności od mieszkania, liczby osób i długości pobytu – z własną kuchnią, Wi-Fi, TV, pralką i bezpłatnymi miejscami parkingowymi; pościel, ręczniki i cotygodniowe sprzątanie można zamówić opcjonalnie. Wynajem już od jednej nocy, ze specjalnymi warunkami przy dłuższych pobytach.
 
 | Wielkość mieszkania | Cena od (za dobę) | w przeliczeniu na osobę |
 |---|---|---|
@@ -26,9 +26,8 @@ Kto przyjeżdża sam lub we dwoje, często lepiej odnajdzie się w [pokoju dla m
 - Bezpłatne szybkie Wi-Fi
 - Telewizor z płaskim ekranem
 - Pralka, suszarka na życzenie
-- Pościel i ręczniki w cenie, wymiana co tydzień
-- Cotygodniowe sprzątanie
 - Bezpłatne miejsca parkingowe
+- Opcjonalnie do zamówienia: pościel i ręczniki z cotygodniową wymianą oraz cotygodniowe sprzątanie
 
 ## Jakiej wielkości mieszkania potrzebuję?
 
@@ -83,7 +82,7 @@ Tak, przy dłuższych pobytach oferujemy specjalne warunki.
 
 ### Czy sprzątanie końcowe jest wliczone w cenę?
 
-Lokal jest sprzątany co tydzień, a pościel i ręczniki są wymieniane co tydzień. Szczegóły dotyczące sprzątania końcowego podamy Państwu w ofercie.
+Nie, sprzątanie końcowe jest zawsze płatne – szczegóły podamy Państwu w ofercie. Cotygodniowe sprzątanie oraz pościel i ręczniki z cotygodniową wymianą można zamówić opcjonalnie.
 
 ### Ile osób maksymalnie mieści się w jednym lokalu?
 

@@ -23,9 +23,8 @@ U velkých projektů s mnoha pracovníky naráží běžný byt na své hranice:
 - Plně vybavená kuchyň se sporákem, troubou, mikrovlnkou, lednicí a nádobím
 - Bezplatné vysokorychlostní Wi-Fi a televize s plochou obrazovkou
 - Pračka, sušička na vyžádání
-- Ložní prádlo a ručníky v ceně, výměna jednou týdně
-- Úklid jednou týdně
 - Zahrada s místem na grilování, parkovací místa u domu
+- Volitelně k přiobjednání: ložní prádlo a ručníky s výměnou jednou týdně a týdenní úklid
 
 ## Jaká velikost se hodí?
 

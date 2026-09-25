@@ -6,7 +6,7 @@
 | Lokality | několik míst ve městě, mimo jiné Barfüßerstraße 7 (centrum) a Stiermannstraße |
 | Ceny | od 12 € (byt od 10 osob), 15 € (vícelůžkový pokoj), 18 € (dvoulůžkový pokoj), 25 € (jednolůžkový pokoj) za osobu/noc |
 | Kapacita | od jednotlivců až po týmy o 20 osobách |
-| Vybavení | Wi-Fi, TV, kuchyně, pračka, ložní prádlo a ručníky, týdenní úklid |
+| Vybavení | Wi-Fi, TV, kuchyně, pračka; volitelně k přiobjednání: ložní prádlo a ručníky, týdenní úklid |
 | Parkování | bezplatná parkovací místa přímo u domu |
 | Check-in / check-out | od 15:00 / do 10:00, jiné časy po dohodě |
 | Minimální pobyt | 1 noc, zvýhodněné podmínky pro dlouhodobé pobyty |
@@ -42,9 +42,9 @@ Naše ubytování je určeno lidem, kteří pracují v Augsburgu a nemohou každ
 - **TV s plochou obrazovkou** v každém pokoji a ve společných prostorách
 - **Plně vybavená kuchyně** se sporákem, troubou, mikrovlnkou, lednicí a nádobím – vlastní vaření šetří diety
 - **Pračka**, sušička na vyžádání
-- **Ložní prádlo a ručníky** v ceně, výměna jednou týdně
-- **Týdenní úklid** ubytování
 - **Bezplatná parkovací místa** přímo u domu
+
+**Volitelně k přiobjednání:** ložní prádlo a ručníky s výměnou jednou týdně a týdenní úklid.
 
 ## Jak probíhá rezervace pro firmy
 
@@ -94,7 +94,7 @@ Ano. Nabízíme ubytování od jednotlivců až po celé týmy o maximálně 20 
 
 ### Je zajištěno ložní prádlo a ručníky?
 
-Ano, ložní prádlo a ručníky jsou v ceně a mění se jednou týdně.
+Na přání: ložní prádlo a ručníky (s výměnou jednou týdně) i týdenní úklid si lze volitelně přiobjednat. Nejsou zahrnuty v ceně ubytování.
 
 ### Je k dispozici kuchyně?
 

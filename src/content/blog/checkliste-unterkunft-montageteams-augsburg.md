@@ -36,14 +36,14 @@ Tipp: Fragen Sie bei längeren Projekten direkt nach **Sonderkonditionen für La
 9. **Zimmerbelegung festlegen.** Wer schläft mit wem? Eine kurze Liste erspart Diskussionen am ersten Abend.
 10. **Fahrzeuge und Route prüfen.** Informieren Sie sich vorab über die aktuellen Regeln zur Umweltzone in Augsburg und über Baustellen auf der Anfahrt. Die Unterkünfte haben eine schnelle Anbindung an die A8 (München–Stuttgart) und die B17.
 11. **Papiere für Mitarbeiter aus dem Ausland.** Bei entsandten Arbeitnehmern aus EU-Staaten gehört die A1-Bescheinigung ins Gepäck; in einigen Branchen – etwa im Baugewerbe – ist zusätzlich eine Anmeldung beim Zoll erforderlich. Prüfen Sie die aktuellen Pflichten rechtzeitig.
-12. **Was muss mit, was ist schon da?** Bettwäsche, Handtücher, Küche mit Herd, Ofen, Mikrowelle, Kühlschrank und Geschirr, WLAN und TV sind bei uns vorhanden. Mitbringen sollte jeder: Ausweis, Arbeitskleidung, Hausschuhe, Lebensmittel für den ersten Abend.
+12. **Was muss mit, was ist schon da?** Küche mit Herd, Ofen, Mikrowelle, Kühlschrank und Geschirr, WLAN und TV sind bei uns vorhanden; Bettwäsche und Handtücher können optional dazugebucht werden. Mitbringen sollte jeder: Ausweis, Arbeitskleidung, Hausschuhe, Lebensmittel für den ersten Abend.
 
 ## Phase 4: Vor Ort
 
 13. **Bei der Ankunft klären:** Wo sind Waschmaschine, Mülltonnen, Parkplätze? Wer ist Ansprechpartner bei Problemen?
 14. **Einen Verantwortlichen im Team benennen**, der Schlüssel, Hausordnung und Kontakt zum Vermieter im Blick hat.
-15. **Wäsche organisieren:** Eine Waschmaschine steht zur Verfügung, ein Trockner auf Anfrage. Bettwäsche und Handtücher werden wöchentlich gewechselt.
-16. **Reinigung einplanen:** Die Unterkunft wird wöchentlich gereinigt. Zwischendurch gilt: Küche und Bad sauber halten, damit es im Team keinen Ärger gibt.
+15. **Wäsche organisieren:** Eine Waschmaschine steht zur Verfügung, ein Trockner auf Anfrage. Bettwäsche und Handtücher mit wöchentlichem Wechsel können optional dazugebucht werden.
+16. **Reinigung einplanen:** Eine wöchentliche Reinigung der Unterkunft kann optional dazugebucht werden. Unabhängig davon gilt: Küche und Bad sauber halten, damit es im Team keinen Ärger gibt.
 17. **Selbst kochen statt Spesen verbrennen:** Mit einer voll ausgestatteten Küche sinken die tatsächlichen Verpflegungskosten deutlich. Supermärkte und Restaurants sind in der Nähe.
 18. **Änderungen früh melden:** Kommt ein Mitarbeiter später, reist einer früher ab oder verlängert sich das Projekt? Je früher der Vermieter Bescheid weiß, desto eher lässt sich umplanen.
 
@@ -68,7 +68,7 @@ Tipp: Fragen Sie bei längeren Projekten direkt nach **Sonderkonditionen für La
 
 ## Unterkunft für Ihr Montageteam in Augsburg
 
-Monteurzimmer Augsburg – ein Angebot der Gnann Verwaltung GmbH – bringt Einzelpersonen und Teams bis 20 Personen unter: im [Monteurzimmer](/monteurzimmer-augsburg/) ab 12 € pro Person und Nacht, in der [Monteurwohnung](/monteurwohnung-augsburg/) ab 60 € pro Tag, im [Monteurapartment](/monteurapartment-augsburg/) ab 30 € pro Tag oder im [Monteurhaus](/monteurhaus-augsburg/) ab 120 € pro Tag. Kostenlose Parkplätze, Küche, WLAN und wöchentliche Reinigung sind inklusive. [Jetzt anfragen](/reservierung-monterwohungaugsburg/) oder anrufen: 0821 419028-28.
+Monteurzimmer Augsburg – ein Angebot der Gnann Verwaltung GmbH – bringt Einzelpersonen und Teams bis 20 Personen unter: im [Monteurzimmer](/monteurzimmer-augsburg/) ab 12 € pro Person und Nacht, in der [Monteurwohnung](/monteurwohnung-augsburg/) ab 60 € pro Tag, im [Monteurapartment](/monteurapartment-augsburg/) ab 30 € pro Tag oder im [Monteurhaus](/monteurhaus-augsburg/) ab 120 € pro Tag. Kostenlose Parkplätze, Küche und WLAN sind inklusive; Bettwäsche, Handtücher und wöchentliche Reinigung sind optional zubuchbar. [Jetzt anfragen](/reservierung-monterwohungaugsburg/) oder anrufen: 0821 419028-28.
 
 ## Häufige Fragen zur Buchung für Montageteams
 

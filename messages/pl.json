@@ -39,8 +39,8 @@
     "tvDesc": "Telewizor z płaskim ekranem w każdym pokoju i częściach wspólnych.",
     "kitchen": "W pełni wyposażona kuchnia",
     "kitchenDesc": "Kuchnia z kuchenką, piekarnikiem, mikrofalówką, naczyniami i lodówką.",
-    "cleaning": "Cotygodniowe sprzątanie",
-    "cleaningDesc": "Regularne sprzątanie i świeża pościel w cenie.",
+    "cleaning": "Sprzątanie i pościel (opcja)",
+    "cleaningDesc": "Cotygodniowe sprzątanie oraz pościel i ręczniki z cotygodniową wymianą do zamówienia opcjonalnie.",
     "washing": "Pralka",
     "washingDesc": "Pralka i suszarka dostępne na życzenie.",
     "parking": "Parking",
@@ -133,7 +133,7 @@
     "q4": "Czy mogę zarezerwować dla mojego zespołu?",
     "a4": "Oczywiście! Oferujemy zakwaterowanie dla osób indywidualnych i zespołów do 20 osób.",
     "q5": "Czy pościel i ręczniki są zapewnione?",
-    "a5": "Tak, pościel i ręczniki są w cenie i zmieniane co tydzień."
+    "a5": "Na życzenie: pościel i ręczniki (z cotygodniową wymianą) oraz cotygodniowe sprzątanie można zamówić opcjonalnie. Nie są one wliczone w cenę noclegu."
   },
   "contact": {
     "title": "Kontakt",

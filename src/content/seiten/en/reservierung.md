@@ -28,11 +28,11 @@ Prices vary depending on season and occupancy. Special rates are available for l
 
 - Fully furnished accommodation with kitchen (hob, oven, microwave, fridge, crockery)
 - High-speed Wi-Fi and flat-screen TV
-- Bed linen and towels, changed weekly
-- Weekly cleaning
 - Use of the washing machine, tumble dryer on request
 - Free parking at the house
 - No agency fees – you book directly with Gnann Verwaltung GmbH
+
+**Optional extras:** bed linen and towels changed weekly, and weekly cleaning.
 
 ## Short-term, long-term or recurring?
 

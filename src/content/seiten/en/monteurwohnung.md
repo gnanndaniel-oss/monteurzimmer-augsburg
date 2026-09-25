@@ -1,4 +1,4 @@
-> **Workers' apartment in Augsburg from €60 per day:** Gnann Verwaltung GmbH rents out fully furnished apartments for teams of 4 to 20 people – working out at €12–15 per person per night, depending on the apartment, number of people and length of stay – with a private kitchen, Wi-Fi, TV, washing machine, bed linen, weekly cleaning and free parking. Available from one night, with special rates for long stays.
+> **Workers' apartment in Augsburg from €60 per day:** Gnann Verwaltung GmbH rents out fully furnished apartments for teams of 4 to 20 people – working out at €12–15 per person per night, depending on the apartment, number of people and length of stay – with a private kitchen, Wi-Fi, TV, washing machine and free parking; bed linen, towels and weekly cleaning are available as optional extras. Available from one night, with special rates for long stays.
 
 | Apartment size | Price from (per day) | Works out per person at |
 |---|---|---|
@@ -26,9 +26,8 @@ If you're travelling alone or in a pair, a [workers' room](/monteurzimmer-augsbu
 - Free high-speed Wi-Fi
 - Flat-screen TV
 - Washing machine, tumble dryer on request
-- Bed linen and towels included, changed weekly
-- Weekly cleaning
 - Free parking
+- Optional extras: bed linen and towels changed weekly, and weekly cleaning
 
 ## What size of apartment do I need?
 
@@ -83,7 +82,7 @@ Yes, we offer special rates for longer stays.
 
 ### Is final cleaning included?
 
-The accommodation is cleaned weekly, and bed linen and towels are changed weekly. We'll give you details on final cleaning in the quote.
+No, final cleaning is always charged – we'll give you the details in the quote. Weekly cleaning, as well as bed linen and towels changed weekly, can be booked as optional extras.
 
 ### What is the maximum number of people per unit?
 

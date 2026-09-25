@@ -24,9 +24,8 @@ If your team has more than four people, a [workers' apartment](/monteurwohnung-a
 - Fully equipped kitchen with hob, oven, microwave, fridge and crockery
 - Free high-speed Wi-Fi and flat-screen TV
 - Washing machine, tumble dryer on request
-- Bed linen and towels included, changed weekly
-- Weekly cleaning
 - Free parking
+- Optional extras: bed linen and towels changed weekly, and weekly cleaning
 
 ## Price comparison: apartment or single room?
 

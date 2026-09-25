@@ -1,4 +1,4 @@
-> **Monteurzimmer in Augsburg ab 12 € pro Person und Nacht:** Die Gnann Verwaltung GmbH vermietet vier möblierte Einheiten – Monteurzimmer Augsburg I bis IV (ST5-100 bis ST5-400) in der Stiermannstraße 5, 86154 Augsburg. Jede Einheit hat Einzel-, Doppel- und Dreibettzimmer und lässt sich auch komplett für 6, 7 oder 12 Personen mieten. Küche, WLAN, TV, Bettwäsche und kostenlose Parkplätze sind inklusive.
+> **Monteurzimmer in Augsburg ab 12 € pro Person und Nacht:** Die Gnann Verwaltung GmbH vermietet vier möblierte Einheiten – Monteurzimmer Augsburg I bis IV (ST5-100 bis ST5-400) in der Stiermannstraße 5, 86154 Augsburg. Jede Einheit hat Einzel-, Doppel- und Dreibettzimmer und lässt sich auch komplett für 6, 7 oder 12 Personen mieten. Küche, WLAN, TV und kostenlose Parkplätze sind inklusive; Bettwäsche, Handtücher und eine wöchentliche Reinigung sind optional zubuchbar.
 
 <!-- more -->
 
@@ -37,9 +37,8 @@ Die Preise variieren je nach Saison und Auslastung. Es fallen keine Vermittlungs
 - Flachbild-TV in jedem Zimmer
 - Voll ausgestattete Küche mit Herd, Ofen, Mikrowelle, Kühlschrank und Geschirr
 - Waschmaschine, Trockner auf Anfrage
-- Bettwäsche und Handtücher inklusive, wöchentlicher Wechsel
-- Wöchentliche Reinigung
 - Kostenlose Parkplätze direkt am Haus
+- Optional zubuchbar: Bettwäsche und Handtücher mit wöchentlichem Wechsel sowie wöchentliche Reinigung
 
 ## Parken für Firmenfahrzeuge
 
@@ -75,7 +74,7 @@ Als Wohnung mieten Sie die ganze Einheit exklusiv für Ihr Team. Bei der WG-Vari
 
 ### Ist die Reinigung im Preis enthalten?
 
-Ja, die Unterkunft wird wöchentlich gereinigt, und Bettwäsche sowie Handtücher werden wöchentlich gewechselt.
+Nein. Eine wöchentliche Reinigung sowie Bettwäsche und Handtücher mit wöchentlichem Wechsel können optional dazugebucht werden. Die Endreinigung wird immer berechnet.
 
 ### Gibt es Parkplätze für Transporter?
 

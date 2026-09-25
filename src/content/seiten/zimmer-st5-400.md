@@ -35,7 +35,7 @@ Die Preise variieren je nach Saison und Auslastung. Für Langzeitaufenthalte gib
 
 ## Ausstattung
 
-Kostenloses Highspeed-WLAN, Flachbild-TV in jedem Zimmer, eine voll ausgestattete Küche mit Herd, Ofen, Mikrowelle, Kühlschrank und Geschirr, Waschmaschine (Trockner auf Anfrage), Bettwäsche und Handtücher mit wöchentlichem Wechsel sowie wöchentliche Reinigung. Von der Stiermannstraße aus erreichen Sie die Autobahn A8 und die B17 schnell, die Messe Augsburg in rund 15 Minuten.
+Kostenloses Highspeed-WLAN, Flachbild-TV in jedem Zimmer, eine voll ausgestattete Küche mit Herd, Ofen, Mikrowelle, Kühlschrank und Geschirr, Waschmaschine (Trockner auf Anfrage); optional zubuchbar sind Bettwäsche und Handtücher mit wöchentlichem Wechsel sowie eine wöchentliche Reinigung. Von der Stiermannstraße aus erreichen Sie die Autobahn A8 und die B17 schnell, die Messe Augsburg in rund 15 Minuten.
 
 ## So buchen Sie die Einheit IV
 

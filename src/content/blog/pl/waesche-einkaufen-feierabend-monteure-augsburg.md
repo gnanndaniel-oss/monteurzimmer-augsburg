@@ -1,4 +1,4 @@
-> **W skrócie:** Kto mieszka w pokoju dla monterów z **pralką** i **własną kuchnią**, nie musi szukać pralni samoobsługowej ani płacić za drogie jedzenie na mieście. W Monteurzimmer Augsburg **pościel i ręczniki są wliczone w cenę** i wymieniane co tydzień, pralka jest do dyspozycji, a suszarka na życzenie. Zakupy w Bawarii można robić **od poniedziałku do soboty do 20:00**; w niedziele supermarkety są zamknięte – dlatego warto zrobić zapasy w sobotę.
+> **W skrócie:** Kto mieszka w pokoju dla monterów z **pralką** i **własną kuchnią**, nie musi szukać pralni samoobsługowej ani płacić za drogie jedzenie na mieście. W Monteurzimmer Augsburg **pościel i ręczniki można zamówić opcjonalnie** (z cotygodniową wymianą), pralka jest do dyspozycji, a suszarka na życzenie. Zakupy w Bawarii można robić **od poniedziałku do soboty do 20:00**; w niedziele supermarkety są zamknięte – dlatego warto zrobić zapasy w sobotę.
 
 <!-- more -->
 
@@ -8,12 +8,12 @@ Po dziesięciu godzinach na budowie nikt nie ma ochoty długo szukać pralni ani
 
 | Usługa w Monteurzimmer Augsburg | |
 |---|---|
-| Pościel i ręczniki | w cenie, wymiana co tydzień |
+| Pościel i ręczniki | opcjonalnie, wymiana co tydzień |
 | Pralka | dostępna |
 | Suszarka | na życzenie |
-| Sprzątanie zakwaterowania | co tydzień |
+| Sprzątanie zakwaterowania | co tydzień, opcjonalnie |
 
-Do prania zostaje więc tylko własna odzież. Przy pobycie trwającym kilka tygodni pralka w zakwaterowaniu jest znacznie wygodniejsza niż pralnia samoobsługowa – bez czekania, bez monet, bez dojazdów.
+Jeśli zamówią Państwo pościel i ręczniki, do prania zostaje tylko własna odzież. Przy pobycie trwającym kilka tygodni pralka w zakwaterowaniu jest znacznie wygodniejsza niż pralnia samoobsługowa – bez czekania, bez monet, bez dojazdów.
 
 ## Jak prawidłowo prać odzież roboczą
 
@@ -84,7 +84,7 @@ Więcej praktycznych wskazówek: [Parkowanie samochodem firmowym](/blog/parken-a
 
 ### Czy w pokojach dla monterów jest pralka?
 
-Tak, w Monteurzimmer Augsburg do dyspozycji jest pralka, a suszarka na życzenie. Pościel i ręczniki są wliczone w cenę i wymieniane co tydzień.
+Tak, w Monteurzimmer Augsburg do dyspozycji jest pralka, a suszarka na życzenie. Pościel i ręczniki z cotygodniową wymianą można zamówić opcjonalnie.
 
 ### Czy supermarkety w Augsburgu są otwarte w niedziele?
 

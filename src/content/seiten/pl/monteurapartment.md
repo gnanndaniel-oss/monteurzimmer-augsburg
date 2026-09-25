@@ -24,9 +24,8 @@ Jeśli ekipa liczy więcej niż cztery osoby, [mieszkanie dla monterów](/monteu
 - W pełni wyposażona kuchnia z kuchenką, piekarnikiem, mikrofalówką, lodówką i naczyniami
 - Bezpłatne szybkie Wi-Fi i telewizor z płaskim ekranem
 - Pralka, suszarka na życzenie
-- Pościel i ręczniki w cenie, wymiana co tydzień
-- Cotygodniowe sprzątanie
 - Bezpłatne miejsca parkingowe
+- Opcjonalnie do zamówienia: pościel i ręczniki z cotygodniową wymianą oraz cotygodniowe sprzątanie
 
 ## Porównanie cen: apartament czy pokój jednoosobowy?
 

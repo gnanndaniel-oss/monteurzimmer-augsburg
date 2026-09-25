@@ -39,8 +39,8 @@
     "tvDesc": "Flat screen TV in every room and common areas.",
     "kitchen": "Fully Equipped Kitchen",
     "kitchenDesc": "Kitchen with stove, oven, microwave, dishes and refrigerator.",
-    "cleaning": "Weekly Cleaning",
-    "cleaningDesc": "Regular cleaning and fresh bed linen included.",
+    "cleaning": "Cleaning & Linen (optional)",
+    "cleaningDesc": "Weekly cleaning plus bed linen and towels changed weekly, bookable as optional extras.",
     "washing": "Washing Machine",
     "washingDesc": "Washing machine and dryer available on request.",
     "parking": "Parking",
@@ -133,7 +133,7 @@
     "q4": "Can I book for my whole team?",
     "a4": "Of course! We offer accommodation for individuals up to entire teams of up to 20 people.",
     "q5": "Are bed linen and towels provided?",
-    "a5": "Yes, bed linen and towels are included and changed weekly."
+    "a5": "On request: bed linen and towels (changed weekly) and weekly cleaning can be booked as optional extras. They are not included in the room rate."
   },
   "contact": {
     "title": "Contact",
@@ -184,7 +184,7 @@
   },
   "apartmentPage": {
     "title": "Workers' Apartments in Augsburg",
-    "desc": "Fully furnished apartments for 4 to 20 persons. Ideal for teams and longer project stays. Each apartment features a fully equipped kitchen, WiFi and weekly cleaning."
+    "desc": "Fully furnished apartments for 4 to 20 persons. Ideal for teams and longer project stays. Each apartment features a fully equipped kitchen and WiFi; weekly cleaning can be booked as an optional extra."
   },
   "monteurapartmentPage": {
     "title": "Studio Apartments in Augsburg",

@@ -39,8 +39,8 @@
     "tvDesc": "TV cu ecran plat în fiecare cameră și în spațiile comune.",
     "kitchen": "Bucătărie complet echipată",
     "kitchenDesc": "Bucătărie cu aragaz, cuptor, microunde, veselă și frigider.",
-    "cleaning": "Curățenie săptămânală",
-    "cleaningDesc": "Curățenie regulată și lenjerie proaspătă incluse.",
+    "cleaning": "Curățenie și lenjerie (opțional)",
+    "cleaningDesc": "Curățenia săptămânală, lenjeria de pat și prosoapele (schimbate săptămânal) pot fi rezervate opțional.",
     "washing": "Mașină de spălat",
     "washingDesc": "Mașină de spălat și uscător disponibile la cerere.",
     "parking": "Parcare",
@@ -133,7 +133,7 @@
     "q4": "Pot rezerva pentru echipa mea?",
     "a4": "Desigur! Oferim cazare pentru persoane individuale și echipe de până la 20 persoane.",
     "q5": "Sunt furnizate lenjeria și prosoapele?",
-    "a5": "Da, lenjeria și prosoapele sunt incluse și schimbate săptămânal."
+    "a5": "La cerere: lenjeria de pat și prosoapele (schimbate săptămânal), precum și curățenia săptămânală pot fi rezervate opțional. Acestea nu sunt incluse în prețul cazării."
   },
   "contact": {
     "title": "Contact",

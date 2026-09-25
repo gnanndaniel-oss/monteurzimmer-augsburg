@@ -1,4 +1,4 @@
-> **Byt pro montéry v Augsburgu od 60 € za den:** Společnost Gnann Verwaltung GmbH pronajímá kompletně zařízené byty pro týmy od 4 do 20 osob – v přepočtu 12–15 € za osobu a noc podle bytu, počtu osob a délky pobytu – s vlastní kuchyní, Wi-Fi, TV, pračkou, ložním prádlem, týdenním úklidem a bezplatným parkováním. Ubytování pro dělníky k pronájmu již od jedné noci, se zvýhodněnými podmínkami pro dlouhodobé pobyty.
+> **Byt pro montéry v Augsburgu od 60 € za den:** Společnost Gnann Verwaltung GmbH pronajímá kompletně zařízené byty pro týmy od 4 do 20 osob – v přepočtu 12–15 € za osobu a noc podle bytu, počtu osob a délky pobytu – s vlastní kuchyní, Wi-Fi, TV, pračkou a bezplatným parkováním; ložní prádlo, ručníky a týdenní úklid si lze volitelně přiobjednat. Ubytování pro dělníky k pronájmu již od jedné noci, se zvýhodněnými podmínkami pro dlouhodobé pobyty.
 
 | Velikost bytu | Cena od (za den) | v přepočtu na osobu |
 |---|---|---|
@@ -26,9 +26,8 @@ Kdo přijíždí sám nebo ve dvou, je často lépe ubytován v [pokoji pro mont
 - Bezplatné vysokorychlostní Wi-Fi
 - TV s plochou obrazovkou
 - Pračka, sušička na vyžádání
-- Ložní prádlo a ručníky v ceně, výměna jednou týdně
-- Týdenní úklid
 - Bezplatná parkovací místa
+- Volitelně k přiobjednání: ložní prádlo a ručníky s výměnou jednou týdně a týdenní úklid
 
 ## Jakou velikost bytu potřebuji?
 
@@ -83,7 +82,7 @@ Ano, pro delší pobyty nabízíme zvýhodněné podmínky.
 
 ### Je v ceně závěrečný úklid?
 
-Ubytování se uklízí jednou týdně, ložní prádlo a ručníky se mění jednou týdně. Podrobnosti k závěrečnému úklidu Vám sdělíme v nabídce.
+Ne, závěrečný úklid se účtuje vždy – podrobnosti Vám sdělíme v nabídce. Týdenní úklid a ložní prádlo s ručníky (výměna jednou týdně) si lze volitelně přiobjednat.
 
 ### Kolik osob se maximálně vejde do jednoho ubytování?
 

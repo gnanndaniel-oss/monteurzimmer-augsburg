@@ -6,7 +6,7 @@
 | Locații | mai multe în oraș, printre care Barfüßerstraße 7 (centru) și Stiermannstraße |
 | Prețuri | de la 12 € (apartament de la 10 pers.), 15 € (cameră cu mai multe paturi), 18 € (cameră dublă), 25 € (cameră single) de persoană/noapte |
 | Capacitate | de la persoane individuale până la echipe de 20 de persoane |
-| Dotări | WiFi, TV, bucătărie, mașină de spălat, lenjerie de pat și prosoape, curățenie săptămânală |
+| Dotări | WiFi, TV, bucătărie, mașină de spălat; opțional: lenjerie de pat și prosoape, curățenie săptămânală |
 | Parcare | locuri de parcare gratuite chiar lângă clădire |
 | Check-in / check-out | de la ora 15:00 / până la ora 10:00, alte ore după înțelegere |
 | Ședere minimă | 1 noapte, condiții speciale pentru șederi de lungă durată |
@@ -42,9 +42,9 @@ Unitățile noastre de cazare sunt gândite pentru oamenii care lucrează în Au
 - **Televizor cu ecran plat** în fiecare cameră și în spațiile comune
 - **Bucătărie complet utilată** cu plită, cuptor, cuptor cu microunde, frigider și veselă – gătitul pe cont propriu reduce cheltuielile de diurnă
 - **Mașină de spălat**, uscător la cerere
-- **Lenjerie de pat și prosoape** incluse, schimbate săptămânal
-- **Curățenie săptămânală** a locuinței
 - **Locuri de parcare gratuite** chiar lângă clădire
+
+**Servicii opționale, rezervabile suplimentar:** lenjerie de pat și prosoape schimbate săptămânal, precum și curățenie săptămânală.
 
 ## Cum decurge rezervarea pentru firme
 
@@ -94,7 +94,7 @@ Da. Oferim cazare de la persoane individuale până la echipe întregi de până
 
 ### Se asigură lenjerie de pat și prosoape?
 
-Da, lenjeria de pat și prosoapele sunt incluse și se schimbă săptămânal.
+La cerere: lenjeria de pat și prosoapele (schimbate săptămânal), precum și curățenia săptămânală pot fi rezervate opțional. Acestea nu sunt incluse în prețul cazării.
 
 ### Există bucătărie?
 

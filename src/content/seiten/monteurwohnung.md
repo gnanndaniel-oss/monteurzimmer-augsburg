@@ -1,4 +1,4 @@
-> **Monteurwohnung in Augsburg ab 60 € pro Tag:** Die Gnann Verwaltung GmbH vermietet komplett möblierte Wohnungen für Teams von 4 bis 20 Personen – rechnerisch 12–15 € pro Person und Nacht, je nach Wohnung, Personenzahl und Dauer – mit eigener Küche, WLAN, TV, Waschmaschine, Bettwäsche, wöchentlicher Reinigung und kostenlosen Parkplätzen. Mietbar ab einer Nacht, mit Sonderkonditionen für Langzeitaufenthalte.
+> **Monteurwohnung in Augsburg ab 60 € pro Tag:** Die Gnann Verwaltung GmbH vermietet komplett möblierte Wohnungen für Teams von 4 bis 20 Personen – rechnerisch 12–15 € pro Person und Nacht, je nach Wohnung, Personenzahl und Dauer – mit eigener Küche, WLAN, TV, Waschmaschine und kostenlosen Parkplätzen; Bettwäsche, Handtücher und eine wöchentliche Reinigung sind optional zubuchbar. Mietbar ab einer Nacht, mit Sonderkonditionen für Langzeitaufenthalte.
 
 | Wohnungsgröße | Preis ab (pro Tag) | rechnerisch pro Person |
 |---|---|---|
@@ -26,9 +26,8 @@ Wer allein oder zu zweit anreist, ist in einem [Monteurzimmer](/monteurzimmer-au
 - Kostenloses Highspeed-WLAN
 - Flachbild-TV
 - Waschmaschine, Trockner auf Anfrage
-- Bettwäsche und Handtücher inklusive, wöchentlicher Wechsel
-- Wöchentliche Reinigung
 - Kostenlose Parkplätze
+- Optional zubuchbar: Bettwäsche und Handtücher mit wöchentlichem Wechsel sowie wöchentliche Reinigung
 
 ## Welche Wohnungsgröße brauche ich?
 
@@ -83,7 +82,7 @@ Ja, bei längeren Aufenthalten bieten wir Sonderkonditionen an.
 
 ### Ist die Endreinigung enthalten?
 
-Die Unterkunft wird wöchentlich gereinigt, Bettwäsche und Handtücher werden wöchentlich gewechselt. Details zur Endreinigung nennen wir Ihnen im Angebot.
+Nein, die Endreinigung wird immer berechnet – die Details nennen wir Ihnen im Angebot. Eine wöchentliche Reinigung sowie Bettwäsche und Handtücher mit wöchentlichem Wechsel können optional dazugebucht werden.
 
 ### Wie viele Personen passen maximal in eine Unterkunft?
 

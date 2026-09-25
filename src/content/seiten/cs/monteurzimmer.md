@@ -1,4 +1,4 @@
-> **Pokoje pro montéry v Augsburgu od 12 € za osobu a noc:** Společnost Gnann Verwaltung GmbH pronajímá čtyři zařízené jednotky – Monteurzimmer Augsburg I až IV (ST5-100 až ST5-400) v ulici Stiermannstraße 5, 86154 Augsburg. Každá jednotka má jednolůžkové, dvoulůžkové a třílůžkové pokoje a lze ji pronajmout i celou pro 6, 7 nebo 12 osob. Kuchyně, Wi-Fi, TV, ložní prádlo a bezplatné parkování jsou v ceně.
+> **Pokoje pro montéry v Augsburgu od 12 € za osobu a noc:** Společnost Gnann Verwaltung GmbH pronajímá čtyři zařízené jednotky – Monteurzimmer Augsburg I až IV (ST5-100 až ST5-400) v ulici Stiermannstraße 5, 86154 Augsburg. Každá jednotka má jednolůžkové, dvoulůžkové a třílůžkové pokoje a lze ji pronajmout i celou pro 6, 7 nebo 12 osob. Kuchyně, Wi-Fi, TV a bezplatné parkování jsou v ceně; ložní prádlo, ručníky a týdenní úklid si lze volitelně přiobjednat.
 
 <!-- more -->
 
@@ -37,9 +37,8 @@ Ceny se liší podle sezóny a obsazenosti. Neplatíte žádné zprostředkovate
 - TV s plochou obrazovkou v každém pokoji
 - Plně vybavená kuchyně se sporákem, troubou, mikrovlnkou, lednicí a nádobím
 - Pračka, sušička na vyžádání
-- Ložní prádlo a ručníky v ceně, výměna jednou týdně
-- Týdenní úklid
 - Bezplatná parkovací místa přímo u domu
+- Volitelně k přiobjednání: ložní prádlo a ručníky s výměnou jednou týdně a týdenní úklid
 
 ## Parkování pro firemní vozidla
 
@@ -75,7 +74,7 @@ Jako byt si pronajmete celou jednotku exkluzivně pro svůj tým. U varianty sd�
 
 ### Je úklid zahrnut v ceně?
 
-Ano, ubytování se uklízí jednou týdně a ložní prádlo i ručníky se mění jednou týdně.
+Ne. Týdenní úklid a ložní prádlo s ručníky (výměna jednou týdně) si lze volitelně přiobjednat. Závěrečný úklid se účtuje vždy.
 
 ### Jsou k dispozici parkovací místa pro dodávky?
 

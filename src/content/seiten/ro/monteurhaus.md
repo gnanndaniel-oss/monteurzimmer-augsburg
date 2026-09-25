@@ -23,9 +23,8 @@ La proiectele mari, cu mulți angajați, un apartament obișnuit își atinge li
 - Bucătărie complet utilată, cu plită, cuptor, cuptor cu microunde, frigider și vase
 - WLAN gratuit de mare viteză și televizor cu ecran plat
 - Mașină de spălat, uscător la cerere
-- Lenjerie de pat și prosoape incluse, schimbate săptămânal
-- Curățenie săptămânală
 - Grădină cu loc de grătar, parcare lângă casă
+- Servicii opționale, rezervabile suplimentar: lenjerie de pat și prosoape schimbate săptămânal, precum și curățenie săptămânală
 
 ## Ce mărime vi se potrivește?
 

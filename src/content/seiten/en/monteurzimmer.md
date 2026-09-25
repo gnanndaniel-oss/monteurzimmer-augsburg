@@ -1,4 +1,4 @@
-> **Workers' rooms in Augsburg from €12 per person per night:** Gnann Verwaltung GmbH rents out four furnished units – Monteurzimmer Augsburg I to IV (ST5-100 to ST5-400) at Stiermannstraße 5, 86154 Augsburg. Each unit has single, double and triple rooms and can also be rented as a whole for 6, 7 or 12 people. Kitchen, Wi-Fi, TV, bed linen and free parking are included.
+> **Workers' rooms in Augsburg from €12 per person per night:** Gnann Verwaltung GmbH rents out four furnished units – Monteurzimmer Augsburg I to IV (ST5-100 to ST5-400) at Stiermannstraße 5, 86154 Augsburg. Each unit has single, double and triple rooms and can also be rented as a whole for 6, 7 or 12 people. Kitchen, Wi-Fi, TV and free parking are included; bed linen, towels and weekly cleaning are available as optional extras.
 
 <!-- more -->
 
@@ -37,9 +37,8 @@ Prices vary depending on season and occupancy. There are no agency fees, because
 - Flat-screen TV in every room
 - Fully equipped kitchen with hob, oven, microwave, fridge and crockery
 - Washing machine, tumble dryer on request
-- Bed linen and towels included, changed weekly
-- Weekly cleaning
 - Free parking right outside the building
+- Optional extras: bed linen and towels changed weekly, and weekly cleaning
 
 ## Parking for company vehicles
 
@@ -75,7 +74,7 @@ As an apartment, you rent the entire unit exclusively for your team. With the fl
 
 ### Is cleaning included in the price?
 
-Yes, the accommodation is cleaned weekly, and bed linen and towels are changed weekly.
+No. Weekly cleaning, as well as bed linen and towels changed weekly, can be booked as optional extras. Final cleaning is always charged.
 
 ### Is there parking for vans?
 

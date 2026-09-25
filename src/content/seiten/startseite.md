@@ -6,7 +6,7 @@
 | Standorte | mehrere im Stadtgebiet, u. a. Barfüßerstraße 7 (Innenstadt) und Stiermannstraße |
 | Preise | ab 12 € (Wohnung ab 10 Pers.), 15 € (Mehrbettzimmer), 18 € (Doppelzimmer), 25 € (Einzelzimmer) pro Person/Nacht |
 | Kapazität | Einzelpersonen bis Teams von 20 Personen |
-| Ausstattung | WLAN, TV, Küche, Waschmaschine, Bettwäsche & Handtücher, wöchentliche Reinigung |
+| Ausstattung | WLAN, TV, Küche, Waschmaschine; optional zubuchbar: Bettwäsche & Handtücher, wöchentliche Reinigung |
 | Parken | kostenlose Parkplätze direkt am Haus |
 | Check-in / Check-out | ab 15:00 Uhr / bis 10:00 Uhr, andere Zeiten nach Absprache |
 | Mindestaufenthalt | 1 Nacht, Sonderkonditionen für Langzeitaufenthalte |
@@ -42,9 +42,9 @@ Unsere Unterkünfte sind auf Menschen ausgelegt, die in Augsburg arbeiten und ni
 - **Flachbild-TV** in jedem Zimmer und in den Gemeinschaftsräumen
 - **Voll ausgestattete Küche** mit Herd, Ofen, Mikrowelle, Kühlschrank und Geschirr – Selbstverpflegung spart Spesen
 - **Waschmaschine**, Trockner auf Anfrage
-- **Bettwäsche und Handtücher** inklusive, Wechsel wöchentlich
-- **Wöchentliche Reinigung** der Unterkunft
 - **Kostenlose Parkplätze** direkt am Haus
+
+**Optional zubuchbar:** Bettwäsche und Handtücher mit wöchentlichem Wechsel sowie eine wöchentliche Reinigung.
 
 ## So läuft die Buchung für Firmen ab
 
@@ -94,7 +94,7 @@ Ja. Wir bieten Unterkünfte für einzelne Personen bis hin zu ganzen Teams mit b
 
 ### Werden Bettwäsche und Handtücher gestellt?
 
-Ja, Bettwäsche und Handtücher sind inklusive und werden wöchentlich gewechselt.
+Auf Wunsch ja: Bettwäsche und Handtücher (mit wöchentlichem Wechsel) sowie eine wöchentliche Reinigung können optional dazugebucht werden. Sie sind nicht im Übernachtungspreis enthalten.
 
 ### Gibt es eine Küche?
 

@@ -29,7 +29,7 @@
 - Zimmertypen: Einzelzimmer, Doppelzimmer, Dreibettzimmer
 - Besonderheit: Als komplette Wohnung für bis zu 6 Personen mietbar
 - Adresse: Stiermannstraße 5, 86154 Augsburg
-- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, wöchentliche Reinigung, Bettwäsche, Handtücher, kostenloser Parkplatz
+- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, kostenloser Parkplatz; optional zubuchbar: Bettwäsche und Handtücher (wöchentlicher Wechsel), wöchentliche Reinigung
 
 ### Monteurzimmer Augsburg II (ST5-200)
 - URL: https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-ii-st5-200/
@@ -37,7 +37,7 @@
 - Zimmertypen: Einzelzimmer, Doppelzimmer, Dreibettzimmer
 - Besonderheit: Als komplette Wohnung für bis zu 7 Personen mietbar
 - Adresse: Stiermannstraße 5, 86154 Augsburg
-- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, wöchentliche Reinigung, Bettwäsche, Handtücher, kostenloser Parkplatz
+- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, kostenloser Parkplatz; optional zubuchbar: Bettwäsche und Handtücher (wöchentlicher Wechsel), wöchentliche Reinigung
 
 ### Monteurzimmer Augsburg III (ST5-300)
 - URL: https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iii-st5-300/
@@ -45,7 +45,7 @@
 - Zimmertypen: Einzelzimmer, Doppelzimmer, Dreibettzimmer
 - Besonderheit: Als WG für bis zu 7 Personen mietbar
 - Adresse: Stiermannstraße 5, 86154 Augsburg
-- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, wöchentliche Reinigung, Bettwäsche, Handtücher, kostenloser Parkplatz
+- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, kostenloser Parkplatz; optional zubuchbar: Bettwäsche und Handtücher (wöchentlicher Wechsel), wöchentliche Reinigung
 
 ### Monteurzimmer Augsburg IV (ST5-400)
 - URL: https://www.monteurzimmer.augsburg-apartments.de/monteurzimmer-augsburg/monteurzimmer-augsburg-iv-st5-400/
@@ -53,7 +53,7 @@
 - Zimmertypen: Einzelzimmer, Doppelzimmer, Dreibettzimmer
 - Besonderheit: Größte Einheit – als komplette Wohnung für bis zu 12 Personen mietbar
 - Adresse: Stiermannstraße 5, 86154 Augsburg
-- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, wöchentliche Reinigung, Bettwäsche, Handtücher, kostenloser Parkplatz
+- Ausstattung: WLAN, LCD-TV, Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr), Waschmaschine, kostenloser Parkplatz; optional zubuchbar: Bettwäsche und Handtücher (wöchentlicher Wechsel), wöchentliche Reinigung
 
 ### Monteurwohnung Augsburg
 - URL: https://www.monteurzimmer.augsburg-apartments.de/monteurwohnung-augsburg/
@@ -92,7 +92,7 @@
 - Baumarkt, Werkzeugverleih und Arbeitskleidung in Augsburg: https://www.monteurzimmer.augsburg-apartments.de/blog/baumarkt-werkzeugverleih-augsburg-monteure/
   Kernaussagen: wann Baumarkt, Fachgroßhandel (Gewerbenachweis) oder Mietpark; Ladenöffnung in Bayern Mo–Sa 6–20 Uhr, sonntags geschlossen; Einkaufsplanung für die Montagewoche.
 - Wäsche waschen, Einkaufen, Feierabend – Alltagsguide für Monteure: https://www.monteurzimmer.augsburg-apartments.de/blog/waesche-einkaufen-feierabend-monteure-augsburg/
-  Kernaussagen: Waschmaschine und Bettwäsche in der Unterkunft, Arbeitskleidung richtig waschen, Selbstverpflegung mit Rechenbeispiel, Feierabend-Tipps (Altstadt, Fuggerei, Kuhsee).
+  Kernaussagen: Waschmaschine in der Unterkunft, Bettwäsche/Handtücher optional zubuchbar, Arbeitskleidung richtig waschen, Selbstverpflegung mit Rechenbeispiel, Feierabend-Tipps (Altstadt, Fuggerei, Kuhsee).
 - Fitnessstudios, Schwimmbäder und Sport für Monteure in Augsburg: https://www.monteurzimmer.augsburg-apartments.de/blog/fitnessstudios-sport-monteure-augsburg/
   Kernaussagen: kurze Vertragslaufzeiten, Bäder der Stadtwerke Augsburg, Kuhsee, Laufen im Siebentischwald, 20-Minuten-Programm für die Unterkunft.
 
@@ -141,7 +141,7 @@ A: Ja, kostenlose Parkplätze stehen direkt am Haus zur Verfügung.
 A: Selbstverständlich! Wir bieten Unterkünfte für einzelne Personen bis hin zu ganzen Teams mit bis zu 20 Personen.
 
 **F: Wird Bettwäsche und Handtücher gestellt?**
-A: Ja, Bettwäsche und Handtücher sind inklusive und werden wöchentlich gewechselt.
+A: Auf Wunsch ja: Bettwäsche und Handtücher (mit wöchentlichem Wechsel) sowie eine wöchentliche Reinigung können optional dazugebucht werden. Sie sind nicht im Übernachtungspreis enthalten.
 
 **F: Was kostet ein Monteurzimmer in Augsburg?**
 A: Ab 12 € pro Person/Nacht (Wohnung ab 10 Personen), ab 15 € im Mehrbettzimmer, ab 18 € im Doppelzimmer, ab 25 € im Einzelzimmer. Preise variieren je nach Saison und Auslastung.

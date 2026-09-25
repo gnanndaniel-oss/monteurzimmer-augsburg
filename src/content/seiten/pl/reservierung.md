@@ -28,11 +28,11 @@ Ceny zależą od sezonu i obłożenia. Przy pobytach długoterminowych oferujemy
 
 - W pełni umeblowane zakwaterowanie z kuchnią (kuchenka, piekarnik, mikrofalówka, lodówka, naczynia)
 - Szybkie Wi-Fi i telewizor z płaskim ekranem
-- Pościel i ręczniki, wymiana co tydzień
-- Cotygodniowe sprzątanie
 - Korzystanie z pralki, suszarka na życzenie
 - Bezpłatne miejsca parkingowe przy budynku
 - Brak prowizji pośrednika – rezerwują Państwo bezpośrednio u Gnann Verwaltung GmbH
+
+**Opcjonalnie do zamówienia:** pościel i ręczniki z cotygodniową wymianą oraz cotygodniowe sprzątanie.
 
 ## Na krótko, na długo czy regularnie?
 

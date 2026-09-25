@@ -1,4 +1,4 @@
-> **Apartament pentru muncitori în Augsburg de la 60 € pe zi:** Gnann Verwaltung GmbH închiriază apartamente complet mobilate pentru echipe de 4 până la 20 de persoane – calculat 12–15 € de persoană pe noapte, în funcție de apartament, numărul de persoane și durată – cu bucătărie proprie, WiFi, TV, mașină de spălat, lenjerie de pat, curățenie săptămânală și parcare gratuită. Cazare muncitori închiriabilă de la o noapte, cu condiții speciale pentru șederi de lungă durată.
+> **Apartament pentru muncitori în Augsburg de la 60 € pe zi:** Gnann Verwaltung GmbH închiriază apartamente complet mobilate pentru echipe de 4 până la 20 de persoane – calculat 12–15 € de persoană pe noapte, în funcție de apartament, numărul de persoane și durată – cu bucătărie proprie, WiFi, TV, mașină de spălat și parcare gratuită; lenjeria de pat, prosoapele și curățenia săptămânală pot fi rezervate opțional. Cazare muncitori închiriabilă de la o noapte, cu condiții speciale pentru șederi de lungă durată.
 
 | Mărimea apartamentului | Preț de la (pe zi) | calculat de persoană |
 |---|---|---|
@@ -26,9 +26,8 @@ Cine vine singur sau în doi este adesea mai bine servit de o [cameră pentru mu
 - WiFi de mare viteză gratuit
 - Televizor cu ecran plat
 - Mașină de spălat, uscător la cerere
-- Lenjerie de pat și prosoape incluse, schimbate săptămânal
-- Curățenie săptămânală
 - Locuri de parcare gratuite
+- Servicii opționale, rezervabile suplimentar: lenjerie de pat și prosoape schimbate săptămânal, precum și curățenie săptămânală
 
 ## De ce mărime de apartament am nevoie?
 
@@ -83,7 +82,7 @@ Da, pentru șederi mai lungi oferim condiții speciale.
 
 ### Curățenia finală este inclusă?
 
-Locuința este curățată săptămânal, iar lenjeria de pat și prosoapele se schimbă săptămânal. Detaliile privind curățenia finală vi le comunicăm în ofertă.
+Nu, curățenia finală se facturează întotdeauna – detaliile vi le comunicăm în ofertă. Curățenia săptămânală, precum și lenjeria de pat și prosoapele schimbate săptămânal pot fi rezervate opțional.
 
 ### Câte persoane încap cel mult într-o unitate de cazare?
 

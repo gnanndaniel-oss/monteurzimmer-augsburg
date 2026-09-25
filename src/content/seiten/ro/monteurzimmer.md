@@ -1,4 +1,4 @@
-> **Camere pentru muncitori în Augsburg de la 12 € de persoană pe noapte:** Gnann Verwaltung GmbH închiriază patru unități mobilate – Monteurzimmer Augsburg I până la IV (ST5-100 până la ST5-400) în Stiermannstraße 5, 86154 Augsburg. Fiecare unitate are camere single, duble și triple și poate fi închiriată și integral pentru 6, 7 sau 12 persoane. Bucătăria, WiFi-ul, televizorul, lenjeria de pat și parcarea gratuită sunt incluse – cazare pentru muncitori completă.
+> **Camere pentru muncitori în Augsburg de la 12 € de persoană pe noapte:** Gnann Verwaltung GmbH închiriază patru unități mobilate – Monteurzimmer Augsburg I până la IV (ST5-100 până la ST5-400) în Stiermannstraße 5, 86154 Augsburg. Fiecare unitate are camere single, duble și triple și poate fi închiriată și integral pentru 6, 7 sau 12 persoane. Bucătăria, WiFi-ul, televizorul și parcarea gratuită sunt incluse; lenjeria de pat, prosoapele și curățenia săptămânală pot fi rezervate opțional.
 
 <!-- more -->
 
@@ -37,9 +37,8 @@ Prețurile variază în funcție de sezon și de grad de ocupare. Nu se percep c
 - Televizor cu ecran plat în fiecare cameră
 - Bucătărie complet utilată cu plită, cuptor, cuptor cu microunde, frigider și veselă
 - Mașină de spălat, uscător la cerere
-- Lenjerie de pat și prosoape incluse, schimbate săptămânal
-- Curățenie săptămânală
 - Locuri de parcare gratuite chiar lângă clădire
+- Servicii opționale, rezervabile suplimentar: lenjerie de pat și prosoape schimbate săptămânal, precum și curățenie săptămânală
 
 ## Parcare pentru vehiculele firmei
 
@@ -75,7 +74,7 @@ Ca apartament, închiriați întreaga unitate în exclusivitate pentru echipa du
 
 ### Curățenia este inclusă în preț?
 
-Da, locuința este curățată săptămânal, iar lenjeria de pat și prosoapele se schimbă săptămânal.
+Nu. Curățenia săptămânală, precum și lenjeria de pat și prosoapele schimbate săptămânal pot fi rezervate opțional. Curățenia finală se facturează întotdeauna.
 
 ### Există locuri de parcare pentru dube?
 

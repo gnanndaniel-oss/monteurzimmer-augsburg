@@ -1,4 +1,4 @@
-> **In short:** If you stay in workers' accommodation with a **washing machine** and **your own kitchen**, you can skip the launderette and expensive meals out. At Monteurzimmer Augsburg, **bed linen and towels are included** and changed weekly, a washing machine is available and a tumble dryer on request. In Bavaria you can shop **Monday to Saturday until 8 pm**; supermarkets are closed on Sundays – so stock up on Saturday.
+> **In short:** If you stay in workers' accommodation with a **washing machine** and **your own kitchen**, you can skip the launderette and expensive meals out. At Monteurzimmer Augsburg, **bed linen and towels can be booked as an optional extra** (changed weekly), a washing machine is available and a tumble dryer on request. In Bavaria you can shop **Monday to Saturday until 8 pm**; supermarkets are closed on Sundays – so stock up on Saturday.
 
 <!-- more -->
 
@@ -8,12 +8,12 @@ After ten hours on site, nobody wants to spend ages looking for a launderette or
 
 | Services at Monteurzimmer Augsburg | |
 |---|---|
-| Bed linen and towels | included, changed weekly |
+| Bed linen and towels | optional extra, changed weekly |
 | Washing machine | available |
 | Tumble dryer | on request |
-| Cleaning of the accommodation | weekly |
+| Cleaning of the accommodation | weekly, optional extra |
 
-That leaves only your own clothes. For a stay of several weeks, a washing machine in the accommodation is far more convenient than a launderette – no waiting, no coins, no trips.
+If you book bed linen and towels, you only need to take care of your own clothes. For a stay of several weeks, a washing machine in the accommodation is far more convenient than a launderette – no waiting, no coins, no trips.
 
 ## Washing workwear properly
 
@@ -84,7 +84,7 @@ More practical tips: [Parking with a company vehicle](/blog/parken-augsburg-mont
 
 ### Is there a washing machine in the workers' rooms?
 
-Yes, Monteurzimmer Augsburg provides a washing machine, and a tumble dryer on request. Bed linen and towels are included and changed weekly.
+Yes, Monteurzimmer Augsburg provides a washing machine, and a tumble dryer on request. Bed linen and towels changed weekly can be booked as an optional extra.
 
 ### Are supermarkets in Augsburg open on Sundays?
 

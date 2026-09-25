@@ -6,7 +6,7 @@
 | Locations | several across the city, including Barfüßerstraße 7 (city centre) and Stiermannstraße |
 | Prices | from €12 (apartment, 10+ people), €15 (shared room), €18 (double room), €25 (single room) per person/night |
 | Capacity | from individual workers to teams of 20 people |
-| Amenities | Wi-Fi, TV, kitchen, washing machine, bed linen & towels, weekly cleaning |
+| Amenities | Wi-Fi, TV, kitchen, washing machine; optional extras: bed linen & towels, weekly cleaning |
 | Parking | free parking right outside the building |
 | Check-in / check-out | from 3:00 pm / by 10:00 am, other times by arrangement |
 | Minimum stay | 1 night, special rates for long stays |
@@ -42,9 +42,9 @@ Our accommodation is designed for people who work in Augsburg and can't travel h
 - **Flat-screen TV** in every room and in the common areas
 - **Fully equipped kitchen** with hob, oven, microwave, fridge and crockery – self-catering saves on expenses
 - **Washing machine**, tumble dryer on request
-- **Bed linen and towels** included, changed weekly
-- **Weekly cleaning** of the accommodation
 - **Free parking** right outside the building
+
+**Optional extras:** bed linen and towels changed weekly, and weekly cleaning.
 
 ## How booking works for companies
 
@@ -94,7 +94,7 @@ Yes. We offer accommodation for individuals right up to whole teams of up to 20 
 
 ### Are bed linen and towels provided?
 
-Yes, bed linen and towels are included and changed weekly.
+On request: bed linen and towels (changed weekly) and weekly cleaning can be booked as optional extras. They are not included in the room rate.
 
 ### Is there a kitchen?
 

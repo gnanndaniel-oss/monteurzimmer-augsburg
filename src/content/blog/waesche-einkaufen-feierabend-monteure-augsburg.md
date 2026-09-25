@@ -1,4 +1,4 @@
-> **Kurz gesagt:** Wer in einem Monteurzimmer mit **Waschmaschine** und **eigener Küche** wohnt, spart sich den Waschsalon und die teure Verpflegung auswärts. Bei Monteurzimmer Augsburg sind **Bettwäsche und Handtücher inklusive** und werden wöchentlich gewechselt, eine Waschmaschine steht bereit, ein Trockner auf Anfrage. Einkaufen können Sie in Bayern **montags bis samstags bis 20 Uhr**; sonntags sind Supermärkte geschlossen – also samstags vorsorgen.
+> **Kurz gesagt:** Wer in einem Monteurzimmer mit **Waschmaschine** und **eigener Küche** wohnt, spart sich den Waschsalon und die teure Verpflegung auswärts. Bei Monteurzimmer Augsburg können **Bettwäsche und Handtücher optional dazugebucht** werden (mit wöchentlichem Wechsel), eine Waschmaschine steht bereit, ein Trockner auf Anfrage. Einkaufen können Sie in Bayern **montags bis samstags bis 20 Uhr**; sonntags sind Supermärkte geschlossen – also samstags vorsorgen.
 
 <!-- more -->
 
@@ -8,12 +8,12 @@ Nach zehn Stunden Baustelle will niemand noch lange nach einem Waschsalon suchen
 
 | Leistung bei Monteurzimmer Augsburg | |
 |---|---|
-| Bettwäsche und Handtücher | inklusive, wöchentlicher Wechsel |
+| Bettwäsche und Handtücher | optional zubuchbar, wöchentlicher Wechsel |
 | Waschmaschine | vorhanden |
 | Trockner | auf Anfrage |
-| Reinigung der Unterkunft | wöchentlich |
+| Reinigung der Unterkunft | wöchentlich, optional zubuchbar |
 
-Damit bleibt nur die eigene Kleidung. Bei einem Aufenthalt von mehreren Wochen ist eine Waschmaschine in der Unterkunft deutlich bequemer als der Waschsalon – kein Warten, keine Münzen, keine Wege.
+Wer Bettwäsche und Handtücher dazubucht, muss sich nur noch um die eigene Kleidung kümmern. Bei einem Aufenthalt von mehreren Wochen ist eine Waschmaschine in der Unterkunft deutlich bequemer als der Waschsalon – kein Warten, keine Münzen, keine Wege.
 
 ## Arbeitskleidung richtig waschen
 
@@ -84,7 +84,7 @@ Weitere Praxistipps: [Parken mit Firmenfahrzeug](/blog/parken-augsburg-monteure-
 
 ### Gibt es in den Monteurzimmern eine Waschmaschine?
 
-Ja, bei Monteurzimmer Augsburg steht eine Waschmaschine zur Verfügung, ein Trockner auf Anfrage. Bettwäsche und Handtücher sind inklusive und werden wöchentlich gewechselt.
+Ja, bei Monteurzimmer Augsburg steht eine Waschmaschine zur Verfügung, ein Trockner auf Anfrage. Bettwäsche und Handtücher mit wöchentlichem Wechsel können optional dazugebucht werden.
 
 ### Haben Supermärkte in Augsburg sonntags geöffnet?
 

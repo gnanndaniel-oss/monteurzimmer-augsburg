@@ -119,7 +119,6 @@ export function generateRoomSchema(room: {
       { '@type': 'LocationFeatureSpecification', name: 'TV', value: true },
       { '@type': 'LocationFeatureSpecification', name: 'Free Parking', value: true },
       { '@type': 'LocationFeatureSpecification', name: 'Washing Machine', value: true },
-      { '@type': 'LocationFeatureSpecification', name: 'Weekly Cleaning', value: true },
     ],
     bed: {
       '@type': 'BedDetails',

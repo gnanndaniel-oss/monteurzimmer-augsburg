@@ -34,7 +34,7 @@ Prices vary depending on season and occupancy. Special rates are available for l
 
 ## Facilities
 
-Free high-speed Wi-Fi, a flat-screen TV in every room, a fully equipped kitchen with hob, oven, microwave, fridge and crockery, washing machine (tumble dryer on request), bed linen and towels changed weekly, and weekly cleaning. From Stiermannstraße you can quickly reach the A8 motorway and the B17, and Messe Augsburg (the trade fair centre) in around 15 minutes.
+Free high-speed Wi-Fi, a flat-screen TV in every room, a fully equipped kitchen with hob, oven, microwave, fridge and crockery, washing machine (tumble dryer on request); bed linen and towels changed weekly, and weekly cleaning, are available as optional extras. From Stiermannstraße you can quickly reach the A8 motorway and the B17, and Messe Augsburg (the trade fair centre) in around 15 minutes.
 
 ## How to book unit III
 

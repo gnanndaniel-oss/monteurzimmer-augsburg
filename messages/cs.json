@@ -39,8 +39,8 @@
     "tvDesc": "Plochý televizor v každém pokoji a společných prostorách.",
     "kitchen": "Plně vybavená kuchyň",
     "kitchenDesc": "Kuchyň se sporákem, troubou, mikrovlnkou, nádobím a lednicí.",
-    "cleaning": "Týdenní úklid",
-    "cleaningDesc": "Pravidelný úklid a čisté povlečení v ceně.",
+    "cleaning": "Úklid a prádlo (volitelně)",
+    "cleaningDesc": "Týdenní úklid a ložní prádlo s ručníky (výměna jednou týdně) lze volitelně přiobjednat.",
     "washing": "Pračka",
     "washingDesc": "Pračka a sušička k dispozici na požádání.",
     "parking": "Parkování",
@@ -133,7 +133,7 @@
     "q4": "Mohu rezervovat pro svůj tým?",
     "a4": "Samozřejmě! Nabízíme ubytování pro jednotlivce i celé týmy až 20 osob.",
     "q5": "Je poskytnuto povlečení a ručníky?",
-    "a5": "Ano, povlečení a ručníky jsou v ceně a měněny každý týden."
+    "a5": "Na přání: ložní prádlo a ručníky (s výměnou jednou týdně) i týdenní úklid si lze volitelně přiobjednat. Nejsou zahrnuty v ceně ubytování."
   },
   "contact": {
     "title": "Kontakt",

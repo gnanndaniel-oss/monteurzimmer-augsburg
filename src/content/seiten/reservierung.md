@@ -28,11 +28,11 @@ Preise variieren je nach Saison und Auslastung. Für Langzeitaufenthalte gibt es
 
 - Voll möblierte Unterkunft mit Küche (Herd, Ofen, Mikrowelle, Kühlschrank, Geschirr)
 - Highspeed-WLAN und Flachbild-TV
-- Bettwäsche und Handtücher, wöchentlicher Wechsel
-- Wöchentliche Reinigung
 - Nutzung der Waschmaschine, Trockner auf Anfrage
 - Kostenlose Parkplätze am Haus
 - Keine Vermittlungsgebühren – Sie buchen direkt bei der Gnann Verwaltung GmbH
+
+**Optional zubuchbar:** Bettwäsche und Handtücher mit wöchentlichem Wechsel sowie eine wöchentliche Reinigung.
 
 ## Kurzfristig, langfristig oder wiederkehrend?
 

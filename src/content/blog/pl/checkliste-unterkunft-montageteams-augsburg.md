@@ -36,14 +36,14 @@ Wskazówka: przy dłuższych projektach warto od razu zapytać o **specjalne war
 9. **Ustalenie podziału pokoi.** Kto śpi z kim? Krótka lista oszczędza dyskusji pierwszego wieczoru.
 10. **Sprawdzenie pojazdów i trasy.** Warto z wyprzedzeniem sprawdzić aktualne zasady dotyczące strefy ekologicznej (Umweltzone) w Augsburgu oraz roboty drogowe na trasie dojazdu. Nasze kwatery mają szybkie połączenie z autostradą A8 (Monachium–Stuttgart) i drogą B17.
 11. **Dokumenty pracowników z zagranicy.** Pracownicy delegowani z krajów UE powinni mieć przy sobie zaświadczenie A1; w niektórych branżach – np. w budownictwie – wymagane jest dodatkowo zgłoszenie w urzędzie celnym (Zoll). Aktualne obowiązki należy sprawdzić odpowiednio wcześnie.
-12. **Co zabrać, a co już jest na miejscu?** U nas są pościel, ręczniki, kuchnia z kuchenką, piekarnikiem, mikrofalówką, lodówką i naczyniami, WLAN oraz telewizor. Każdy powinien zabrać: dowód osobisty, odzież roboczą, kapcie, jedzenie na pierwszy wieczór.
+12. **Co zabrać, a co już jest na miejscu?** U nas jest kuchnia z kuchenką, piekarnikiem, mikrofalówką, lodówką i naczyniami, WLAN oraz telewizor; pościel i ręczniki można zamówić opcjonalnie. Każdy powinien zabrać: dowód osobisty, odzież roboczą, kapcie, jedzenie na pierwszy wieczór.
 
 ## Etap 4: Na miejscu
 
 13. **Przy przyjeździe ustalić:** Gdzie jest pralka, pojemniki na śmieci, miejsca parkingowe? Kto jest osobą kontaktową w razie problemów?
 14. **Wyznaczyć osobę odpowiedzialną w ekipie**, która pilnuje kluczy, regulaminu domu i kontaktu z wynajmującym.
-15. **Zorganizować pranie:** Do dyspozycji jest pralka, suszarka na życzenie. Pościel i ręczniki są wymieniane co tydzień.
-16. **Uwzględnić sprzątanie:** Kwatera jest sprzątana co tydzień. W międzyczasie obowiązuje zasada: utrzymywać porządek w kuchni i łazience, aby w ekipie nie było nieporozumień.
+15. **Zorganizować pranie:** Do dyspozycji jest pralka, suszarka na życzenie. Pościel i ręczniki z cotygodniową wymianą można zamówić opcjonalnie.
+16. **Uwzględnić sprzątanie:** Cotygodniowe sprzątanie kwatery można zamówić opcjonalnie. Niezależnie od tego obowiązuje zasada: utrzymywać porządek w kuchni i łazience, aby w ekipie nie było nieporozumień.
 17. **Gotować samemu zamiast przepalać diety:** Dzięki w pełni wyposażonej kuchni rzeczywiste koszty wyżywienia wyraźnie spadają. Supermarkety i restauracje są w pobliżu.
 18. **Wcześnie zgłaszać zmiany:** Pracownik przyjedzie później, ktoś wyjedzie wcześniej albo projekt się przedłuży? Im wcześniej wynajmujący się dowie, tym łatwiej wszystko przeplanować.
 
@@ -68,7 +68,7 @@ Wskazówka: przy dłuższych projektach warto od razu zapytać o **specjalne war
 
 ## Noclegi dla monterów z Państwa ekipy w Augsburgu
 
-Monteurzimmer Augsburg – oferta firmy Gnann Verwaltung GmbH – zapewnia zakwaterowanie pojedynczym osobom i ekipom do 20 osób: w [pokoju dla monterów](/monteurzimmer-augsburg/) od 12 € za osobę i noc, w [mieszkaniu dla monterów](/monteurwohnung-augsburg/) od 60 € dziennie, w [apartamencie dla monterów](/monteurapartment-augsburg/) od 30 € dziennie lub w [domu dla monterów](/monteurhaus-augsburg/) od 120 € dziennie. Bezpłatne miejsca parkingowe, kuchnia, WLAN i cotygodniowe sprzątanie są w cenie. [Zapraszamy do wysłania zapytania](/reservierung-monterwohungaugsburg/) lub kontaktu telefonicznego: +49 821 419028-28.
+Monteurzimmer Augsburg – oferta firmy Gnann Verwaltung GmbH – zapewnia zakwaterowanie pojedynczym osobom i ekipom do 20 osób: w [pokoju dla monterów](/monteurzimmer-augsburg/) od 12 € za osobę i noc, w [mieszkaniu dla monterów](/monteurwohnung-augsburg/) od 60 € dziennie, w [apartamencie dla monterów](/monteurapartment-augsburg/) od 30 € dziennie lub w [domu dla monterów](/monteurhaus-augsburg/) od 120 € dziennie. Bezpłatne miejsca parkingowe, kuchnia i WLAN są w cenie; pościel, ręczniki i cotygodniowe sprzątanie można zamówić opcjonalnie. [Zapraszamy do wysłania zapytania](/reservierung-monterwohungaugsburg/) lub kontaktu telefonicznego: +49 821 419028-28.
 
 ## Najczęściej zadawane pytania o rezerwację dla ekip montażowych
 

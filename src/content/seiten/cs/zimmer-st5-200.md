@@ -34,7 +34,7 @@ Ceny se liší podle sezóny a obsazenosti. Pro dlouhodobé pobyty nabízíme zv
 
 ## Vybavení
 
-Bezplatné vysokorychlostní Wi-Fi, televize s plochou obrazovkou v každém pokoji, plně vybavená kuchyň se sporákem, troubou, mikrovlnkou, lednicí a nádobím, pračka (sušička na vyžádání), ložní prádlo a ručníky s výměnou jednou týdně a úklid jednou týdně. Ze Stiermannstraße se rychle dostanete na dálnici A8 a silnici B17, na výstaviště Messe Augsburg zhruba za 15 minut.
+Bezplatné vysokorychlostní Wi-Fi, televize s plochou obrazovkou v každém pokoji, plně vybavená kuchyň se sporákem, troubou, mikrovlnkou, lednicí a nádobím, pračka (sušička na vyžádání); volitelně si lze přiobjednat ložní prádlo a ručníky s výměnou jednou týdně a týdenní úklid. Ze Stiermannstraße se rychle dostanete na dálnici A8 a silnici B17, na výstaviště Messe Augsburg zhruba za 15 minut.
 
 ## Jak rezervovat jednotku II
 

@@ -24,9 +24,8 @@ Přijíždí-li Váš tým s více než čtyřmi osobami, vyjde [byt pro montér
 - Plně vybavená kuchyň se sporákem, troubou, mikrovlnkou, lednicí a nádobím
 - Bezplatné vysokorychlostní Wi-Fi a televize s plochou obrazovkou
 - Pračka, sušička na vyžádání
-- Ložní prádlo a ručníky v ceně, výměna jednou týdně
-- Úklid jednou týdně
 - Bezplatná parkovací místa
+- Volitelně k přiobjednání: ložní prádlo a ručníky s výměnou jednou týdně a týdenní úklid
 
 ## Srovnání cen: apartmán, nebo jednolůžkový pokoj?
 

@@ -24,9 +24,8 @@ Reist Ihr Team mit mehr als vier Personen an, ist eine [Monteurwohnung](/monteur
 - Voll ausgestattete Küche mit Herd, Ofen, Mikrowelle, Kühlschrank und Geschirr
 - Kostenloses Highspeed-WLAN und Flachbild-TV
 - Waschmaschine, Trockner auf Anfrage
-- Bettwäsche und Handtücher inklusive, wöchentlicher Wechsel
-- Wöchentliche Reinigung
 - Kostenlose Parkplätze
+- Optional zubuchbar: Bettwäsche und Handtücher mit wöchentlichem Wechsel sowie wöchentliche Reinigung
 
 ## Preisvergleich: Apartment oder Einzelzimmer?
 

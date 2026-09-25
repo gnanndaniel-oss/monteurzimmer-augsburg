@@ -28,11 +28,11 @@ Prețurile variază în funcție de sezon și de grad de ocupare. Pentru șederi
 
 - Cazare complet mobilată, cu bucătărie (plită, cuptor, cuptor cu microunde, frigider, vase)
 - WLAN de mare viteză și televizor cu ecran plat
-- Lenjerie de pat și prosoape, schimbate săptămânal
-- Curățenie săptămânală
 - Utilizarea mașinii de spălat, uscător la cerere
 - Parcare gratuită lângă casă
 - Fără comisioane de intermediere – rezervați direct la Gnann Verwaltung GmbH
+
+**Servicii opționale, rezervabile suplimentar:** lenjerie de pat și prosoape schimbate săptămânal, precum și curățenie săptămânală.
 
 ## Pe termen scurt, pe termen lung sau în mod repetat?
 

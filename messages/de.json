@@ -39,8 +39,8 @@
     "tvDesc": "Flachbild-TV in jedem Zimmer und in den Gemeinschaftsräumen.",
     "kitchen": "Voll ausgestattete Küche",
     "kitchenDesc": "Küche mit Herd, Ofen, Mikrowelle, Geschirr und Kühlschrank.",
-    "cleaning": "Wöchentliche Reinigung",
-    "cleaningDesc": "Regelmäßige Reinigung und frische Bettwäsche inklusive.",
+    "cleaning": "Reinigung & Wäsche optional",
+    "cleaningDesc": "Wöchentliche Reinigung sowie Bettwäsche und Handtücher mit wöchentlichem Wechsel optional zubuchbar.",
     "washing": "Waschmaschine",
     "washingDesc": "Waschmaschine und Trockner auf Anfrage verfügbar.",
     "parking": "Parkplätze",
@@ -133,7 +133,7 @@
     "q4": "Kann ich auch für mein Team buchen?",
     "a4": "Selbstverständlich! Wir bieten Unterkünfte für einzelne Personen bis hin zu ganzen Teams mit bis zu 20 Personen.",
     "q5": "Wird Bettwäsche und Handtücher gestellt?",
-    "a5": "Ja, Bettwäsche und Handtücher sind inklusive und werden wöchentlich gewechselt."
+    "a5": "Auf Wunsch ja: Bettwäsche und Handtücher (mit wöchentlichem Wechsel) sowie eine wöchentliche Reinigung können optional dazugebucht werden. Sie sind nicht im Übernachtungspreis enthalten."
   },
   "contact": {
     "title": "Kontakt",
@@ -184,7 +184,7 @@
   },
   "apartmentPage": {
     "title": "Monteurwohnungen in Augsburg",
-    "desc": "Komplett möblierte Wohnungen für 4 bis 20 Personen. Ideal für Teams und längere Projektaufenthalte. Jede Wohnung verfügt über eine voll ausgestattete Küche, WLAN und wöchentliche Reinigung."
+    "desc": "Komplett möblierte Wohnungen für 4 bis 20 Personen. Ideal für Teams und längere Projektaufenthalte. Jede Wohnung verfügt über eine voll ausgestattete Küche und WLAN; eine wöchentliche Reinigung ist optional zubuchbar."
   },
   "monteurapartmentPage": {
     "title": "Monteurapartments in Augsburg",

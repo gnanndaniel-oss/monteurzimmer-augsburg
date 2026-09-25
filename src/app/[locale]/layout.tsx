@@ -87,7 +87,6 @@ export default async function LocaleLayout({ children, params }: Props) {
       { '@type': 'LocationFeatureSpecification', name: 'Kitchen', value: true },
       { '@type': 'LocationFeatureSpecification', name: 'TV', value: true },
       { '@type': 'LocationFeatureSpecification', name: 'Washing Machine', value: true },
-      { '@type': 'LocationFeatureSpecification', name: 'Weekly Cleaning', value: true },
     ],
     numberOfRooms: 4,
     petsAllowed: false,

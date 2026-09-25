@@ -28,11 +28,11 @@ Ceny se liší podle sezóny a obsazenosti. Pro dlouhodobé pobyty nabízíme zv
 
 - Plně zařízené ubytování s kuchyní (sporák, trouba, mikrovlnka, lednice, nádobí)
 - Vysokorychlostní Wi-Fi a televize s plochou obrazovkou
-- Ložní prádlo a ručníky, výměna jednou týdně
-- Úklid jednou týdně
 - Použití pračky, sušička na vyžádání
 - Bezplatná parkovací místa u domu
 - Žádné zprostředkovatelské poplatky – rezervujete přímo u Gnann Verwaltung GmbH
+
+**Volitelně k přiobjednání:** ložní prádlo a ručníky s výměnou jednou týdně a týdenní úklid.
 
 ## Krátkodobě, dlouhodobě, nebo opakovaně?
 

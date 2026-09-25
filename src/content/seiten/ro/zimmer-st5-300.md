@@ -34,7 +34,7 @@ Prețurile variază în funcție de sezon și de grad de ocupare. Pentru șederi
 
 ## Dotări
 
-WLAN gratuit de mare viteză, televizor cu ecran plat în fiecare cameră, bucătărie complet utilată cu plită, cuptor, cuptor cu microunde, frigider și vase, mașină de spălat (uscător la cerere), lenjerie de pat și prosoape schimbate săptămânal, precum și curățenie săptămânală. De pe Stiermannstraße ajungeți rapid la autostrada A8 și la drumul B17, iar la Messe Augsburg în aproximativ 15 minute.
+WLAN gratuit de mare viteză, televizor cu ecran plat în fiecare cameră, bucătărie complet utilată cu plită, cuptor, cuptor cu microunde, frigider și vase, mașină de spălat (uscător la cerere); opțional se pot rezerva lenjerie de pat și prosoape schimbate săptămânal, precum și curățenie săptămânală. De pe Stiermannstraße ajungeți rapid la autostrada A8 și la drumul B17, iar la Messe Augsburg în aproximativ 15 minute.
 
 ## Cum rezervați unitatea III
 

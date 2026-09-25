@@ -23,9 +23,8 @@ On large projects with many workers, a normal apartment soon reaches its limits:
 - Fully equipped kitchen with hob, oven, microwave, fridge and crockery
 - Free high-speed Wi-Fi and flat-screen TV
 - Washing machine, tumble dryer on request
-- Bed linen and towels included, changed weekly
-- Weekly cleaning
 - Garden with barbecue area, parking at the house
+- Optional extras: bed linen and towels changed weekly, and weekly cleaning
 
 ## Which size is right?
 

@@ -34,7 +34,7 @@ Ceny zależą od sezonu i obłożenia. Przy pobytach długoterminowych oferujemy
 
 ## Wyposażenie
 
-Bezpłatne szybkie Wi-Fi, telewizor z płaskim ekranem w każdym pokoju, w pełni wyposażona kuchnia z kuchenką, piekarnikiem, mikrofalówką, lodówką i naczyniami, pralka (suszarka na życzenie), pościel i ręczniki wymieniane co tydzień oraz cotygodniowe sprzątanie. Ze Stiermannstraße szybko dojadą Państwo do autostrady A8 i drogi B17, a do Messe Augsburg w ok. 15 minut.
+Bezpłatne szybkie Wi-Fi, telewizor z płaskim ekranem w każdym pokoju, w pełni wyposażona kuchnia z kuchenką, piekarnikiem, mikrofalówką, lodówką i naczyniami, pralka (suszarka na życzenie); opcjonalnie można zamówić pościel i ręczniki z cotygodniową wymianą oraz cotygodniowe sprzątanie. Ze Stiermannstraße szybko dojadą Państwo do autostrady A8 i drogi B17, a do Messe Augsburg w ok. 15 minut.
 
 ## Jak zarezerwować obiekt I
 

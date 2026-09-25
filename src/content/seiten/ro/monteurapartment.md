@@ -24,9 +24,8 @@ Dacă echipa dumneavoastră vine cu mai mult de patru persoane, un [apartament p
 - Bucătărie complet utilată, cu plită, cuptor, cuptor cu microunde, frigider și vase
 - WLAN gratuit de mare viteză și televizor cu ecran plat
 - Mașină de spălat, uscător la cerere
-- Lenjerie de pat și prosoape incluse, schimbate săptămânal
-- Curățenie săptămânală
 - Parcare gratuită
+- Servicii opționale, rezervabile suplimentar: lenjerie de pat și prosoape schimbate săptămânal, precum și curățenie săptămânală
 
 ## Comparație de preț: apartament sau cameră single?
 

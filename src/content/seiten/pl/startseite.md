@@ -6,7 +6,7 @@
 | Lokalizacje | kilka w obrębie miasta, m.in. Barfüßerstraße 7 (centrum) i Stiermannstraße |
 | Ceny | od 12 € (mieszkanie od 10 os.), 15 € (pokój wieloosobowy), 18 € (pokój dwuosobowy), 25 € (pokój jednoosobowy) za osobę/noc |
 | Pojemność | od pojedynczych osób po ekipy liczące 20 osób |
-| Wyposażenie | Wi-Fi, TV, kuchnia, pralka, pościel i ręczniki, cotygodniowe sprzątanie |
+| Wyposażenie | Wi-Fi, TV, kuchnia, pralka; opcjonalnie do zamówienia: pościel i ręczniki, cotygodniowe sprzątanie |
 | Parking | bezpłatne miejsca parkingowe bezpośrednio przy budynku |
 | Zameldowanie / wymeldowanie | od 15:00 / do 10:00, inne godziny po uzgodnieniu |
 | Minimalny pobyt | 1 noc, specjalne warunki przy dłuższych pobytach |
@@ -42,9 +42,9 @@ Nasze noclegi są przeznaczone dla osób, które pracują w Augsburgu i nie mog�
 - **Telewizor z płaskim ekranem** w każdym pokoju i w pomieszczeniach wspólnych
 - **W pełni wyposażona kuchnia** z kuchenką, piekarnikiem, mikrofalówką, lodówką i naczyniami – samodzielne przygotowywanie posiłków pozwala oszczędzić na dietach
 - **Pralka**, suszarka na życzenie
-- **Pościel i ręczniki** w cenie, wymiana co tydzień
-- **Cotygodniowe sprzątanie** lokalu
 - **Bezpłatne miejsca parkingowe** bezpośrednio przy budynku
+
+**Opcjonalnie do zamówienia:** pościel i ręczniki z cotygodniową wymianą oraz cotygodniowe sprzątanie.
 
 ## Jak wygląda rezerwacja dla firm
 
@@ -94,7 +94,7 @@ Tak. Oferujemy noclegi zarówno dla pojedynczych osób, jak i dla całych ekip l
 
 ### Czy pościel i ręczniki są zapewnione?
 
-Tak, pościel i ręczniki są wliczone w cenę i wymieniane co tydzień.
+Na życzenie: pościel i ręczniki (z cotygodniową wymianą) oraz cotygodniowe sprzątanie można zamówić opcjonalnie. Nie są one wliczone w cenę noclegu.
 
 ### Czy jest kuchnia?
 

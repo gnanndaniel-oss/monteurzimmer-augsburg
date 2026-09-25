@@ -23,9 +23,8 @@ Bei großen Projekten mit vielen Mitarbeitern stößt eine normale Wohnung an Gr
 - Voll ausgestattete Küche mit Herd, Ofen, Mikrowelle, Kühlschrank und Geschirr
 - Kostenloses Highspeed-WLAN und Flachbild-TV
 - Waschmaschine, Trockner auf Anfrage
-- Bettwäsche und Handtücher inklusive, wöchentlicher Wechsel
-- Wöchentliche Reinigung
 - Garten mit Grillplatz, Parkplätze am Haus
+- Optional zubuchbar: Bettwäsche und Handtücher mit wöchentlichem Wechsel sowie wöchentliche Reinigung
 
 ## Welche Größe passt?
 
