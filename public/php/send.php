@@ -70,7 +70,7 @@ $roomTypes = [
 $roomTypeLabel = $roomTypes[$roomType] ?? $roomType;
 
 // E-Mail zusammenbauen
-$to = 'kontakt@augsburg-apartments.de, kontakt@apartment-augsburg.de';
+$to = 'kontakt@augsburg-apartments.de'; // kontakt@apartment-augsburg.de ist eine Weiterleitung auf diese Adresse
 $subject = "Neue Anfrage: {$roomTypeLabel} - {$name} ({$persons} Pers.)";
 
 $body = "=== NEUE RESERVIERUNGSANFRAGE ===\n\n";
